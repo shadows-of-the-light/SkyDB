@@ -34,7 +34,7 @@ We don't have access to beta on PC yet and if we did, I don't have access to Sky
 >
 > -- [Wikipedia](https://en.wikipedia.org/wiki/PhyreEngine)
 
-The rendering engine is made in-house by TGC.
+The rendering engine was made in-house by TGC.
 
 > They were constantly refining the game’s look and feel, including developing a custom Metal engine to render Sky’s ethereal scenes (...)
 >
@@ -50,8 +50,15 @@ If Sky Beta comes to PC, we need someone with access to provide the beta game fi
 
 Some files are not readable. If you figure out how does a file format work, [fork the repo](https://github.com/CsakiTheOne/SkyDB/fork), put every detail in the [tools folder](./tools/) and [create a pull request](https://github.com/CsakiTheOne/SkyDB/pulls).
 
-Information we welcome:
+- [tools](./tools/)
+  - [topic's folder, for example textures]
+    - README.md
+      - which software is used to make that file
+      - links to useful resources
+      - how to open / view a file
+      - how to edit a file
+      - etc.
+    - [example files to test on]
+    - [self-made small executables]
 
-- how to open / view a file
-- how to edit a file
-- which software is used to make that file
+Don't put whole programs in the tools folder! It's enough to put a link of the software in that topic's `README.md`` file.
