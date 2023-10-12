@@ -39,3 +39,13 @@ The rendering engine is made in-house by TGC.
 > They were constantly refining the game’s look and feel, including developing a custom Metal engine to render Sky’s ethereal scenes (...)
 >
 > -- [An interview with Jenova Chen](https://developer.apple.com/news/?id=zm47it7t)
+
+## Contributing
+
+### Sky Beta
+
+If Sky Beta comes to PC, we need someone with access to provide the beta game files here. If you have access, [create an issue](https://github.com/CsakiTheOne/SkyDB/issues/new/choose).
+
+### Tools
+
+Some files are not readable. If you figure out how does a file format work, [fork the repo](https://github.com/CsakiTheOne/SkyDB/fork), put every detail in the [tools folder](./tools/) and [create a pull request](https://github.com/CsakiTheOne/SkyDB/pulls).
