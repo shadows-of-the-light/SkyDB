@@ -1,0 +1,19 @@
+# Ignore TGC logo
+/data/tgc_logo.wav
+
+# Ignore non-readable level files
+/data/assets/*/Data/Levels/*/*.meshes
+/data/assets/*/Data/Levels/*/*.level.bin
+
+# Ignore vibration patterns
+*.bnvib
+
+# Ignore compiled lua files
+*.lua.luac
+
+# Ignore shaders
+**/Shaders/**
+
+# Sound / music files
+# They would be nice to have, but they are just too large to store in a repo
+*.bank
