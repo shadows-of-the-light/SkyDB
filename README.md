@@ -61,4 +61,4 @@ Some files are not readable. If you figure out how does a file format work, [for
     - [example files to test on]
     - [self-made small executables]
 
-Don't put whole programs in the tools folder! It's enough to put a link of the software in that topic's `README.md`` file.
+Don't put whole programs in the tools folder! It's enough to put a link of the software in that topic's `README.md` file.
