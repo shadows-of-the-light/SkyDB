@@ -16,4 +16,4 @@
 
 # Sound / music files
 # They would be nice to have, but they are just too large to store in a repo
-*.bank
+/data/**/*.bank

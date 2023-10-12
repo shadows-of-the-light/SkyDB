@@ -49,3 +49,9 @@ If Sky Beta comes to PC, we need someone with access to provide the beta game fi
 ### Tools
 
 Some files are not readable. If you figure out how does a file format work, [fork the repo](https://github.com/CsakiTheOne/SkyDB/fork), put every detail in the [tools folder](./tools/) and [create a pull request](https://github.com/CsakiTheOne/SkyDB/pulls).
+
+Information we welcome:
+
+- how to open / view a file
+- how to edit a file
+- which software is used to make that file
