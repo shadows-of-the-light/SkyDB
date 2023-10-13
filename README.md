@@ -46,19 +46,6 @@ The rendering engine was made in-house by TGC.
 
 If Sky Beta comes to PC, we need someone with access to provide the beta game files here. If you have access, [create an issue](https://github.com/CsakiTheOne/SkyDB/issues/new/choose).
 
-### Tools
+### Unreadable resources
 
-Some files are not readable. If you figure out how does a file format work, [fork the repo](https://github.com/CsakiTheOne/SkyDB/fork), put every detail in the [tools folder](./tools/) and [create a pull request](https://github.com/CsakiTheOne/SkyDB/pulls).
-
-- [tools](./tools/)
-  - [topic's folder, for example textures]
-    - README.md
-      - which software is used to make that file
-      - links to useful resources
-      - how to open / view a file
-      - how to edit a file
-      - etc.
-    - [example files to test on]
-    - [self-made small executables]
-
-Don't put whole programs in the tools folder! It's enough to put a link of the software in that topic's `README.md` file.
+There are unreadable files in the game, for example models, the executable, FMOD banks, etc. Plase do not try to decompile or disassemble these since it's against [TGC's ToS](https://thatgamecompany.helpshift.com/hc/en/17-sky-children-of-the-light/faq/460-eula-terms-of-service/)!
