@@ -6,7 +6,7 @@ For example during the PC demo we discovered that controls remapping and more gr
 
 ## 🔎 Findings
 
-We put findings in the [findings](./findings) folder. Each update has its own file. If you want to contribute, please read the [contributing](#contributing) section.
+We put findings in the [findings](./findings) folder. Each update has its own file. If you want to contribute, please read the [contributing](#❤-contributing) section.
 
 If you want to find cool things yourself, but don't know where to start, I recommend starting with checking previous findings or the [localization files](./data/Strings/Base.lproj/Localizable.strings). (Those are readable and contain a lot of interesting stuff.)
 
