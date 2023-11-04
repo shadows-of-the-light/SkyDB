@@ -13,3 +13,7 @@
 
 # Ignore shaders
 **/Shaders/**
+
+# Ignore large files
+*.bank
+*.meshes
