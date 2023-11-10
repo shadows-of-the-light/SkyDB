@@ -37,7 +37,6 @@ resource "Mesh" "DCylinderHollow" { source = "DCylinderHollow.fbx", computeOcclu
 resource "Mesh" "Darkshroom_PlantA_01" { source = "Darkshroom_PlantA_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "Darkshroom_PlantA_03" { source = "Darkshroom_PlantA_03.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "Darkshroom_SporeA_02_lo" { source = "Darkshroom_SporeA_02_lo.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
-resource "Mesh" "DawnFlagPost_01" { source = "DawnFlagPost_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DawnFlagsAnimCham_01" { source = "DawnFlagsAnimCham_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "DawnFlagsAnim_01" { source = "DawnFlagsAnim_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DawnFlagsAnim_03" { source = "DawnFlagsAnim_03.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -45,6 +44,7 @@ resource "Mesh" "DawnFlagsKnot_02" { source = "DawnFlagsKnot_02.fbx", computeOcc
 resource "Mesh" "DawnFlags_01" { source = "DawnFlags_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DawnFlags_03" { source = "DawnFlags_03.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DayIslandSteps_01" { source = "DayIslandSteps_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "FlagELoseAnim02" { source = "FlagELoseAnim02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "FlappingManta_01" { source = "FlappingManta_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "FlappingManta_02" { source = "FlappingManta_02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "FlappingManta_03" { source = "FlappingManta_03.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -58,7 +58,7 @@ resource "Mesh" "NavigatorFlag" { source = "NavigatorFlag.fbx", computeOcclusion
 resource "Mesh" "NightShelfBooks_01" { source = "NightShelfBooks_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "OrbitEndTilingFlameCard" { source = "OrbitEndTilingFlameCard.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "Plane" { source = "Plane.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
-resource "Mesh" "PrairieIslandWater_01" { source = "PrairieIslandWater_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
+resource "Mesh" "PrairieIslandWater_02" { source = "PrairieIslandWater_02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "PropAP10HangingLanternStem_01" { source = "PropAP10HangingLanternStem_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "PropAP10HangingLantern_01" { source = "PropAP10HangingLantern_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "PropAP10HangingLantern_02" { source = "PropAP10HangingLantern_02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -109,6 +109,7 @@ resource "Mesh" "SkywayGate_02" { source = "SkywayGate_02.fbx", computeOcclusion
 resource "Mesh" "SkywayMainGateMural_01" { source = "SkywayMainGateMural_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "SkywayMainGateRope_01" { source = "SkywayMainGateRope_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "SkywayMainGate_01" { source = "SkywayMainGate_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "SkywayMainStreetMarker_01" { source = "SkywayMainStreetMarker_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "SkywayWindvine_01" { source = "SkywayWindvine_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "SpRockG" { source = "SpRockG.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "SpRockR" { source = "SpRockR.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -170,9 +171,11 @@ resourceref "Image" "CharSkyRayBasicTexSh"
 resourceref "Image" "Clear"
 resourceref "Image" "CloudFarTex"
 resourceref "Image" "CloudFinTex"
+resourceref "Image" "CyanD1"
 resourceref "Image" "Gray"
 resourceref "Image" "GrayL1"
 resourceref "Image" "GrayL2"
+resourceref "Image" "Magenta"
 resourceref "Image" "Noise3Ch"
 resourceref "Image" "Orange"
 resourceref "Image" "OrangeD1"
@@ -181,7 +184,9 @@ resourceref "Image" "OrangeL1"
 resourceref "Image" "OrangeL2"
 resourceref "Image" "OrbitCloudsSmall"
 resourceref "Image" "OrbitEndFlameStrip_02"
+resourceref "Image" "PurpleD3"
 resourceref "Image" "Rainbow"
+resourceref "Image" "RedD1"
 resourceref "Image" "RedL2"
 resourceref "Image" "StoneBase"
 resourceref "Image" "StoneBaseSh"

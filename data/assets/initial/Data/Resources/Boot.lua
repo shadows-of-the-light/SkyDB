@@ -54,6 +54,8 @@ resource "Shader" "CloudFluffyUndulate"			{ vs = "QuadFS.vert", fs = "CloudFluff
 resource "Shader" "CloudFluffySuperCoarse"		{ vs = "QuadFS.vert", fs = "CloudFluffy.frag", cs = "CloudFluffy.comp", defines="CLOUD_JITTER SUPER_COARSE" }
 resource "Shader" "CloudFluffyCoarse"			{ vs = "QuadFS.vert", fs = "CloudFluffy.frag", cs = "CloudFluffy.comp", defines="CLOUD_JITTER COARSE" }
 resource "Shader" "CloudFluffy"					{ vs = "QuadFS.vert", fs = "CloudFluffy.frag", cs = "CloudFluffy.comp", defines="CLOUD_JITTER" }
+resource "Shader" "CloudComplexity"				{ vs = "QuadFS.vert", fs = "CloudFluffy.frag", cs = "CloudFluffy.comp", defines="CLOUD_JITTER COMPLEXITY" }
+resource "Shader" "CloudBlur"					{ vs = "QuadFS.vert", fs = "CloudBlur.frag", defines="" }
 
 resource "Shader" "BlendedDepth"				{ vs = "QuadFS.vert", fs = "BlendedDepth.frag", defines="" }
 resource "Shader" "RainDrop"					{ group = "Blended", vs = "RainDrop.vert", fs = "RainDrop.frag", defines = "" }
@@ -85,6 +87,7 @@ resource "Shader" "AO"							{ vs = "QuadFS.vert", fs = "AO.frag", toolExport = 
 
 -- Tonemapping functionality (not for general purpose or use!)
 resource "Shader" "Tonemap_p3_display"			{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND P3 sRGB HUD FRAMEBUFFER" }
+resource "Shader" "Tonemap_p3_display_pq"		{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND P3 PQ HUD FRAMEBUFFER" }
 resource "Shader" "Tonemap_p3_linear"			{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND P3 GAMMA_10 HUD FRAMEBUFFER" }
 resource "Shader" "Tonemap_p3_dci"				{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND P3 GAMMA_26 HUD FRAMEBUFFER" }
 resource "Shader" "Tonemap_rec2020_pq"			{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND REC_2020 PQ HUD FRAMEBUFFER" }
@@ -170,7 +173,7 @@ resource "Shader" "SandRainShSkirt"				{ group = "ObjectSkirt", vs = "Terrain.ve
 resource "Shader" "Flower"						{ group = "Flowers", vs = "Flower.vert", fs = "Flower.frag", toolExport = false }
 resource "Shader" "FlowerShadow"				{ group = "FlowerShadows", vs = "Flower.vert", fs = "Flower.frag", defines = "SHADOW", toolExport = false }
 resource "Shader" "GrassBladeNew"				{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS SSBO", toolExport = false }
-resource "Shader" "GrassBlade"				{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS", toolExport = false }
+resource "Shader" "GrassBlade"					{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS", toolExport = false }
 
 -- Mesh.frag
 resource "Shader" "Mesh"						{ group = "Opaque", vs = "Mesh.vert", fs = "Mesh.frag", toolExport = true, defines="" }
@@ -198,6 +201,7 @@ resource "Shader" "CandleAura"					{ group = "BlendedBackground", vs = "CandleAu
 resource "Shader" "HeartAura"					{ group = "BlendedBackground", vs = "CandleAura.vert", fs = "CandleAura.frag", toolExport = false, defines="HEART" }
 resource "Shader" "StarAura"					{ group = "BlendedBackground", vs = "CandleAura.vert", fs = "CandleAura.frag", toolExport = false, defines="STAR" }
 resource "Shader" "Flame"						{ group = "BlendedBackground", vs = "Flame.vert", fs = "Flame.frag", toolExport = false, defines="" }
+resource "Shader" "DancingFlame"				{ group = "Flames", vs = "DancingFlame.vert", fs = "DancingFlame.frag", toolExport = false, defines="" }
 resource "Shader" "Beacon"						{ group = "Blended", vs = "Beacon.vert", fs = "Beacon.frag", toolExport = false, defines="VIEWPROJ" }
 resource "Shader" "Candle"						{ group = "Opaque", vs = "Candle.vert", fs = "Candle.frag", toolExport = false, defines="" }
 resource "Shader" "Sun"							{ group = "Opaque", vs = "Sun.vert", fs = "Sun.frag", toolExport = false, defines="" }

@@ -4213,6 +4213,75 @@
         "animPack2": "",
         "capeLevel": 0,
         "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "feast_iap_2022",
+        "outfit": {
+            "body": {
+                "id": 772190650,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -1.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.8,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
         "hasRelationshipMenu": false,
         "name": "feast_snowglobe",
         "outfit": {
@@ -7871,6 +7940,75 @@
         "capeLevel": 0,
         "ghost": false,
         "hasRelationshipMenu": true,
+        "name": "peek_ec_vendor",
+        "outfit": {
+            "body": {
+                "id": 2757535836,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 351601302,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 1.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 1227125760,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 2.0,
+            "seed": 0,
+            "wing": {
+                "id": 3561435747,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "MemAP03Poses",
+        "animPack2": "SpiritCivMEmotes",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
         "name": "playfight",
         "outfit": {
             "body": {
@@ -10838,6 +10976,75 @@
         "capeLevel": 4,
         "ghost": false,
         "hasRelationshipMenu": true,
+        "name": "questfireworks",
+        "outfit": {
+            "body": {
+                "id": 695339321,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 3225530939,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 3307772112,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 4264449179,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 3076646648,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2643573525,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 4.5,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "FatLaborAdventurePass",
+        "animPack2": "CharKidAnimPlayerAct",
+        "capeLevel": 4,
+        "ghost": false,
+        "hasRelationshipMenu": true,
         "name": "questfortunelove",
         "outfit": {
             "body": {
@@ -12834,6 +13041,144 @@
         "spirit": true
     },
     {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 2,
+        "ghost": false,
+        "hasRelationshipMenu": false,
+        "name": "shopmoth",
+        "outfit": {
+            "body": {
+                "id": 1887022437,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 3197147422,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.0,
+            "seed": 0,
+            "wing": {
+                "id": 2529994785,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 2,
+        "ghost": false,
+        "hasRelationshipMenu": false,
+        "name": "shopsparrow",
+        "outfit": {
+            "body": {
+                "id": 1887022437,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 3332990455,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.0,
+            "seed": 0,
+            "wing": {
+                "id": 3789929787,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
         "animPack": "MemAP03Poses",
         "animPack2": "SpiritCivMEmotes",
         "capeLevel": 0,
@@ -13869,6 +14214,75 @@
         "spirit": true
     },
     {
+        "animPack": "FatLaborAdventurePass",
+        "animPack2": "CharKidAnimPlayerAct",
+        "capeLevel": 3,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "test_chibi",
+        "outfit": {
+            "body": {
+                "id": 38798400,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 3668577427,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -2.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2954671753,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.8,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": false
+    },
+    {
         "animPack": "",
         "animPack2": "",
         "capeLevel": 0,
@@ -13883,13 +14297,13 @@
                 "tex": 0
             },
             "feet": {
-                "id": 2166136261,
+                "id": 3303306080,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
             },
             "hair": {
-                "id": 1092648973,
+                "id": 310226317,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -13928,13 +14342,13 @@
             "scale": 4.0,
             "seed": 0,
             "wing": {
-                "id": 3466800656,
+                "id": 2731242012,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
             }
         },
-        "skeleton": "NPC_CivilianMaleRig",
+        "skeleton": "",
         "spirit": true
     },
     {
@@ -13997,13 +14411,13 @@
             "scale": 3.0,
             "seed": 0,
             "wing": {
-                "id": 4290017146,
+                "id": 1860979128,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
             }
         },
-        "skeleton": "NPC_CivilianMaleRig",
+        "skeleton": "",
         "spirit": true
     },
     {

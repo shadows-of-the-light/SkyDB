@@ -619,6 +619,7 @@ resourcedef "Image" "UISeasonPassPromoAP16" { source = "UISeasonPassPromoAP16.pn
 resourcedef "Image" "UISeasonPassPromoAP17" { source = "UISeasonPassPromoAP17.png", disableMips = true, compression = 4, isPremul = true }
 resourcedef "Image" "UISeasonPassPromoAP18" { source = "UISeasonPassPromoAP18.png", disableMips = true, compression = 4, isPremul = true }
 resourcedef "Image" "UISeasonPassPromoAP19" { source = "UISeasonPassPromoAP19.png", disableMips = true, compression = 4, isPremul = true }
+resourcedef "Image" "UISeasonPassPromoAP20" { source = "UISeasonPassPromoAP20.png", disableMips = true, compression = 4, isPremul = true }
 
 resourcedef "Image" "UITutorialAtlas02" { source = "UITutorialAtlas02.png", disableMips = true, compression = 4, isPremul = true }
 resourcedef "Image" "UITutorialAtlas03" { source = "UITutorialAtlas03.png", disableMips = true, compression = 4, isPremul = true }

@@ -35,6 +35,7 @@ ArcLevels = {
 	level( "Dawn_TrialsAir",			"dawn" ),
 	level( "Dawn_TrialsFire",			"dawn" ),
 	level( "MainStreet",				"dawn" ),
+	level( "MainStreetFlyingIntro",		"dawn" ),
 	level( "MainStreet_ShopOutfits",	"dawn" ),
 	level( "MainStreet_ShopSpells",		"dawn" ),
 	level( "Prairie_ButterflyFields", 	"prairie" ),
@@ -151,9 +152,6 @@ TutorialStartLevel = "Dawn"
 -- Home level. The level you start at if you have completed the tutorial
 HomeLevel = "CandleSpace"
 
--- Lobby level. The level you start at if you have completed the tutorial
-LobbyLevel = "CandleSpace"
-
 -- Current last level player can travel to
 EndLevel = "Credits"
 
@@ -170,7 +168,6 @@ if SKY_ENABLE_RETAIL_DEMO then
 	StartLevel = "RetailDemo_Dawn"
 	TutorialStartLevel = StartLevel
 	HomeLevel = StartLevel
-	LobbyLevel = StartLevel
 end
 
 -------------------------------------------------------------------------------
@@ -297,7 +294,6 @@ function GetStartLevel() return StartLevel end
 function GetEmptyLevel() return EmptyLevel end
 function GetTutorialStartLevel() return TutorialStartLevel end
 function GetHomeLevel() return HomeLevel end
-function GetLobbyLevel() return LobbyLevel end
 function GetEndLevel() return EndLevel end
 function GetCreditsLevel() return CreditsLevel end
 

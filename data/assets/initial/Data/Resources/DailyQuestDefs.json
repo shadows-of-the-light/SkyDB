@@ -4,6 +4,7 @@
         "display_type": "count",
         "icon": "",
         "id": "activate_a_2_player_door",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "activated_ancestor_engine_2_count"
@@ -13,6 +14,7 @@
         "display_type": "count",
         "icon": "",
         "id": "activate_a_4_player_door",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "activated_ancestor_engine_4_count"
@@ -22,6 +24,7 @@
         "display_type": "count",
         "icon": "",
         "id": "activate_a_8_player_door",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "activated_ancestor_engine_8_count"
@@ -31,6 +34,7 @@
         "display_type": "count",
         "icon": "",
         "id": "activate_an_engine",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "engine_activated_count"
@@ -40,6 +44,7 @@
         "display_type": "count",
         "icon": "",
         "id": "bow_at_a_player",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "bowed_at_player_count"
@@ -49,6 +54,7 @@
         "display_type": "time",
         "icon": "",
         "id": "cherry_sappling_dusk_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "cherry_sappling_dusk_01_time"
@@ -58,6 +64,7 @@
         "display_type": "time",
         "icon": "",
         "id": "cherry_sappling_night_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "cherry_sappling_night_01_time"
@@ -67,6 +74,7 @@
         "display_type": "time",
         "icon": "",
         "id": "cherry_sappling_prairie_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "cherry_sappling_prairie_01_time"
@@ -76,6 +84,7 @@
         "display_type": "time",
         "icon": "",
         "id": "cherry_sappling_rain_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "cherry_sappling_rain_01_time"
@@ -85,6 +94,7 @@
         "display_type": "time",
         "icon": "",
         "id": "cherry_sappling_sunset_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "cherry_sappling_sunset_01_time"
@@ -94,6 +104,7 @@
         "display_type": "count",
         "icon": "",
         "id": "express_an_emote_to_a_friend",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "express_an_emote_to_friends_count"
@@ -103,6 +114,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_earth",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_earth_count"
@@ -112,6 +124,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_fire",
+        "npc": "shy",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_fire_count"
@@ -121,6 +134,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_mind",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_mind_count"
@@ -130,6 +144,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_void",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_void_count"
@@ -139,6 +154,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_water",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_water_count"
@@ -148,6 +164,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fetchlight_wind",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "fetchlight_wind_count"
@@ -157,6 +174,7 @@
         "display_type": "count",
         "icon": "",
         "id": "fly_with_a_manta",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "bird_attach_count"
@@ -166,6 +184,7 @@
         "display_type": "count",
         "icon": "",
         "id": "follow_another_player",
+        "npc": "proud",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "follow_count"
@@ -175,6 +194,7 @@
         "display_type": "count",
         "icon": "",
         "id": "forge_a_candle",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "forged_candle_count"
@@ -184,6 +204,7 @@
         "display_type": "count",
         "icon": "",
         "id": "high_five_someone",
+        "npc": "wise",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "non_unique_high_five_count"
@@ -193,6 +214,7 @@
         "display_type": "count",
         "icon": "",
         "id": "hold_someones_hand",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "non_unique_hand_hold_count"
@@ -202,6 +224,7 @@
         "display_type": "count",
         "icon": "",
         "id": "hug_someone",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "non_unique_hug_count"
@@ -211,6 +234,7 @@
         "display_type": "count",
         "icon": "",
         "id": "join_a_group_of_3",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "join_3_players_count"
@@ -220,6 +244,7 @@
         "display_type": "count",
         "icon": "",
         "id": "join_a_hand_hold_group_of_4",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "hand_hold_group_size_4_count"
@@ -229,6 +254,7 @@
         "display_type": "count",
         "icon": "",
         "id": "join_a_hand_hold_group_of_8",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "hand_hold_group_size_8_count"
@@ -238,6 +264,7 @@
         "display_type": "count",
         "icon": "",
         "id": "light_20_candles",
+        "npc": "normal",
         "stat_delta": 20.0,
         "stat_group_type": "explore",
         "stat_type": "light_candle_count"
@@ -247,6 +274,7 @@
         "display_type": "count",
         "icon": "",
         "id": "lightseeker_forest",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "lightseeker_forest_count"
@@ -256,6 +284,7 @@
         "display_type": "count",
         "icon": "",
         "id": "lightseeker_prairie",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "lightseeker_prairie_count"
@@ -265,6 +294,7 @@
         "display_type": "count",
         "icon": "",
         "id": "lightseeker_valley",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "lightseeker_valley_count"
@@ -274,6 +304,7 @@
         "display_type": "count",
         "icon": "",
         "id": "lightseeker_vault",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "lightseeker_vault_count"
@@ -283,6 +314,7 @@
         "display_type": "count",
         "icon": "",
         "id": "lightseeker_wasteland",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "lightseeker_wasteland_count"
@@ -292,6 +324,7 @@
         "display_type": "count",
         "icon": "",
         "id": "make_a_new_acquaintance",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "new_acquaintance_count"
@@ -301,6 +334,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_dusk_crabfields",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_dusk_crabfields_count"
@@ -310,6 +344,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_dusk_duskmid",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_dusk_duskmid_count"
@@ -319,6 +354,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_dusk_graveyard",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_dusk_graveyard_count"
@@ -328,6 +364,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_dusk_main",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_dusk_main_count"
@@ -337,6 +374,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_dusk_oasis",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_dusk_oasis_count"
@@ -346,6 +384,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_night_main",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_night_main_count"
@@ -355,6 +394,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_night_main2",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_night_main2_count"
@@ -364,6 +404,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_night_night2",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_night_night2_count"
@@ -373,6 +414,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_butterfly",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_butterfly_count"
@@ -382,6 +424,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_cave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_cave_count"
@@ -391,6 +434,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_island",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_island_count"
@@ -400,6 +444,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_nestkeeper",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_nestkeeper_count"
@@ -409,6 +454,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_village_faerie",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_village_faerie_count"
@@ -418,6 +464,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_prairie_village_koi",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_prairie_village_koi_count"
@@ -427,6 +474,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_rain_main",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_rain_main_count"
@@ -436,6 +484,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_rain_rainend",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_rain_rainend_count"
@@ -445,6 +494,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_rain_rainforest",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_rain_rainforest_count"
@@ -454,6 +504,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_rain_rainmid",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_rain_rainmid_count"
@@ -463,6 +514,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_rain_shelter",
+        "npc": "cold",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_rain_shelter_count"
@@ -472,6 +524,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_sunset_citadel",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_sunset_citadel_count"
@@ -481,6 +534,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_sunset_citadel2",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_sunset_citadel2_count"
@@ -490,6 +544,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_sunset_main",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_sunset_main_count"
@@ -499,6 +554,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_sunset_raceend",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_sunset_raceend_count"
@@ -508,6 +564,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_tgc_office_nye",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_tgc_office_nye_count"
@@ -517,6 +574,7 @@
         "display_type": "count",
         "icon": "",
         "id": "meditate_tgc_office_xmas",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "meditate_tgc_office_xmas_count"
@@ -526,6 +584,7 @@
         "display_type": "count",
         "icon": "",
         "id": "melt_10_darkstones",
+        "npc": "proud",
         "stat_delta": 10.0,
         "stat_group_type": "collect",
         "stat_type": "darkstone_melted_count"
@@ -535,6 +594,7 @@
         "display_type": "count",
         "icon": "",
         "id": "pickup_30_wax",
+        "npc": "normal",
         "stat_delta": 30.0,
         "stat_group_type": "explore",
         "stat_type": "wax_pickup_count"
@@ -544,6 +604,7 @@
         "display_type": "time",
         "icon": "",
         "id": "rainbow_rainbow_dusk_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "rainbow_rainbow_dusk_01_time"
@@ -553,6 +614,7 @@
         "display_type": "time",
         "icon": "",
         "id": "rainbow_rainbow_night_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "rainbow_rainbow_night_01_time"
@@ -562,6 +624,7 @@
         "display_type": "time",
         "icon": "",
         "id": "rainbow_rainbow_prairie_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "rainbow_rainbow_prairie_01_time"
@@ -571,6 +634,7 @@
         "display_type": "time",
         "icon": "",
         "id": "rainbow_rainbow_rain_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "rainbow_rainbow_rain_01_time"
@@ -580,6 +644,7 @@
         "display_type": "time",
         "icon": "",
         "id": "rainbow_rainbow_sunset_01",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "rainbow_rainbow_sunset_01_time"
@@ -589,6 +654,7 @@
         "display_type": "count",
         "icon": "",
         "id": "receive_a_gift",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "received_gift_count"
@@ -598,6 +664,7 @@
         "display_type": "count",
         "icon": "",
         "id": "recharge_another_avatar",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "remote_avatar_charge_count"
@@ -607,6 +674,7 @@
         "display_type": "count",
         "icon": "",
         "id": "recharge_by_avatar",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "avatar_charge_count"
@@ -616,6 +684,7 @@
         "display_type": "count",
         "icon": "",
         "id": "recharge_by_flower",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "flower_charge_count"
@@ -625,6 +694,7 @@
         "display_type": "count",
         "icon": "",
         "id": "recharge_by_jellyfish",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "jellyfish_charge_count"
@@ -634,6 +704,7 @@
         "display_type": "count",
         "icon": "",
         "id": "recharge_by_shroom",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "shroom_charge_count"
@@ -643,6 +714,7 @@
         "display_type": "count",
         "icon": "",
         "id": "rescue_a_manta_from_darkstone",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "birds_released_count"
@@ -652,6 +724,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "collectible_count"
@@ -661,6 +734,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit_in_day",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "day_collectibles_collected_count"
@@ -670,6 +744,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit_in_dusk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "dusk_collectibles_collected_count"
@@ -679,6 +754,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit_in_night",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "night_collectibles_collected_count"
@@ -688,6 +764,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit_in_rain",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "rain_collectibles_collected_count"
@@ -697,6 +774,7 @@
         "display_type": "count",
         "icon": "",
         "id": "save_a_spirit_in_sunset",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "narrative",
         "stat_type": "sunset_collectibles_collected_count"
@@ -706,6 +784,7 @@
         "display_type": "count",
         "icon": "",
         "id": "seen_by_dark_creature",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "seen_by_dark_creature_count"
@@ -715,6 +794,7 @@
         "display_type": "count",
         "icon": "",
         "id": "send_a_gift",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "sent_gift_count"
@@ -724,6 +804,7 @@
         "display_type": "count",
         "icon": "",
         "id": "shoute_at_5_crabs",
+        "npc": "normal",
         "stat_delta": 5.0,
         "stat_group_type": "collect",
         "stat_type": "shoute_at_crab_count"
@@ -733,6 +814,7 @@
         "display_type": "count",
         "icon": "",
         "id": "sit_at_a_bench_with_a_stranger",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "sit_at_a_bench_with_a_stranger_count"
@@ -742,6 +824,7 @@
         "display_type": "count",
         "icon": "UiEmoteBow",
         "id": "spirit_bow",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_bow_count"
@@ -751,6 +834,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceWide",
         "id": "spirit_brave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_brave_count"
@@ -760,6 +844,7 @@
         "display_type": "count",
         "icon": "UiEmoteButterfly",
         "id": "spirit_butterfly",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_butterfly_count"
@@ -769,6 +854,7 @@
         "display_type": "count",
         "icon": "UiEmoteCold",
         "id": "spirit_cold",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_cold_count"
@@ -778,6 +864,7 @@
         "display_type": "count",
         "icon": "UiEmoteCry",
         "id": "spirit_cry",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_cry_count"
@@ -787,6 +874,7 @@
         "display_type": "count",
         "icon": "UiEmoteForce",
         "id": "spirit_force",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_force_count"
@@ -796,6 +884,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceSolemn",
         "id": "spirit_love",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_love_count"
@@ -805,6 +894,7 @@
         "display_type": "count",
         "icon": "UiEmoteScared",
         "id": "spirit_scared",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_scared_count"
@@ -814,6 +904,7 @@
         "display_type": "count",
         "icon": "UiMenuCamera",
         "id": "spirit_selfie_crabvoice",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_selfie_crabvoice_count"
@@ -823,6 +914,7 @@
         "display_type": "count",
         "icon": "UiMenuCamera",
         "id": "spirit_selfie_crabwalk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_selfie_crabwalk_count"
@@ -832,6 +924,7 @@
         "display_type": "count",
         "icon": "UiMenuCamera",
         "id": "spirit_selfie_evillaugh",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_selfie_evillaugh_count"
@@ -841,6 +934,7 @@
         "display_type": "count",
         "icon": "UiMenuCamera",
         "id": "spirit_selfie_grumpy",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_selfie_grumpy_count"
@@ -850,6 +944,7 @@
         "display_type": "count",
         "icon": "UiMenuCamera",
         "id": "spirit_selfie_welcome",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_selfie_welcome_count"
@@ -859,6 +954,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceHero",
         "id": "spirit_strong",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_strong_count"
@@ -868,6 +964,7 @@
         "display_type": "count",
         "icon": "UiEmoteWave0",
         "id": "spirit_wave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "spirit_wave_count"
@@ -877,6 +974,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_dusk_spitroast",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_dusk_spitroast_count"
@@ -886,6 +984,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_island_pollution",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_island_pollution_count"
@@ -895,6 +994,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_night_waterfall",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_night_waterfall_count"
@@ -904,6 +1004,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_prairie_cozycave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_prairie_cozycave_count"
@@ -913,6 +1014,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rain_bonfirecamp",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rain_bonfirecamp_count"
@@ -922,6 +1024,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rain_grandmatable",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rain_grandmatable_count"
@@ -931,6 +1034,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbow_dusk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbow_dusk_count"
@@ -940,6 +1044,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbow_night",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbow_night_count"
@@ -949,6 +1054,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbow_prairie",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbow_prairie_count"
@@ -958,6 +1064,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbow_rain",
+        "npc": "proud",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbow_rain_count"
@@ -967,6 +1074,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbow_sunset",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbow_sunset_count"
@@ -976,6 +1084,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbowdeux_dusk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbowdeux_dusk_count"
@@ -985,6 +1094,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbowdeux_night",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbowdeux_night_count"
@@ -994,6 +1104,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbowdeux_prairie",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbowdeux_prairie_count"
@@ -1003,6 +1114,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbowdeux_rain",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbowdeux_rain_count"
@@ -1012,6 +1124,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_rainbowdeux_sunset",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_rainbowdeux_sunset_count"
@@ -1021,6 +1134,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_skyway_speedtube",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_skyway_speedtube_count"
@@ -1030,6 +1144,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_stormy_event",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_stormy_event_count"
@@ -1039,6 +1154,7 @@
         "display_type": "time",
         "icon": "",
         "id": "visit_sunset_hotspring",
+        "npc": "normal",
         "stat_delta": 60.0,
         "stat_group_type": "social",
         "stat_type": "visit_sunset_hotspring_time"
@@ -1048,6 +1164,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_sunset_labyrinth",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_sunset_labyrinth_count"
@@ -1057,6 +1174,7 @@
         "display_type": "count",
         "icon": "",
         "id": "visit_tgc_office_staff",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "explore",
         "stat_type": "visit_tgc_office_staff_count"
@@ -1066,6 +1184,7 @@
         "display_type": "count",
         "icon": "",
         "id": "wave_at_a_friend",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "social",
         "stat_type": "wave_at_friend_count"
@@ -1075,6 +1194,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap09_fetch_01",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap09_fetch_01_count"
@@ -1084,6 +1204,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap09_fetch_02",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap09_fetch_02_count"
@@ -1093,6 +1214,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap09_fetch_03",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap09_fetch_03_count"
@@ -1102,6 +1224,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap09_fetch_04",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap09_fetch_04_count"
@@ -1111,6 +1234,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_01",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_01_count"
@@ -1120,6 +1244,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_02",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_02_count"
@@ -1129,6 +1254,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_03",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_03_count"
@@ -1138,6 +1264,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_04",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_04_count"
@@ -1147,6 +1274,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_05",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_05_count"
@@ -1156,6 +1284,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_ap10_fetch_06",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_ap10_fetch_06_count"
@@ -1165,6 +1294,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_balance",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_balance_count"
@@ -1174,6 +1304,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_carry",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_carry_count"
@@ -1183,6 +1314,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_chestpound",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_chestpound_count"
@@ -1192,6 +1324,7 @@
         "display_type": "count",
         "icon": "UiEmoteCome",
         "id": "world_quest_dawn_come",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_come_count"
@@ -1201,6 +1334,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_deepbreath",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_deepbreath_count"
@@ -1210,6 +1344,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_dustoff",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_dustoff_count"
@@ -1219,6 +1354,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_loopdance",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_loopdance_count"
@@ -1228,6 +1364,7 @@
         "display_type": "count",
         "icon": "UiEmoteNoThanks",
         "id": "world_quest_dawn_nothanks",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_nothanks_count"
@@ -1237,6 +1374,7 @@
         "display_type": "count",
         "icon": "UiEmotePoint",
         "id": "world_quest_dawn_point",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_point_count"
@@ -1246,6 +1384,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dawn_sass",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dawn_sass_count"
@@ -1255,6 +1394,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dusk_acknowledge",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_acknowledge_count"
@@ -1264,6 +1404,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceWide",
         "id": "world_quest_dusk_brave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_brave_count"
@@ -1273,6 +1414,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dusk_crabvoice",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_crabvoice_count"
@@ -1282,6 +1424,7 @@
         "display_type": "count",
         "icon": "UiEmoteFaint",
         "id": "world_quest_dusk_die",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_die_count"
@@ -1291,6 +1434,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dusk_dontgo",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_dontgo_count"
@@ -1300,6 +1444,7 @@
         "display_type": "count",
         "icon": "UiEmoteLookAround",
         "id": "world_quest_dusk_lookaround",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_lookaround_count"
@@ -1309,6 +1454,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_dusk_respect",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_respect_count"
@@ -1318,6 +1464,7 @@
         "display_type": "count",
         "icon": "UiEmoteSalute",
         "id": "world_quest_dusk_salute",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_salute_count"
@@ -1327,6 +1474,7 @@
         "display_type": "count",
         "icon": "UiEmoteScared",
         "id": "world_quest_dusk_scared",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_scared_count"
@@ -1336,6 +1484,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceSneak",
         "id": "world_quest_dusk_sneaky",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_dusk_sneaky_count"
@@ -1345,6 +1494,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_nature_vortex1",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_nature_vortex1_count"
@@ -1354,6 +1504,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_nature_vortex2",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_nature_vortex2_count"
@@ -1363,6 +1514,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_nature_vortex3",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_nature_vortex3_count"
@@ -1372,6 +1524,7 @@
         "display_type": "count",
         "icon": "UiEmoteFloat",
         "id": "world_quest_night_float",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_float_count"
@@ -1381,6 +1534,7 @@
         "display_type": "count",
         "icon": "UiEmoteForce",
         "id": "world_quest_night_force",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_force_count"
@@ -1390,6 +1544,7 @@
         "display_type": "count",
         "icon": "UiEmoteCallGhostManta",
         "id": "world_quest_night_ghost",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_ghost_count"
@@ -1399,6 +1554,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_night_kungfu",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_kungfu_count"
@@ -1408,6 +1564,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceSolemn",
         "id": "world_quest_night_love",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_love_count"
@@ -1417,6 +1574,7 @@
         "display_type": "count",
         "icon": "UiEmotePray",
         "id": "world_quest_night_pray",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_pray_count"
@@ -1426,6 +1584,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_night_shh",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_shh_count"
@@ -1435,6 +1594,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_night_think",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_think_count"
@@ -1444,6 +1604,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_night_wise",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_night_wise_count"
@@ -1453,6 +1614,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_crabwalk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_crabwalk_count"
@@ -1462,6 +1624,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_doze",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_doze_count"
@@ -1471,6 +1634,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_nod",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_nod_count"
@@ -1480,6 +1644,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_playfight",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_playfight_count"
@@ -1489,6 +1654,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_scare",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_scare_count"
@@ -1498,6 +1664,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_oasis_shrug",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_oasis_shrug_count"
@@ -1507,6 +1674,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_bellyscratch",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_bellyscratch_count"
@@ -1516,6 +1684,7 @@
         "display_type": "count",
         "icon": "UiEmoteCallBird",
         "id": "world_quest_prairie_bird",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_bird_count"
@@ -1525,6 +1694,7 @@
         "display_type": "count",
         "icon": "UiEmoteButterfly",
         "id": "world_quest_prairie_butterfly",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_butterfly_count"
@@ -1534,6 +1704,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_celebrate",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_celebrate_count"
@@ -1543,6 +1714,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_dance",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_dance_count"
@@ -1552,6 +1724,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_doublefive",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_doublefive_count"
@@ -1561,6 +1734,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_gratitude",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_gratitude_count"
@@ -1570,6 +1744,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_grumpy",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_grumpy_count"
@@ -1579,6 +1754,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_jelly",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_jelly_count"
@@ -1588,6 +1764,7 @@
         "display_type": "count",
         "icon": "UiEmoteLaugh",
         "id": "world_quest_prairie_laugh",
+        "npc": "shy",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_laugh_count"
@@ -1597,6 +1774,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_rally",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_rally_count"
@@ -1606,6 +1784,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_salutation",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_salutation_count"
@@ -1615,6 +1794,7 @@
         "display_type": "count",
         "icon": "UiEmoteClap",
         "id": "world_quest_prairie_thumbsup",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_thumbsup_count"
@@ -1624,6 +1804,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_prairie_timid",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_timid_count"
@@ -1633,6 +1814,7 @@
         "display_type": "count",
         "icon": "UiEmoteWaveAnim",
         "id": "world_quest_prairie_wave",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_wave_count"
@@ -1642,6 +1824,7 @@
         "display_type": "count",
         "icon": "UiEmoteSweat",
         "id": "world_quest_prairie_wipe",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_wipe_count"
@@ -1651,6 +1834,7 @@
         "display_type": "count",
         "icon": "UiEmoteYawn",
         "id": "world_quest_prairie_yawn",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_prairie_yawn_count"
@@ -1660,6 +1844,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_bubbles",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_bubbles_count"
@@ -1669,6 +1854,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_chuckle",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_chuckle_count"
@@ -1678,6 +1864,7 @@
         "display_type": "count",
         "icon": "UiEmoteCold",
         "id": "world_quest_rain_cold",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_cold_count"
@@ -1687,6 +1874,7 @@
         "display_type": "count",
         "icon": "UiEmoteCry",
         "id": "world_quest_rain_cry",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_cry_count"
@@ -1696,6 +1884,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_eww",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_eww_count"
@@ -1705,6 +1894,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_facepalm",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_facepalm_count"
@@ -1714,6 +1904,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_hairtousle",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_hairtousle_count"
@@ -1723,6 +1914,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_kiss",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_kiss_count"
@@ -1732,6 +1924,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_lazycool",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_lazycool_count"
@@ -1741,6 +1934,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_marching",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_marching_count"
@@ -1750,6 +1944,7 @@
         "display_type": "count",
         "icon": "UiEmoteStress",
         "id": "world_quest_rain_ohno",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_ohno_count"
@@ -1759,6 +1954,7 @@
         "display_type": "count",
         "icon": "UiEmoteAngry",
         "id": "world_quest_rain_pout",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_pout_count"
@@ -1768,6 +1964,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_sarcastic",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_sarcastic_count"
@@ -1777,6 +1974,7 @@
         "display_type": "count",
         "icon": "UiEmoteHideSeek",
         "id": "world_quest_rain_seek",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_seek_count"
@@ -1786,6 +1984,7 @@
         "display_type": "count",
         "icon": "UiEmoteShy",
         "id": "world_quest_rain_shy",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_shy_count"
@@ -1795,6 +1994,7 @@
         "display_type": "count",
         "icon": "UiEmoteApologize",
         "id": "world_quest_rain_sorry",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_sorry_count"
@@ -1804,6 +2004,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_rain_tsktsk",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_tsktsk_count"
@@ -1813,6 +2014,7 @@
         "display_type": "count",
         "icon": "UiEmoteCallFish",
         "id": "world_quest_rain_whale",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_rain_whale_count"
@@ -1822,6 +2024,7 @@
         "display_type": "count",
         "icon": "UiEmoteBackflip",
         "id": "world_quest_sunset_backflip",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_backflip_count"
@@ -1831,6 +2034,7 @@
         "display_type": "count",
         "icon": "UiEmoteBow",
         "id": "world_quest_sunset_bow",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_bow_count"
@@ -1840,6 +2044,7 @@
         "display_type": "count",
         "icon": "UiEmoteCheer",
         "id": "world_quest_sunset_cheer",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_cheer_count"
@@ -1849,6 +2054,7 @@
         "display_type": "count",
         "icon": "UiEmoteHandstand",
         "id": "world_quest_sunset_handstand",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_handstand_count"
@@ -1858,6 +2064,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_joy",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_joy_count"
@@ -1867,6 +2074,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_juggle",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_juggle_count"
@@ -1876,6 +2084,7 @@
         "display_type": "count",
         "icon": "UiEmoteCallManta",
         "id": "world_quest_sunset_manta",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_manta_count"
@@ -1885,6 +2094,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceCrossArm",
         "id": "world_quest_sunset_proud",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_proud_count"
@@ -1894,6 +2104,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_sparkler",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_sparkler_count"
@@ -1903,6 +2114,7 @@
         "display_type": "count",
         "icon": "UiEmoteStanceHero",
         "id": "world_quest_sunset_strong",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_strong_count"
@@ -1912,6 +2124,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_tripleaxel",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_tripleaxel_count"
@@ -1921,6 +2134,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_village_bearhug",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_village_bearhug_count"
@@ -1930,6 +2144,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_village_peek",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_village_peek_count"
@@ -1939,6 +2154,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_village_showdance",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_village_showdance_count"
@@ -1948,6 +2164,7 @@
         "display_type": "count",
         "icon": "",
         "id": "world_quest_sunset_village_spintrick",
+        "npc": "normal",
         "stat_delta": 1.0,
         "stat_group_type": "collect",
         "stat_type": "world_quest_sunset_village_spintrick_count"

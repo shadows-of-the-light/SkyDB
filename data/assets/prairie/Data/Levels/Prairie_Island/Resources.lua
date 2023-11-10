@@ -67,6 +67,7 @@ resource "Mesh" "CloudParting_02" { source = "CloudParting_02.fbx", computeOcclu
 resource "Mesh" "ColWipeBrowDayJar" { source = "ColWipeBrowDayJar.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "Coral_DoN_01" { source = "Coral_DoN_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "CurrencyBubble" { source = "CurrencyBubble.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
+resource "Mesh" "CurrencySnowflake" { source = "CurrencySnowflake.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DCube" { source = "DCube.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DCube2" { source = "DCube2.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DON_IAPProps_01" { source = "DON_IAPProps_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -178,6 +179,7 @@ resourceref "Image" "CharSkyRayBasicTexSh"
 resourceref "Image" "Clear"
 resourceref "Image" "CloudFarTex"
 resourceref "Image" "CloudFinTex"
+resourceref "Image" "Cyan"
 resourceref "Image" "CyanL3"
 resourceref "Image" "DarkstoneNorTex"
 resourceref "Image" "DeerSpotSDF"

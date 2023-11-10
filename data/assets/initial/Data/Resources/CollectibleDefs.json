@@ -1443,6 +1443,20 @@
     },
     {
         "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
+        "level": "Skyway",
+        "max_level": 1,
+        "name": "questap12",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
         "droppable": true,
         "event": "SocialEmoteLoop",
         "icon": "UiEmoteAP12Voila",
