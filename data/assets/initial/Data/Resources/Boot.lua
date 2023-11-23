@@ -164,6 +164,11 @@ resource "Shader" "SandShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs =
 resource "Shader" "SandShMeshDecal"				{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "SandShSkirt"					{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND SKIRT OVERLAY DECAL", toolExport = false }
 
+resource "Shader" "SnowSh"						{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW OVERLAY", toolExport = false }
+resource "Shader" "SnowShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW MESH", toolExport = false }
+resource "Shader" "SnowShMeshDecal"				{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW MESH OVERLAY DECAL", toolExport = false }
+resource "Shader" "SnowShSkirt"					{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW SKIRT OVERLAY DECAL", toolExport = false }
+
 resource "Shader" "SandRainSh"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN OVERLAY", toolExport = false }
 resource "Shader" "SandRainShMesh"				{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN MESH", toolExport = false }
 resource "Shader" "SandRainShMeshDecal"			{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN MESH OVERLAY DECAL", toolExport = false }

@@ -58,6 +58,7 @@ file "Data/Resources/StormSpawnerDefs.json"
 file "Data/Resources/DarknessSpawnWaveDefs.json"
 file "Data/Resources/DynamicMenuGroupDefs.json"
 file "Data/Resources/DynamicMenuIODefs.json"
+file "Data/Resources/SocialFeedPrompts.json"
 
 -- Replays
 -- file "Data/Replays/DayHub2Stitched.v2.replay"
@@ -75,7 +76,7 @@ resource "SlugFont" "Latin"							{ source = "Lato/Lato-Light.ttf", type = "regu
 resource "SlugFont" "Latin-Bold"					{ source = "Lato/Lato-Regular.ttf", type = "bold" }
 
 -- these handle emote icons and CJK languages
-if PLATFORM == "nx" or PLATFORM == "ps4" or PLATFORM == "win" then
+if PLATFORM == "nx" or PLATFORM == "ps4" or PLATFORM == "win" or PLATFORM == "macosx" then
 	resource "SlugFont" "Emoji"						{ source = "Twemoji/TwemojiMozilla.ttf", color = true, exclude = { "0x00020,0x0007E", "0x000A0,0x000FF" } }
 	resource "SlugFont" "Korean-Jamo"				{ source = "NotoSans/NotoSansCJKjp-Regular.otf", include = { "0x1100,0x11FF", "0xAC00,0xD7A3", "0x3130,0x318F", "0xA960,0xA97F", "0xD7B0,0xD7FF" } }
 	resource "SlugFont" "Japanese-Common"			{ source = "Marugame/MarugameHonmaruGothic-R.otf", include = { "0x3000,0x337F", "0xFF01,0xFF9F" } }
@@ -214,7 +215,7 @@ resource "Shader" "AuroraEthereal"					{ group = "Blended", vs = "Mesh.vert", fs
 resource "Shader" "BirdFlock"						{ group = "OpaqueTwoFace", vs = "Bird.vert", fs = "Bird.frag", toolExport = false }
 resource "Shader" "Trail"							{ group = "Trails", vs = "Trail.vert", fs = "Trail.frag" }
 resource "Shader" "Bub"								{ group = "Blended", vs = "Bub.vert", fs = "Bub.frag" }
-resource "Shader" "Shout"							{ group = "BlendedWithBackfacesForeground", vs = "Shout.vert", fs = "Shout.frag" }
+resource "Shader" "Shout"							{ group = "BlendedWithBackfacesForeground", vs = "Shout.vert", fs = "Shout.frag" , toolExport = true } -- TARGET_FRAMEWORK_NAME edit by lishimin #32745  Export parameters for Deer normal shout
 resource "Shader" "ProjectedCircleZone"				{ group = "BlendedBackfacesNoDepth", vs = "Shout.vert", fs = "ProjectedCircleZone.frag", defines="PROJECTED" }
 resource "Shader" "DiscoLightGround"        		{ group = "BlendedBackfacesNoDepth", vs = "Shout.vert", fs = "DiscoLightGround.frag", defines="PROJECTED" }
 resource "Shader" "LensFlareStar"					{ group = "LensFlare", vs = "LensFlare.vert", fs = "LensFlare.frag" }
@@ -341,6 +342,9 @@ resource "Mesh" "AvatarDraculaDiamondExtra"				{ source = "CapeDraculaExtra.fbx"
 resource "Mesh" "AvatarFireworksDiamondInner"		    { source = "CapeFireworks.fbx" }
 resource "Mesh" "AvatarFireworksDiamondOuter"			{ source = "CapeFireworksFrame.fbx" }
 resource "Mesh" "AvatarFireworksDiamondExtra"			{ source = "CapeFireworksExtra.fbx" }
+resource "Mesh" "AvatarCrescentDiamondInner"            { source = "CapeCrescent.fbx" }
+resource "Mesh" "AvatarCrescentDiamondOuter"            { source = "CapeCrescentFrame.fbx" }
+resource "Mesh" "AvatarCrescentDiamondExtra"            { source = "CapeCrescentExtra.fbx" }
 
 -- Default Bodies
 resource "Mesh" "Outfit_None"					{ source = "Outfit_None.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
@@ -386,6 +390,7 @@ resource "Mesh" "Feet_Witch"            		{ source = "Feet_Witch.fbx", 				share
 resource "Mesh" "Feet_GothBoots"            	{ source = "Feet_GothBoots.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 -- Days of Feast
 resource "Mesh" "Feet_SnowBoots"            	{ source = "Feet_SnowBoots.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
+resource "Mesh" "Feet_YetiBoots"            	{ source = "Feet_YetiBoots.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 -- Days of Style
 resource "Mesh" "Feet_BalletFlats"              { source = "Feet_BalletFlats.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 resource "Mesh" "Feet_BunnySlippers"			{ source = "Feet_BunnySlippers.fbx", 		sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
@@ -425,6 +430,7 @@ resource "Mesh" "Wing_Cobweb"					{ source = "Wing_Cobweb.fbx", 				sharedSkelet
 resource "Mesh" "Wing_Santa"					{ source = "Wing_Santa.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Wing_Snowflake"				{ source = "Wing_Snowflake.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Wing_WinterElder"				{ source = "Wing_WinterElder.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "Wing_WinterPuffer"				{ source = "Wing_WinterPuffer.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Wing_YetiFur"					{ source = "Wing_YetiFur.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 -- Special
 resource "Mesh" "Wing_Switch"					{ source = "Wing_Switch.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
@@ -584,6 +590,7 @@ resource "Mesh" "CharSkyKid_Horn_Qixi"					{ source = "CharSkyKid_Horn_Qixi.fbx"
 -- Days of Sunlight
 -- Days of Mischief
 resource "Mesh" "Horn_PumpkinCrab"				{ source = "Horn_PumpkinCrab.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "Horn_WhiteFur"				{ source = "Horn_WhiteFur.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Horn_HeadCrab"				{ source = "Horn_HeadCrab.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 -- Days of Feast
 -- Days of Style
@@ -646,6 +653,9 @@ resource "Mesh" "Neck_Holly"					{ source = "Neck_Holly.fbx", 				sharedSkeleton
 resource "Mesh" "Neck_WinterScarf"				{ source = "Neck_WinterScarf.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 resource "Mesh" "Neck_Crab"						{ source = "Neck_Crab.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 resource "Mesh" "Neck_CrabBow"					{ source = "Neck_CrabBow.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
+resource "Mesh" "Neck_MedalGold"				{ source = "Neck_MedalGold.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
+resource "Mesh" "Neck_MedalSilver"				{ source = "Neck_MedalSilver.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
+resource "Mesh" "Neck_MedalBronze"				{ source = "Neck_MedalBronze.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
 
 -- AP02 Gratitude Meshes
 resource "Mesh" "Neck_AP02Pendant"				{ source = "Neck_AP02Pendant.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
@@ -1055,6 +1065,8 @@ resource "Mesh" "Wing_Moth"			    		{ source = "Wing_Moth.fbx", 				sharedSkelet
 resource "Mesh" "Horn_MothAntenna"			    { source = "Horn_MothAntenna.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Wing_Sparrow"			    	{ source = "Wing_Sparrow.fbx", 				sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
 resource "Mesh" "Mask_SparrowCheeks"			{ source = "Mask_SparrowCheeks.fbx", 		sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "Horn_Pinecone"			    { source = "Horn_Pinecone.fbx", 			sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+
 
 -- Mischief 2.0 Meshes
 resource "Mesh" "CharSkyKid_Mask_MischiefCat"			{ source = "CharSkyKid_Mask_MischiefCat.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
@@ -1069,6 +1081,7 @@ resource "Mesh" "Prop_BirthdayOreo"             { source = "Prop_BirthdayOreo.fb
 resource "Mesh" "Prop_CupGlass"            		{ source = "Prop_CupGlass.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_CupUmbrella"            { source = "UmbrellaPick_01.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_CupDrink"            		{ source = "Prop_CupDrink.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
+resource "Mesh" "Prop_CocoaCup"            		{ source = "Prop_CocoaCup.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_DiscoLight"            		{ source = "Prop_DiscoLight.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_Anni4BirthdayCakeS"           { source = "Prop_Anni4BirthdayCakeS.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "CharSkyKid_Horn_BalloonCrown"      { source = "CharSkyKid_Horn_BalloonCrown.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
@@ -1290,6 +1303,11 @@ resource "Mesh" "FeastBallScore_01"      			{ source = "FeastBallScore_01.fbx", 
 resource "Mesh" "FeastBallScore_02"      			{ source = "FeastBallScore_02.fbx", loadAsync = false, registerCollision = false }
 resource "Mesh" "FeastBallScore_03"      			{ source = "FeastBallScore_03.fbx", loadAsync = false, registerCollision = false }
 resource "Mesh" "FeastBallScore_04"      			{ source = "FeastBallScore_04.fbx", loadAsync = false, registerCollision = false }
+resource "Mesh" "Feast_RacingArch"      			{ source = "Feast_RacingArch.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
+resource "Mesh" "Feast_RacingStart"      			{ source = "Feast_RacingStart.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
+resource "Mesh" "Feast_RacingFinish"      			{ source = "Feast_RacingFinish.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
+resource "Mesh" "Feast_RacingFinishFlag"      		{ source = "Feast_RacingFinishFlag.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
+resource "Mesh" "Feast_RacingRibbon"      			{ source = "Feast_RacingRibbon.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_SunlightBoard"                { source = "Prop_SunlightBoard.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_Snowboard"             		{ source = "Prop_Snowboard.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "Prop_CompanionCube"				{ source = "Prop_CompanionCube.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
@@ -1600,6 +1618,7 @@ resourceref "Image" "ConstellationImageAP16"
 resourceref "Image" "ConstellationImageAP17"
 resourceref "Image" "ConstellationImageAP18"
 resourceref "Image" "ConstellationImageAP19"
+resourceref "Image" "ConstellationImageAP21"
 resourceref "Image" "UIRing"
 resourceref "Image" "UIRingBloom"
 resourceref "Image" "UIRingBigThin"
@@ -1778,9 +1797,6 @@ resource "ImageRegion" "clrH"	{ image = "ParticleAtlas02", uv = { 0, 6/8, 2/8, 1
 resource "ImageRegion" "dmdH"	{ image = "ParticleAtlas02", uv = { 2/8, 6/8, 4/8, 1 } }
 resource "ImageRegion" "sqrH"	{ image = "ParticleAtlas02", uv = { 4/8, 6/8, .75, 1 } }
 resource "ImageRegion" "triH"	{ image = "ParticleAtlas02", uv = { 6/8, 6/8, 1, 1 } }
-
-
-
 
 
 
@@ -2395,3 +2411,30 @@ resource "Shader" "ShadowMapWindyTree"				{ group = "ShadowMap", vs = "MeshToon.
 resource "Shader" "AlphaTestWindyTreeShadowMap"		{ group = "ShadowMap", vs = "CardToon.vert", fs = "ShadowMap.frag", defines="SHADOW_MAP ALPHA_TEST WINDY_TREE" }
 
 end
+---Days of Fortune Ne start
+resource "Mesh" "CharSkyKid_Horn_FortuneDragon"        { source = "CharSkyKid_Horn_FortuneDragon.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Body_FortuneDragonRobe"            { source = "CharSkyKid_Body_FortuneDragonRobe.fbx",         sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true, stripUv13 = true }
+resource "Mesh" "CharSkyKid_Prop_DrumtStick"         { source = "CharSkyKid_Prop_DrumStick.fbx", loadAsync = false, registerCollision = true, computeOcclusions = true }
+resource "Mesh" "Prop_FortuneDrum"         { source = "CharSkyKid_Prop_FortuneDrum.fbx", loadAsync = false, registerCollision = true, computeOcclusions = true }
+resource "Mesh" "CharSkyKid_Wing_FortuneDragon"                { source = "CharSkyKid_Wing_FortuneDragon.fbx",             sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+-- LineUpOutfit
+resource "Mesh" "CharSkyKid_Neck_DragonDanceBodyBlack"					{ source = "CharSkyKid_Neck_DragonDanceBodyBlack.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Neck_DragonDanceHeadBlack"					{ source = "CharSkyKid_Neck_DragonDanceHeadBlack.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Neck_DragonDanceTailBlack"					{ source = "CharSkyKid_Neck_DragonDanceTailBlack.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Neck_DragonDanceBodyWhite"					{ source = "CharSkyKid_Neck_DragonDanceBodyWhite.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Neck_DragonDanceHeadWhite"					{ source = "CharSkyKid_Neck_DragonDanceHeadWhite.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+resource "Mesh" "CharSkyKid_Neck_DragonDanceTailWhite"					{ source = "CharSkyKid_Neck_DragonDanceTailWhite.fbx", sharedSkeleton = "CharKidAnimFlyState.fbx", stripAnimation = true, computeOcclusions = true, computeEdges = false, compressPositions = true, compressUvs = true, stripNormals = true, loadLazy = true }
+
+resource "Mesh" "AvatarFortuneDragonDiamondInner"            { source = "CapeFortuneDragon.fbx" }
+resource "Mesh" "AvatarFortuneDragonDiamondOuter"            { source = "CapeFortuneDragonFrame.fbx" }
+resource "Mesh" "AvatarFortuneDragonDiamondExtra"            { source = "CapeFortuneDragonExtra.fbx" }
+---Days of Fortune Ne end
+-- resourceref "Image" "StoryGeneral"
+-- resource "ImageRegion" "CresentR"        { image = "StoryGeneral", uv = { 592/1024, 528/1024, 656/1024, 592/1024 } }
+resource "ImageRegion" "CresentR"        { image = "ParticleAtlas", uv = { 2/16, 15/16, 3/16, 1 } }
+resourceref "Image" "CharRampS21"
+resourceref "Image" "AP21_Deer_Diffuse"
+resource "Shader" "AP21NineColor"                 { group = "Opaque", vs = "AP21NineColor.vert", fs = "AP21NineColor.frag", toolExport = true, defines="" }
+resource "Shader" "AP21DeerShout"                 { group = "BlendedWithBackfaces", vs = "AP21DeerShout.vert", fs = "AP21DeerShout.frag", toolExport = true, defines="" }  -- TARGET_FRAMEWORK_NAME edit by lishimin #32745  AP21 addShader for Deer special shout
+
+

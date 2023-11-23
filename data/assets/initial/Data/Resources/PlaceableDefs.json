@@ -2404,6 +2404,91 @@
         "volume": 20
     },
     {
+        "allow_roll": true,
+        "allow_scale": false,
+        "audio_material": 0,
+        "code_type_name": "JuiceCup",
+        "drop_shadow_radius": 0.0,
+        "face_away": false,
+        "forward_offset": 2.0,
+        "hang_offset": 0.0,
+        "has_collision": false,
+        "held_hand_pos": [],
+        "max_place_distance": 15.0,
+        "mesh": "Prop_CocoaCup",
+        "name": "CocoaCup",
+        "offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "outfit_name": "",
+        "play_default_animation": false,
+        "recordable": true,
+        "requires_water": false,
+        "rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "shader": "MeshPlaceableProp",
+        "shader_params": {
+            "colors": [
+                {
+                    "shader_param_name": "u_diffuseColor",
+                    "value": "(1.0,1.0,1.0,1.0)"
+                }
+            ],
+            "floats": [
+                {
+                    "shader_param_name": "u_diffuse1TexScale",
+                    "value": 1.0
+                },
+                {
+                    "shader_param_name": "u_normTexScale",
+                    "value": 1.0
+                },
+                {
+                    "shader_param_name": "u_scatter",
+                    "value": 0.0
+                }
+            ],
+            "textures": [
+                {
+                    "shader_param_name": "u_diffuse1Tex",
+                    "texture_name": "White"
+                },
+                {
+                    "shader_param_name": "u_diffuse2Tex",
+                    "texture_name": "CharRampEvents"
+                },
+                {
+                    "shader_param_name": "u_attribTex",
+                    "texture_name": "Attrib_General"
+                },
+                {
+                    "shader_param_name": "u_normTex",
+                    "texture_name": "UpNormal"
+                }
+            ],
+            "vector4s": [
+                {
+                    "shader_param_name": "u_selfLit",
+                    "value": "(0.0,0.0,0.0,0.0)"
+                }
+            ]
+        },
+        "shared_space_free_in_levels": [],
+        "shared_space_free_in_realms": [],
+        "shared_space_placement_count": 8,
+        "volume": 4
+    },
+    {
         "allow_roll": false,
         "allow_scale": false,
         "audio_material": 0,
@@ -4754,8 +4839,8 @@
         "hang_offset": 0.0,
         "has_collision": true,
         "held_hand_pos": [],
-        "max_place_distance": 40.0,
-        "mesh": "FeastBallGateBlue",
+        "max_place_distance": 5.0,
+        "mesh": "Feast_RacingStart",
         "name": "PlaceableRace",
         "offset": [
             0.0,
@@ -4772,9 +4857,9 @@
             0.0
         ],
         "scale": [
-            1.2,
-            1.2,
-            1.2
+            1.0,
+            1.0,
+            1.0
         ],
         "shader": "MeshSlNoShadows",
         "shader_params": {
@@ -4797,11 +4882,11 @@
             "textures": [
                 {
                     "shader_param_name": "u_diffuse1Tex",
-                    "texture_name": "StoneBase"
+                    "texture_name": "CharRampS9"
                 },
                 {
                     "shader_param_name": "u_diffuse2Tex",
-                    "texture_name": "CharRampEvents"
+                    "texture_name": "White"
                 },
                 {
                     "shader_param_name": "u_lightTex",
@@ -5691,7 +5776,7 @@
                     "value": 1.0
                 },
                 {
-                    "shader_param_name": "u_attributeOverrideAmount",
+                    "shader_param_name": "u_emissionScale",
                     "value": 1.0
                 }
             ],
@@ -5702,25 +5787,21 @@
                 },
                 {
                     "shader_param_name": "u_diffuse2Tex",
-                    "texture_name": "CharRampS1"
-                },
-                {
-                    "shader_param_name": "u_attribTex",
-                    "texture_name": "Black"
+                    "texture_name": "CharRampEvents2"
                 },
                 {
                     "shader_param_name": "u_normTex",
                     "texture_name": "UpNormal"
+                },
+                {
+                    "shader_param_name": "u_attribTex",
+                    "texture_name": "Attrib_General"
                 }
             ],
             "vector4s": [
                 {
                     "shader_param_name": "u_selfLit",
                     "value": "(0.0,0.0,0.0,0.0)"
-                },
-                {
-                    "shader_param_name": "u_attributeOverride",
-                    "value": "(0.85,0.0,0.0,1.0)"
                 }
             ]
         },

@@ -1399,8 +1399,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -1482,8 +1482,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -1731,8 +1731,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -1814,8 +1814,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -1980,8 +1980,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -2146,8 +2146,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -2644,8 +2644,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -2893,8 +2893,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -2976,8 +2976,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3142,8 +3142,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3225,8 +3225,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3474,8 +3474,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3557,8 +3557,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3723,8 +3723,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -3972,8 +3972,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -4138,8 +4138,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -4304,8 +4304,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -4387,8 +4387,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -4470,8 +4470,8 @@
         "takeOutPropAnimSeq": "",
         "type": "body",
         "wingOffset": [
-            0.15,
-            -0.22,
+            0.0,
+            0.0,
             0.0
         ],
         "wingScale": [
@@ -5620,6 +5620,89 @@
         "putBackAnimSeq": "",
         "putBackPropAnimSeq": "",
         "season": "style_23",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "feet",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharSkyKid_Velvet_Att",
+        "diffuseTex": "CharRampS4",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.02,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitFeetYetiBoots",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Feet_YetiBoots",
+        "name": "CharSkyKid_Feet_YetiBoots",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -8540,6 +8623,255 @@
             1.0,
             0.0,
             0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "StoneRamp",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiMenuMedalGold",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Neck_MedalGold",
+        "name": "CharSkyKid_Neck_MedalGold",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "StoneRamp",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiMenuMedalSilver",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Neck_MedalSilver",
+        "name": "CharSkyKid_Neck_MedalSilver",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "StoneRamp",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiMenuMedalBronze",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Neck_MedalBronze",
+        "name": "CharSkyKid_Neck_MedalBronze",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
         ],
         "wingScale": [
             1.0,
@@ -15745,7 +16077,7 @@
         "propScale": 1.0,
         "putBackAnimSeq": "",
         "putBackPropAnimSeq": "",
-        "season": "test",
+        "season": "",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -18929,7 +19261,7 @@
         "propScale": 1.0,
         "putBackAnimSeq": "",
         "putBackPropAnimSeq": "",
-        "season": "test_",
+        "season": "fireworks_23",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -19212,9 +19544,9 @@
         "fastPlayAnimSeq": "",
         "footYOffset": 0.0,
         "hairOffset": [
-            -0.1,
             0.0,
-            0.15
+            0.0,
+            0.0
         ],
         "hairScale": 1.0,
         "handHoldRunning": false,
@@ -19469,7 +19801,7 @@
         "handHoldRunning": false,
         "hornMirrored": false,
         "hp": 0.0,
-        "icon": "UiOutfitHairShortPonytail",
+        "icon": "UiOutfitHairPonytailShort",
         "idleAnim": "",
         "invincibilityTime": 0.0,
         "isDefault": false,
@@ -24275,8 +24607,8 @@
         "fastPlayAnimSeq": "",
         "footYOffset": 0.0,
         "hairOffset": [
-            0.1,
-            -0.1,
+            0.15,
+            0.0,
             0.0
         ],
         "hairScale": 1.07,
@@ -30417,7 +30749,7 @@
         "fastPlayAnimSeq": "",
         "footYOffset": 0.0,
         "hairOffset": [
-            0.0,
+            0.25,
             0.0,
             -0.05
         ],
@@ -34311,6 +34643,89 @@
     {
         "abilities": [],
         "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS13",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitHornPinecone",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Horn_Pinecone",
+        "name": "CharSkyKid_Horn_Pinecone",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "hat",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
         "diffuseTex": "CharRampS16",
         "disableEyes": false,
         "disableRender": false,
@@ -34367,7 +34782,7 @@
         "propScale": 1.0,
         "putBackAnimSeq": "",
         "putBackPropAnimSeq": "",
-        "season": "test",
+        "season": "",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -39703,7 +40118,7 @@
         "propScale": 1.0,
         "putBackAnimSeq": "StaffPutBack",
         "putBackPropAnimSeq": "",
-        "season": "test_",
+        "season": "fireworks_23",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -39751,7 +40166,7 @@
         "handHoldRunning": true,
         "hornMirrored": false,
         "hp": 0.0,
-        "icon": "UiOutfitScepterWand",
+        "icon": "UiOutfitPropScepterWand",
         "idleAnim": "scepterIdlePose",
         "invincibilityTime": 0.0,
         "isDefault": false,
@@ -39792,7 +40207,7 @@
         "propScale": 1.0,
         "putBackAnimSeq": "ScepterPutBack",
         "putBackPropAnimSeq": "",
-        "season": "test_",
+        "season": "fireworks_23",
         "secondary_hsv": [
             0.0,
             0.0,
@@ -43636,7 +44051,7 @@
         "handHoldRunning": false,
         "hornMirrored": false,
         "hp": 0.0,
-        "icon": "UiMenuMail",
+        "icon": "UiOutfitPropSkyArtBook",
         "idleAnim": "",
         "invincibilityTime": 0.0,
         "isDefault": false,
@@ -47145,6 +47560,94 @@
     {
         "abilities": [
             {
+                "event": "SocialPropMenu",
+                "prop_event": "Snowboard"
+            }
+        ],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS9",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": true,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitPropSnowboard",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "Prop_Snowboard",
+        "name": "CharSkyKid_Prop_Snowboard",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            2.0,
+            0.0,
+            -1.5
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            40.0,
+            -90.0,
+            -10.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "SnowboardPutBack",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "SnowboardTakeOut",
+        "takeOutPropAnimSeq": "",
+        "type": "prop",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [
+            {
                 "event": "SocialPlaceable",
                 "type": "BigMantaPlush"
             }
@@ -47341,7 +47844,7 @@
         "handHoldRunning": false,
         "hornMirrored": false,
         "hp": 0.0,
-        "icon": "UiOutfitPropDOW22SkyBallGoals",
+        "icon": "UiOutfitPropPlaceableRace",
         "idleAnim": "",
         "invincibilityTime": 0.0,
         "isDefault": false,
@@ -47354,7 +47857,7 @@
         ],
         "maskScale": 1.0,
         "maskTex": "Black",
-        "mesh": "CharSkyKid_Prop_FeastBall",
+        "mesh": "CharSkyKid_Prop_Backpack_01",
         "name": "CharSkyKid_Prop_PlaceableRace",
         "noSpineIk": false,
         "normTex": "UpNormal",
@@ -47369,11 +47872,11 @@
             100.0
         ],
         "propOffset": [
-            0.5,
+            1.6,
             0.0,
-            -0.75
+            -0.8
         ],
-        "propPlaceableName": "",
+        "propPlaceableName": "PlaceableRace",
         "propRot": [
             0.0,
             0.0,
@@ -55055,172 +55558,6 @@
     {
         "abilities": [],
         "attribTex": "Attrib_General",
-        "diffuseTex": "CharRampS9",
-        "disableEyes": false,
-        "disableRender": false,
-        "elder_realm": "",
-        "fastPlayAnimSeq": "",
-        "footYOffset": 0.0,
-        "hairOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "hairScale": 1.0,
-        "handHoldRunning": false,
-        "hornMirrored": false,
-        "hp": 0.0,
-        "icon": "UiOutfitCapeSparrow",
-        "idleAnim": "",
-        "invincibilityTime": 0.0,
-        "isDefault": false,
-        "isOnesie": false,
-        "isSkyKid": true,
-        "maskOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "maskScale": 1.0,
-        "maskTex": "Mask_Wing",
-        "mesh": "Wing_Sparrow",
-        "name": "CharSkyKid_Wing_Sparrow",
-        "noSpineIk": false,
-        "normTex": "UpNormal",
-        "pattern_hsv": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "primary_hsv": [
-            30.0,
-            50.0,
-            60.0
-        ],
-        "propOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "propPlaceableName": "",
-        "propRot": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "propScale": 1.0,
-        "putBackAnimSeq": "",
-        "putBackPropAnimSeq": "",
-        "season": "test",
-        "secondary_hsv": [
-            0.0,
-            0.0,
-            65.0
-        ],
-        "shader": "AvatarFurCham",
-        "spiritShader": "SpiritBody",
-        "stationary": false,
-        "takeOutAnimSeq": "",
-        "takeOutPropAnimSeq": "",
-        "type": "wing",
-        "wingOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "wingScale": [
-            1.0,
-            1.0,
-            1.0
-        ],
-        "wingStar": ""
-    },
-    {
-        "abilities": [],
-        "attribTex": "Attrib_General",
-        "diffuseTex": "CharRampS13",
-        "disableEyes": false,
-        "disableRender": false,
-        "elder_realm": "",
-        "fastPlayAnimSeq": "",
-        "footYOffset": 0.0,
-        "hairOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "hairScale": 1.0,
-        "handHoldRunning": false,
-        "hornMirrored": false,
-        "hp": 0.0,
-        "icon": "UiOutfitCapeMoth",
-        "idleAnim": "",
-        "invincibilityTime": 0.0,
-        "isDefault": false,
-        "isOnesie": false,
-        "isSkyKid": true,
-        "maskOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "maskScale": 1.0,
-        "maskTex": "Mask_Wing",
-        "mesh": "Wing_Moth",
-        "name": "CharSkyKid_Wing_Moth",
-        "noSpineIk": false,
-        "normTex": "UpNormal",
-        "pattern_hsv": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "primary_hsv": [
-            40.0,
-            40.0,
-            80.0
-        ],
-        "propOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "propPlaceableName": "",
-        "propRot": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "propScale": 1.0,
-        "putBackAnimSeq": "",
-        "putBackPropAnimSeq": "",
-        "season": "test",
-        "secondary_hsv": [
-            0.0,
-            0.0,
-            65.0
-        ],
-        "shader": "AvatarFurCham",
-        "spiritShader": "SpiritBody",
-        "stationary": false,
-        "takeOutAnimSeq": "",
-        "takeOutPropAnimSeq": "",
-        "type": "wing",
-        "wingOffset": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "wingScale": [
-            1.0,
-            1.0,
-            1.0
-        ],
-        "wingStar": ""
-    },
-    {
-        "abilities": [],
-        "attribTex": "Attrib_General",
         "diffuseTex": "CharRampLNY",
         "disableEyes": false,
         "disableRender": false,
@@ -57292,6 +57629,255 @@
             1.0
         ],
         "wingStar": "Snow"
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharSkyKid_General_Att",
+        "diffuseTex": "CharRampFlowersS7",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitCapeWinterPuffer",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Mask_Wing",
+        "mesh": "Wing_WinterPuffer",
+        "name": "CharSkyKid_Wing_WinterPuffer",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            50.0,
+            10.0,
+            95.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "test_",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            65.0
+        ],
+        "shader": "AvatarCham",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "wing",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": "Snow"
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS9",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitCapeSparrow",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Mask_Wing",
+        "mesh": "Wing_Sparrow",
+        "name": "CharSkyKid_Wing_Sparrow",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            30.0,
+            50.0,
+            60.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            65.0
+        ],
+        "shader": "AvatarFurCham",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "wing",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS13",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitCapeMoth",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Mask_Wing",
+        "mesh": "Wing_Moth",
+        "name": "CharSkyKid_Wing_Moth",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            40.0,
+            40.0,
+            80.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            65.0
+        ],
+        "shader": "AvatarFurCham",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "wing",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
     },
     {
         "abilities": [],
@@ -63019,5 +63605,841 @@
             1.0
         ],
         "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceBodyBlack",
+        "name": "CharSkyKid_Neck_DragonDanceBodyBlack",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceHeadBlack",
+        "name": "CharSkyKid_Neck_DragonDanceHeadBlack",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceTailBlack",
+        "name": "CharSkyKid_Neck_DragonDanceTailBlack",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceBodyWhite",
+        "name": "CharSkyKid_Neck_DragonDanceBodyWhite",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceHeadWhite",
+        "name": "CharSkyKid_Neck_DragonDanceHeadWhite",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharRampLNY_Att",
+        "diffuseTex": "CharRampLNY2",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiSocialJoinDragonDance",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Neck_DragonDanceTailWhite",
+        "name": "CharSkyKid_Neck_DragonDanceTailWhite",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "neck",
+        "wingOffset": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS21",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitBodyFortuneDragonRobe",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": true,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Body_FortuneDragonRobe",
+        "name": "CharSkyKid_Body_FortuneDragonRobe",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "body",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "CharSkyKid_General_Att",
+        "diffuseTex": "CharRampS9",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitHornFortuneDragon",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Horn_FortuneDragon",
+        "name": "CharSkyKid_Horn_FortuneDragon",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "horn",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [
+            {
+                "cost": 0,
+                "event": "SocialPlaceable",
+                "type": "FortuneDrum"
+            }
+        ],
+        "attribTex": "CharSkyKid_General_Att",
+        "diffuseTex": "CharRampS9",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitPropFortuneDrum",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Black",
+        "mesh": "CharSkyKid_Prop_DrumtStick",
+        "name": "CharSkyKid_Prop_FortuneDrum",
+        "noSpineIk": false,
+        "normTex": "UpNormal",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "propOffset": [
+            2.5,
+            0.0,
+            -1.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 0.65,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "shader": "Avatar",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "prop",
+        "wingOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": ""
+    },
+    {
+        "abilities": [],
+        "attribTex": "Attrib_General",
+        "diffuseTex": "CharRampS21",
+        "disableEyes": false,
+        "disableRender": false,
+        "elder_realm": "",
+        "fastPlayAnimSeq": "",
+        "footYOffset": 0.0,
+        "hairOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "hairScale": 1.0,
+        "handHoldRunning": false,
+        "hornMirrored": false,
+        "hp": 0.0,
+        "icon": "UiOutfitCapeFortuneDragon",
+        "idleAnim": "",
+        "invincibilityTime": 0.0,
+        "isDefault": false,
+        "isOnesie": false,
+        "isSkyKid": true,
+        "maskOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "maskScale": 1.0,
+        "maskTex": "Mask_Wing",
+        "mesh": "CharSkyKid_Wing_FortuneDragon",
+        "name": "CharSkyKid_Wing_FortuneDragon",
+        "noSpineIk": false,
+        "normTex": "HairNormalTex",
+        "pattern_hsv": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "primary_hsv": [
+            216.0,
+            36.0,
+            29.0
+        ],
+        "propOffset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propPlaceableName": "",
+        "propRot": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "propScale": 1.0,
+        "putBackAnimSeq": "",
+        "putBackPropAnimSeq": "",
+        "season": "",
+        "secondary_hsv": [
+            187.0,
+            0.0,
+            70.0
+        ],
+        "shader": "AvatarCham",
+        "spiritShader": "SpiritBody",
+        "stationary": false,
+        "takeOutAnimSeq": "",
+        "takeOutPropAnimSeq": "",
+        "type": "wing",
+        "wingOffset": [
+            0.0,
+            0.35,
+            0.0
+        ],
+        "wingScale": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "wingStar": "FortuneDragon"
     }
 ]

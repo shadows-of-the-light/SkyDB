@@ -51,6 +51,14 @@ resource "Mesh" "DiamondStoneBroken_06" { source = "DiamondStoneBroken_06.fbx", 
 resource "Mesh" "DiamondStoneBroken_07" { source = "DiamondStoneBroken_07.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DuskFinalWall_01" { source = "DuskFinalWall_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DuskFinalWall_02" { source = "DuskFinalWall_02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorChamL_01" { source = "LevelGatesStormDoorChamL_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorChamR_01" { source = "LevelGatesStormDoorChamR_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorL_01" { source = "LevelGatesStormDoorL_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorMotifL_01" { source = "LevelGatesStormDoorMotifL_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorMotifR_01" { source = "LevelGatesStormDoorMotifR_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStormDoorR_01" { source = "LevelGatesStormDoorR_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStormMasks_01" { source = "LevelGatesStormMasks_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
+resource "Mesh" "LevelGatesStorm_01" { source = "LevelGatesStorm_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "LightningBolt" { source = "LightningBolt.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "MachuPicchuStairsA" { source = "MachuPicchuStairsA.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "MuralNightEnd_Dawn" { source = "MuralNightEnd_Dawn.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
@@ -93,6 +101,7 @@ resourceref "Image" "HistoryMural5"
 resourceref "Image" "HistoryMural6"
 resourceref "Image" "HistoryMural7"
 resourceref "Image" "Noise3Ch"
+resourceref "Image" "OrangeL2"
 resourceref "Image" "StarBlue50"
 resourceref "Image" "StoneBase"
 resourceref "Image" "StoneBaseMotif"
@@ -100,6 +109,8 @@ resourceref "Image" "StoneBaseMotifSh"
 resourceref "Image" "StoneBaseSh"
 resourceref "Image" "StoneGrunge2"
 resourceref "Image" "StoneRamp"
+resourceref "Image" "StormGate"
+resourceref "Image" "StormGateAO"
 resourceref "Image" "TileFloor"
 resourceref "Image" "TileFloorSh"
 resourceref "Image" "UpNormal"

@@ -495,6 +495,7 @@ resourcedef "Image" "ConstellationImageAP16"            { source = "Constellatio
 resourcedef "Image" "ConstellationImageAP17"            { source = "ConstellationImageAP17.png", compression = 4, isPremul = true }
 resourcedef "Image" "ConstellationImageAP18"            { source = "ConstellationImageAP18.png", compression = 4, isPremul = true }
 resourcedef "Image" "ConstellationImageAP19"            { source = "ConstellationImageAP19.png", compression = 4, isPremul = true }
+resourcedef "Image" "ConstellationImageAP21"            { source = "ConstellationImageAP21.png", compression = 4, isPremul = true }
 resourcedef "Image" "TgcOfficePosters01"				{ source = "TgcOfficePosters01.png" }
 resourcedef "Image" "TgcOfficePosters02"				{ source = "TgcOfficePosters02.png" }
 resourcedef "Image" "OfficeRamp"						{ source = "OfficeRamp.png", compression = 4 }
@@ -808,6 +809,7 @@ resourcedef "Image" "UiMapAtlas2"	{ source = "UiMapAtlas2.png", maxMips = 5, com
 resourcedef "Image" "UiMapAtlas3"	{ source = "UiMapAtlas3.png", maxMips = 5, compression = 4, address = "zero", isPremul = true, enableAniso = false, uiGroup = 3 }
 resourcedef "Image" "UiMapAtlas4"	{ source = "UiMapAtlas4.png", maxMips = 5, compression = 4, address = "zero", isPremul = true, enableAniso = false, uiGroup = 3 }
 resourcedef "Image" "UiMapAtlas5"	{ source = "UiMapAtlas5.png", maxMips = 5, compression = 4, address = "zero", isPremul = true, enableAniso = false, uiGroup = 3 }
+resourcedef "Image" "UiMapAtlas6"	{ source = "UiMapAtlas6.png", maxMips = 5, compression = 4, address = "zero", isPremul = true, enableAniso = false, uiGroup = 3 }
 resourcedef "Image" "UiMapBgAtlas"	{ source = "UiMapBgAtlas.png", maxMips = 5, compression = 4, address = "zero", isPremul = true, enableAniso = false, uiGroup = 3 }
 
 resourcedef "Image" "Before_Foliage_DM"	{ source = "Before_Foliage_DM.png", gammaCorrection = false }
@@ -945,3 +947,7 @@ resourcedef "Image" "Before_Abyss_WornStone_NM"    { source = "Before_Abyss_Worn
 resourcedef "Image" "Before_Abyss_Sand_BW"    { source = "Before_Abyss_Sand_BW.png" }
 
 end
+
+resourcedef "Image" "CharRampS21"          { source = "CharRampS21.png", compression = 4 } -- AP21 addTex
+resourcedef "Image" "AP21_Deer_Diffuse"    { source = "AP21_Deer_Diffuse.png" }
+

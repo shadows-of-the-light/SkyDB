@@ -7949,7 +7949,7 @@
                 "tex": 0
             },
             "feet": {
-                "id": 2166136261,
+                "id": 3665959930,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -7961,7 +7961,7 @@
                 "tex": 0
             },
             "hat": {
-                "id": 2166136261,
+                "id": 96846842,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -7986,7 +7986,7 @@
                 "tex": 0
             },
             "prop": {
-                "id": 2166136261,
+                "id": 1123438996,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -7994,7 +7994,7 @@
             "scale": 2.0,
             "seed": 0,
             "wing": {
-                "id": 3561435747,
+                "id": 69520136,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -10953,7 +10953,7 @@
                 "tex": 0
             },
             "prop": {
-                "id": 2166136261,
+                "id": 1123438996,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -18421,6 +18421,75 @@
         },
         "skeleton": "",
         "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": false,
+        "name": "toyvendor_invis",
+        "outfit": {
+            "body": {
+                "id": 772190650,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -3.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.0,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": false
     },
     {
         "animPack": "MemAP03Poses",

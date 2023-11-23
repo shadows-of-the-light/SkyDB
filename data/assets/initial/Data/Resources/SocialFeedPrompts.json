@@ -1,0 +1,42 @@
+[
+    {
+        "event": "social_feed_prompt_festive_joke",
+        "level": "MainStreet",
+        "name": "AviaryFireworksFestiveJoke",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_festive_joke"
+    },
+    {
+        "event": "social_feed_prompt_holiday_story",
+        "level": "MainStreet",
+        "name": "AviaryFireworksHolidayStory",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_holiday_story"
+    },
+    {
+        "event": "social_feed_prompt_newbie_tip",
+        "level": "MainStreet",
+        "name": "AviaryFireworksNewbieTip",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_newbie_tip"
+    },
+    {
+        "event": "social_feed_prompt_fireworks_song",
+        "level": "MainStreet",
+        "name": "AviaryFireworksSong",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_fireworks_song"
+    },
+    {
+        "event": "social_feed_prompt_warm_melody",
+        "level": "MainStreet",
+        "name": "AviaryFireworksWarmMelody",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_warm_melody"
+    }
+]

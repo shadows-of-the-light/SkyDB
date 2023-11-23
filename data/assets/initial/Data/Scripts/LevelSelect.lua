@@ -94,6 +94,8 @@ ArcLevels = {
 	level( "Night_InfiniteDesert",      "night" ),
 	level( "Night_JarCave",				"night" ),
 	level( "Night_Shelter",				"night" ),
+	level( "Night_PaintedWorld",        "night" ),
+	level( "Night_IPHallway",			"night" ),
 	level( "StormStart", 				"storm" ),
 	level( "Storm", 					"storm" ),
 	level( "StormEnd",					"storm" ),

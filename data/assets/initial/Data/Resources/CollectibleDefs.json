@@ -1320,6 +1320,20 @@
         "droppable": false,
         "event": "",
         "icon": "UiSocialTeleport",
+        "level": "DuskOasis",
+        "max_level": 1,
+        "name": "questap06",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
         "level": "DawnCave",
         "max_level": 1,
         "name": "questap08",
