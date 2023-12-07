@@ -32,6 +32,6 @@ resource "Icons" "icon0" {stage="beta", type="PS4AppIcon", source="Data/Images/S
 resource "Icons" "icon0" {stage="live", type="PS4AppIcon", source="Data/Images/System/Sky_AppIcon_Live_evergreen.png"}
 
 -- Windows
-resource "Icons" "icon" {stage="dev", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Dev.png"}
-resource "Icons" "icon" {stage="beta", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Beta.png"}
-resource "Icons" "icon" {stage="live", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Live.png"}
+resource "Icons" "Sky" {stage="dev", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Dev.png"}
+resource "Icons" "Sky" {stage="beta", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Beta.png"}
+resource "Icons" "Sky" {stage="live", type="WindowsAppIcon", source="Data/Images/System/Sky_AppIcon_Live.png"}
