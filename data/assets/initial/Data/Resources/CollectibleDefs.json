@@ -2032,6 +2032,76 @@
         "droppable": false,
         "event": "",
         "icon": "UiSocialTeleport",
+        "level": "Night_PaintedWorld",
+        "max_level": 1,
+        "name": "questap21",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "SocialEmote",
+        "icon": "UiEmoteAP21Whistle",
+        "level": "Night_PaintedWorld",
+        "max_level": 4,
+        "name": "whistle",
+        "params": "WhistleEmote",
+        "speedMult": [
+            0.0
+        ],
+        "type": "emote"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "SocialMuscle",
+        "icon": "UiEmoteAP21Muscle",
+        "level": "Night_PaintedWorld",
+        "max_level": 4,
+        "name": "muscle",
+        "params": "MuscleEmote",
+        "speedMult": [
+            0.0
+        ],
+        "type": "emote"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "SocialEmote",
+        "icon": "UiSocialPrincessCarryA",
+        "level": "Night_PaintedWorld",
+        "max_level": 2,
+        "name": "princesscarry",
+        "params": "OfferPrincessCarryEmote",
+        "speedMult": [
+            0.0
+        ],
+        "type": "action"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "SocialEmote",
+        "icon": "UiEmoteAP21FloatDance",
+        "level": "Night_PaintedWorld",
+        "max_level": 4,
+        "name": "floatdance",
+        "params": "FloatDanceEmote",
+        "speedMult": [
+            0.0
+        ],
+        "type": "emote"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
         "level": "Prairie_Island",
         "max_level": 1,
         "name": "questnature",
@@ -2077,6 +2147,34 @@
         "level": "Sunset_YetiPark",
         "max_level": 1,
         "name": "questfeast_yeti",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
+        "level": "Sunset",
+        "max_level": 1,
+        "name": "questfortune",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
+        "level": "NightDesert_Beach",
+        "max_level": 1,
+        "name": "questlove",
         "params": "",
         "speedMult": [
             0.0

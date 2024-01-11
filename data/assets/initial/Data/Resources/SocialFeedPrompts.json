@@ -1,5 +1,45 @@
 [
     {
+        "event": "social_feed_prompt_survive_tip",
+        "level": "MainStreet",
+        "name": "AviaryCampingSurvivalTip",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_survive_tip"
+    },
+    {
+        "event": "social_feed_prompt_color_party",
+        "level": "MainStreet",
+        "name": "AviaryDOFColorParty",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_color_party"
+    },
+    {
+        "event": "social_feed_prompt_joyful_dance",
+        "level": "MainStreet",
+        "name": "AviaryDOFJoyfulDance",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_joyful_dance"
+    },
+    {
+        "event": "social_feed_prompt_kind_gesture",
+        "level": "MainStreet",
+        "name": "AviaryDOLKindGesture",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_kind_gesture"
+    },
+    {
+        "event": "social_feed_prompt_peace_memory",
+        "level": "MainStreet",
+        "name": "AviaryDOLPeacefulMemory",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_peace_memory"
+    },
+    {
         "event": "social_feed_prompt_festive_joke",
         "level": "MainStreet",
         "name": "AviaryFireworksFestiveJoke",
@@ -38,5 +78,21 @@
         "pool_name": "MainStreetAviaryMemoryShrine",
         "pool_type": "RecordingShrine",
         "prompt": "social_feed_prompt_warm_melody"
+    },
+    {
+        "event": "social_feed_prompt_graceful_song",
+        "level": "MainStreet",
+        "name": "AviaryS21GracefulSong",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_graceful_song"
+    },
+    {
+        "event": "social_feed_prompt_hope_story",
+        "level": "MainStreet",
+        "name": "AviaryS21HopefulStory",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_hope_story"
     }
 ]

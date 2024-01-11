@@ -4485,6 +4485,75 @@
         "spirit": true
     },
     {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "floatdance",
+        "outfit": {
+            "body": {
+                "id": 2199658951,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 3978184428,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 3404935839,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.0,
+            "seed": 0,
+            "wing": {
+                "id": 2052290045,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
         "animPack": "SpiritIntellectualNightScene",
         "animPack2": "",
         "capeLevel": 0,
@@ -6560,6 +6629,75 @@
         "capeLevel": 0,
         "ghost": false,
         "hasRelationshipMenu": true,
+        "name": "muscle",
+        "outfit": {
+            "body": {
+                "id": 2541104174,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 847985255,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -0.5,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 5.0,
+            "seed": 0,
+            "wing": {
+                "id": 3178513084,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
         "name": "nerdy",
         "outfit": {
             "body": {
@@ -8478,6 +8616,75 @@
             "seed": 0,
             "wing": {
                 "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "princesscarry",
+        "outfit": {
+            "body": {
+                "id": 1008750552,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 999368342,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 905270780,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 5.0,
+            "seed": 0,
+            "wing": {
+                "id": 634364554,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -10562,6 +10769,75 @@
         "capeLevel": 0,
         "ghost": false,
         "hasRelationshipMenu": true,
+        "name": "questap21",
+        "outfit": {
+            "body": {
+                "id": 2290553360,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 1771957565,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.5,
+            "seed": 0,
+            "wing": {
+                "id": 1888254859,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
         "name": "questbloom",
         "outfit": {
             "body": {
@@ -11045,6 +11321,75 @@
         "capeLevel": 4,
         "ghost": false,
         "hasRelationshipMenu": true,
+        "name": "questfortune",
+        "outfit": {
+            "body": {
+                "id": 38798400,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 1044037391,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2348358260,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 5.56,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "FatLaborAdventurePass",
+        "animPack2": "CharKidAnimPlayerAct",
+        "capeLevel": 4,
+        "ghost": false,
+        "hasRelationshipMenu": true,
         "name": "questfortunelove",
         "outfit": {
             "body": {
@@ -11169,6 +11514,75 @@
             "seed": 0,
             "wing": {
                 "id": 78382708,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": false
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": false,
+        "name": "questlove",
+        "outfit": {
+            "body": {
+                "id": 772190650,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -1.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 0.8,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -14314,7 +14728,7 @@
                 "pat": 0,
                 "tex": 0
             },
-            "height": 1.0,
+            "height": 0.0,
             "horn": {
                 "id": 2166136261,
                 "mask": 0,
@@ -14383,7 +14797,7 @@
                 "pat": 0,
                 "tex": 0
             },
-            "height": 1.0,
+            "height": 0.0,
             "horn": {
                 "id": 2166136261,
                 "mask": 0,
@@ -19032,6 +19446,75 @@
                 "tex": 0
             },
             "scale": 5.56,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "whistle",
+        "outfit": {
+            "body": {
+                "id": 3796947687,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 3074656880,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2921973017,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 4.0,
             "seed": 0,
             "wing": {
                 "id": 2166136261,

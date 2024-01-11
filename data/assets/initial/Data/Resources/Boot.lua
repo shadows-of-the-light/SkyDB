@@ -272,7 +272,7 @@ resource "Mesh" "SeasonCandle17"    { source = "AP17CandleA.fbx", loadAsync = fa
 resource "Mesh" "SeasonCandle18"    { source = "AP18CandleA.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "SeasonCandle19"    { source = "AP19CandleA.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 resource "Mesh" "SeasonCandle20"    { source = "AP20CandleA.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
-
+resource "Mesh" "SeasonCandle21"    { source = "AP21CandleA.fbx", loadAsync = false, registerCollision = false, computeOcclusions = true }
 
 -------------------------------------------------------------------------------
 -- ANIMATION
@@ -283,6 +283,7 @@ resource "AnimationPack" "CharKidAnimEmote_C"			{}
 resource "AnimationPack" "CharKidAnimGroundNav"			{}
 resource "AnimationPack" "CharKidAnimGroundState"		{}
 resource "AnimationPack" "CharKidAnimPlayerAct"			{}
+resource "AnimationPack" "CharKidAnimAP21"              {} -- AP21 CharKidAnim
 
 -------------------------------------------------------------------------------
 -- IMAGES
@@ -412,6 +413,7 @@ resource "ImageRegion" "angryveinR"     { image = "ParticleAtlas", uv = { 1/16, 
 resource "ImageRegion" "nothanksR"      { image = "ParticleAtlas", uv = { 0/16, 15/16, 1/16, 16/16 } }
 resource "ImageRegion" "petal2R"        { image = "ParticleAtlas", uv = { 1/16, 15/16, 2/16, 16/16 } }
 resource "ImageRegion" "bubbleR"        { image = "ParticleAtlas", uv = { 2/16, 14/16, 3/16, 15/16 } }
+resource "ImageRegion" "CresentR"        { image = "ParticleAtlas", uv = { 2/16, 15/16, 3/16, 1 } }
 
 resource "ImageRegion" "rayR"			{ image = "ParticleAtlas", uv = { .25, .75, .5, 1 } }
 resource "ImageRegion" "CloudAnimR"		{ image = "ParticleAtlas", uv = { .5, .5, 1, 1 } }
