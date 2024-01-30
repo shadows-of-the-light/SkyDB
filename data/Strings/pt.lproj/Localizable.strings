@@ -1536,7 +1536,6 @@
 "concert_leave_veteran_player" = "<2>Sair da Viagem Musical da AURORA?</2>\nVocê poderá voltar enquanto a viagem estiver acontecendo.";
 "confirm_bind_star_tag" = "Gostaria de se unir <warning>permanentemente</warning> este produto da STAR à sua conta do Sky?\n \n Este produto não pode ser transferido para outra conta após ser unido.";
 "confirm_change_reservation_seat" = "Solicitar este assento?\n<2>Você assistirá à <b>Viagem Musical</b> com outras pessoas que solicitaram assentos aqui.</2>";
-"confirm_feed_comment_view_all" = "Deseja visualizar os <b>comentários</b> de <b>estranhos?</b>";
 "confirm_feed_follow_creator" = "<1>Ver</1> mais criações deste jogador no futuro?";
 "confirm_feed_replace_comment_body" = "Só é possível deixar um comentário por vez numa criação.\nQuer substituir o comentário anterior?";
 "confirm_feed_replace_comment_title" = "<b>Substituir seu comentário?</b>";
@@ -2633,6 +2632,11 @@
 "luke_ann_text4" = "Eita, esta próxima parte parece muito difícil pra mim... A gente se vê do outro lado!";
 "luke_ann_text5" = "Chegou minha hora de dizer adeus T_T\nContinuem rolando! Feliz aniversário, Sky!!";
 "luke_ann_text6" = "E aí, pessoal, rolando bastante?";
+"mainstreet_exposition_01" = "Finalmente, criança. Resgate-nos desta escuridão.";
+"mainstreet_exposition_02" = "Traga luz ao nosso mundo e domine seus espinhos.";
+"mainstreet_exposition_03" = "Reacenda nossas chamas para que outros possam despertar.";
+"mainstreet_exposition_04" = "Pois você devolverá a luz.";
+"mainstreet_exposition_05" = "Depressa, criança. O reino clama por ajuda.";
 "mainstreet_return_to_guide" = "Fale novamente com o <1>Gestor Otimista</1>.";
 "mainstreet_shop_entrance_event" = "Entrar em uma loja <b>tirará você</b> do evento em que está <2>atualmente</2>.";
 "mainstreet_spell_shop_boat_01" = "Você recebeu um <b>mensagem no barco</b> como agradecimento.";

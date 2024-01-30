@@ -1536,7 +1536,6 @@
 "concert_leave_veteran_player" = "<2>AURORAS Musikalische Reise verlassen?</2>\nDu kannst zurückkehren, solange die Reise noch im Gange ist.";
 "confirm_bind_star_tag" = "Möchtest du dieses STAR-Produkt gerne <warning>dauerhaft</warning> mit deinem Himmelsreich-Konto verknüpfen?\n\n Dieses Produkt kann nach dem Verknüpfen nicht auf ein anderes Konto übertragen werden.";
 "confirm_change_reservation_seat" = "Diesen Sitz beanspruchen? \n<2>Du wirst die <b>Musikalische Reise</b> mit anderen erleben, die hier Sitze beanspruchen.</2>";
-"confirm_feed_comment_view_all" = "Bist du sicher, dass du <b>Kommentare</b> von <b>Fremden</b> sehen willst?";
 "confirm_feed_follow_creator" = "<1>Sehen</1> Sie in Zukunft mehr Kreationen von diesem Spieler?";
 "confirm_feed_replace_comment_body" = "Du kannst jeweils nur einen Kommentar zu einer Kreation hinterlassen.\nWillst du deinen vorherigen Kommentar ersetzen?";
 "confirm_feed_replace_comment_title" = "<b>Ihren Kommentar ersetzen?</b>";
@@ -2632,6 +2631,11 @@
 "luke_ann_text4" = "Oje, der nächste Teil ist zu schwierig für mich ... wir sehen uns auf der anderen Seite!";
 "luke_ann_text5" = "Es ist Zeit, mich zu verabschieden T_T\nImmer schön weiterrollen! Alles Gute zum Geburtstag, Sky!!";
 "luke_ann_text6" = "Habt ihr heute schon eine Rolle gemacht?";
+"mainstreet_exposition_01" = "Endlich, Kind. Rette uns aus dieser Dunkelheit.";
+"mainstreet_exposition_02" = "Bringe Licht in unsere Welt und zähme die Dornenranken.";
+"mainstreet_exposition_03" = "Entfache unsere Flammen, damit andere erwachen.";
+"mainstreet_exposition_04" = "Denn du bringst das Licht zurück.";
+"mainstreet_exposition_05" = "Schnell, Kind. Das Königreich ruft um Hilfe.";
 "mainstreet_return_to_guide" = "Kehre zum <1>Hoffnungsvollen Verwalter</1> zurück.";
 "mainstreet_shop_entrance_event" = "Wenn du einen Shop betrittst, wirst du aus dem <2>aktuellen Event</2> <b>entfernt</b>.";
 "mainstreet_spell_shop_boat_01" = "Sie haben ein <b>nachrichtenboot</b> als Dank erhalten.";

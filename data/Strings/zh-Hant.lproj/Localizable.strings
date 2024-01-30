@@ -1545,7 +1545,6 @@
 "concert_leave_veteran_player" = "<2>你要離開 AURORA 的音樂旅程嗎？</2>\n旅程期間可以隨時回來。";
 "confirm_bind_star_tag" = "是否要<warning>永久</warning>綁定這個STAR產品到您的《光·遇》帳戶？ \n\n這個產品在綁定後不能被轉移到其他帳戶。";
 "confirm_change_reservation_seat" = "選擇此座位嗎？\n<2>你將與其他坐在此處者一同體驗<b>音樂旅程</b>。</2>";
-"confirm_feed_comment_view_all" = "你確定要查看來自<b>陌生人</b>的<b>評論</b>嗎？";
 "confirm_feed_follow_creator" = "要在未來持續<1>欣賞</1>更多來自這個玩家的創作？";
 "confirm_feed_replace_comment_body" = "一項創作只能留一次言。\n你想取代你之前的留言嗎？";
 "confirm_feed_replace_comment_title" = "<b>替換您的評論？</b>";
@@ -2694,6 +2693,11 @@
 "luke_ann_text4" = "哎呀，接下來這部分看起來好難……我先去後面等你們！";
 "luke_ann_text5" = "我得先走了 T_T \n大家繼續滾吧！祝 Sky 生日快樂！！";
 "luke_ann_text6" = "大家今天滾得怎麼樣？";
+"mainstreet_exposition_01" = "孩子，你終於來了。從黑暗中拯救我們吧。";
+"mainstreet_exposition_02" = "披荊斬棘，為我們的世界帶來光亮。";
+"mainstreet_exposition_03" = "重燃我們的心火，讓其他人甦醒。";
+"mainstreet_exposition_04" = "因為你，這個世界將重返光明。";
+"mainstreet_exposition_05" = "動作要快，孩子。王國亟需你的幫助。";
 "mainstreet_return_to_guide" = "回去找<1>滿懷希望的守護者</1>。";
 "mainstreet_shop_entrance_event" = "進入商店將會<b>使你離開</b>你目前<2>正在參與的</2>活動。";
 "mainstreet_spell_shop_boat_01" = "作為回報，您已收到一條<b>燭船</b>。";

@@ -1537,7 +1537,6 @@
 "concert_leave_veteran_player" = "<2>Mau keluar dari Perjalanan Musik AURORA?</2>\nKamu bisa kembali lagi saat perjalanan masih berlangsung.";
 "confirm_bind_star_tag" = "Ingin <warning>secara permanen</warning> mengaitkan produk STAR ini ke akun Sky kamu?\n\nProduk ini tidak dapat ditransfer ke akun lain setelah dihubungkan.";
 "confirm_change_reservation_seat" = "Klaim kursi ini? \n<2>Kamu akan merasakan <b>Perjalanan Musik</b> bersama orang lain yang mengklaim kursi di sini.</2>";
-"confirm_feed_comment_view_all" = "Apakah kamu yakin ingin melihat <b>komentar</b> dari <b>orang asing?</b>";
 "confirm_feed_follow_creator" = "<1>Lihat</1> kreasi lebih banyak dari pemain ini di masa depan?";
 "confirm_feed_replace_comment_body" = "Kamu hanya bisa memberikan satu komentar pada kreasi dalam satu waktu.\\Ingin mengganti komentarmu sebelumnya?";
 "confirm_feed_replace_comment_title" = "<b>Ganti Komentarmu?</b>";
@@ -2635,6 +2634,11 @@
 "luke_ann_text4" = "Waduh, bagian selanjutnya terlalu sulit untukku... sampai jumpa di sisi lain!";
 "luke_ann_text5" = "Saatnya berpisah T_T\nTeruslah berguling! Selamat ulang tahun, Sky!!";
 "luke_ann_text6" = "Bagaimana kabar kalian semua hari ini?";
+"mainstreet_exposition_01" = "Akhirnya, nak. Selamatkan kami dari kegelapan ini.";
+"mainstreet_exposition_02" = "Bawalah cahaya ke dunia kami dan jinakkan semak belukarnya.";
+"mainstreet_exposition_03" = "Nyalakan kembali api kami agar orang lain bisa terbangun.";
+"mainstreet_exposition_04" = "Karena kau akan mengembalikan cahaya.";
+"mainstreet_exposition_05" = "Cepatlah, nak. Kerajaan membutuhkan bantuan.";
 "mainstreet_return_to_guide" = "Kembali ke <1>Pelayan yang Penuh Harapan</1>.";
 "mainstreet_shop_entrance_event" = "Memasuki toko akan <b>membawa kamu menjauh</b> dari peristiwa yang <2>sedang kamu alami</2>.";
 "mainstreet_spell_shop_boat_01" = "Kamu telah menerima <b>perahu pesan</b> sebagai ucapan terima kasih.";

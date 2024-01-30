@@ -1563,7 +1563,6 @@
 "concert_leave_veteran_player" = "<2>Tạm rời Hành trình Âm nhạc của AURORA?</2>\nBạn có thể trở lại trong thời gian hành trình diễn ra. ";
 "confirm_bind_star_tag" = "Bạn có muốn <warning>vĩnh viễn</warning> liên kết sản phẩm STAR này với tài khoản Sky không?\n\nKhông thể chuyển sản phẩm này sang tài khoản khác sau khi liên kết.";
 "confirm_change_reservation_seat" = "Đặt trước chỗ này?\n<2>Bạn sẽ trải nghiệm <b>Hành trình Âm nhạc</b> cùng những người chơi khác đã đặt chỗ tại đây.</2>";
-"confirm_feed_comment_view_all" = "Bạn chắc chắn muốn xem <b>nhận xét</b> từ <b>người lạ?</b>";
 "confirm_feed_follow_creator" = "<1>Xem</1> thêm các sáng tạo từ người chơi này trong tương lai?";
 "confirm_feed_replace_comment_body" = "Mỗi lần bạn chỉ có thể bình luận một lần về tác phẩm.\nBạn muốn thay thế bình luận trước đó của mình?";
 "confirm_feed_replace_comment_title" = "<b>Thay thế bình luận của bạn?</b>";
@@ -2890,6 +2889,11 @@
 "luke_ann_text4" = "Ố ồ, phần tiếp theo này có lẽ hơi khó với tôi... hẹn gặp bạn ở phía bên kia nhé!";
 "luke_ann_text5" = "Đã đến lúc tôi phải nói lời tạm biệt T_T\nCứ lăn đi nhé mọi người! Chúc mừng sinh nhật, Sky!!";
 "luke_ann_text6" = "Hôm nay các bạn lăn thế nào?";
+"mainstreet_exposition_01" = "Đã đến lúc rồi. Hãy giải cứu chúng tôi khỏi bóng tối này.";
+"mainstreet_exposition_02" = "Hãy mang ánh sáng đến thế giới của chúng tôi và chế ngự sự gai góc của nó.";
+"mainstreet_exposition_03" = "Hãy thắp lại ngọn lửa của chúng tôi để những người khác có thể tỉnh giấc.";
+"mainstreet_exposition_04" = "Bạn sẽ lấy lại ánh sáng.";
+"mainstreet_exposition_05" = "Đừng chậm trễ. Vương quốc đang kêu gọi giúp đỡ.";
 "mainstreet_return_to_guide" = "Quay lại với <1>Quản Gia Hy Vọng</1>.";
 "mainstreet_shop_entrance_event" = "Bước vào một cửa hàng sẽ <b>đưa bạn ra khỏi</b> sự kiện mà bạn <2>đang trải nghiệm</2>.";
 "mainstreet_spell_shop_boat_01" = "Bạn đã nhận được một <b>thuyền thông điệp</b> như lời cảm ơn.";

@@ -1852,7 +1852,6 @@
 "concert_leave_veteran_player" = "<2>AURORA 音楽の旅から退場しますか？</2>\nこのコンサート開催中は、再入場できます";
 "confirm_bind_star_tag" = "このSTAR製品を<warning>永久的に</warning>あなたのSkyアカウントと連携しますか？\n\n連携後は、他のアカウントに移すことは出来ません。";
 "confirm_change_reservation_seat" = "この席を確保しますか？\n<2>この周囲の席のプレイヤーたちと一緒に<b>音楽の旅</b>をお楽しみいただけます</2>";
-"confirm_feed_comment_view_all" = "<b>見知らぬプレイヤー</b>からの<b>コメント</b>も見れるようにしますか？";
 "confirm_feed_follow_creator" = "このプレイヤーの今後の作品にも<1>興味がありますか</1>？";
 "confirm_feed_replace_comment_body" = "作品に対し残せるコメントは一つのみです。\n今あるコメントを上書きしますか？";
 "confirm_feed_replace_comment_title" = "<b>コメントの上書き</b>";
@@ -2949,6 +2948,11 @@
 "luke_ann_text4" = "おっとぉ、このパートは難しそうだぞ…うん、向こう側でまた会おう！";
 "luke_ann_text5" = "もうそろそろお別れの時間みたい(T-T)\nみんなこれからも転がり続けてね！ハッピー・バースデー、Sky！！";
 "luke_ann_text6" = "みんな今日も上手く転がってるかな？";
+"mainstreet_exposition_01" = "時は来ました、星の子よ。どうか我らを闇より救いだしてください";
+"mainstreet_exposition_02" = "光をもたらし世界に蔓延る荊を鎮めるのです";
+"mainstreet_exposition_03" = "我らに再び火が灯りほかの者たちも時期に目覚めるでしょう";
+"mainstreet_exposition_04" = "あなたが、光を取り戻すのです";
+"mainstreet_exposition_05" = "急いで、星の子よ。王国が救いを求めています";
 "mainstreet_return_to_guide" = "<1>希望の番人</1>のもとへ戻りましょう";
 "mainstreet_shop_entrance_event" = "お店に入ると<2>現在体験中</2>のイベントから、<b>退場</b>することになります";
 "mainstreet_spell_shop_boat_01" = "お礼に<b>メッセージ・ボート</b>を受け取りました";

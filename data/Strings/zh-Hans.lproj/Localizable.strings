@@ -1866,7 +1866,6 @@
 "concert_leave_veteran_player" = "<2>要离开AURORA的音乐之旅吗？</2>\n音乐之旅进行期间可以随时返回。";
 "confirm_bind_star_tag" = "是否要<warning>永久</warning>绑定这个STAR产品到您的《光·遇》账号？\n\n这个产品在绑定后不能被转移到其他账号。";
 "confirm_change_reservation_seat" = "认领此座位？ \n<2>你将与在此处认领座位的其他人一起体验<b>音乐之旅</b>。</2>";
-"confirm_feed_comment_view_all" = "确定要查看<b>陌生人</b>的<b>评论</b>吗？";
 "confirm_feed_follow_creator" = "要在未来持续<1>欣赏</1>更多来自这个玩家的创作？";
 "confirm_feed_replace_comment_body" = "一次只能对一个作品发表一条评论。\n你想替换之前的评论吗？";
 "confirm_feed_replace_comment_title" = "<b>替换您的评论？</b>";
@@ -3014,6 +3013,11 @@
 "luke_ann_text4" = "呃哦，接下来这段对我来说好像有点困难……我先去后面等你们了！";
 "luke_ann_text5" = "是时候说再见了 T_T\n各位继续快乐翻滚吧！祝《光·遇》生日快乐！！";
 "luke_ann_text6" = "大家今天翻滚得快乐吗？";
+"mainstreet_exposition_01" = "孩子，你终于来了。拯救我们脱离这片黑暗吧。";
+"mainstreet_exposition_02" = "披荆斩棘，为我们的世界带来光亮。";
+"mainstreet_exposition_03" = "重新点燃我们的心火，唤醒其他人。";
+"mainstreet_exposition_04" = "因为你，这个世界将重返光明。";
+"mainstreet_exposition_05" = "孩子，快点。王国在呼唤你的帮助。";
 "mainstreet_return_to_guide" = "回去找<1>满怀希望的守护者</1>。";
 "mainstreet_shop_entrance_event" = "进入商店会<b>让你离开</b><2>当前正在参与</2>的活动。";
 "mainstreet_spell_shop_boat_01" = "作为回报，您已收到一条<b>烛船</b>。";

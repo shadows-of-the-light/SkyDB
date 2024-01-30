@@ -1537,7 +1537,6 @@
 "concert_leave_veteran_player" = "<2>AURORA 음악의 여정을 중단할까요?</2>\n공연 종료 전까지는 공연장으로 돌아올 수 있습니다.";
 "confirm_bind_star_tag" = "이 STAR 제품을 Sky 계정에 <warning>영구적으로</warning> 귀속시킬까요?\n\n귀속된 제품은 다른 계정으로 옮길 수 없습니다.";
 "confirm_change_reservation_seat" = "이 자리를 맡을까요? \n<2>여기에 자리를 맡은 다른 플레이어들과 함께 <b>음악의 여정</b>을 감상합니다.</2>";
-"confirm_feed_comment_view_all" = "<b>낯선 사람</b>의 <b>댓글</b>을 확인하시겠어요?";
 "confirm_feed_follow_creator" = "앞으로 이 플레이어의 작품을 더 <1>볼까요</1>?";
 "confirm_feed_replace_comment_body" = "작품 당 의견을 한 개만 남길 수 있어요.\n이전 의견을 교체할까요?";
 "confirm_feed_replace_comment_title" = "<b>댓글을 바꿀까요?</b>";
@@ -2634,6 +2633,11 @@
 "luke_ann_text4" = "앗, 다음 단계는 너무 어려울 것 같은데... 반대편에서 만나요!";
 "luke_ann_text5" = "이제 작별할 때가 됐어요 T_T\n열심히 굴러보세요! Sky 기념일을 축하해요!";
 "luke_ann_text6" = "다들 잘 구르고 있나요?";
+"mainstreet_exposition_01" = "드디어 와줬군요, 빛의 아이여. 부디 우리를 어둠으로부터 구해주세요.";
+"mainstreet_exposition_02" = "우리 세계로 빛을 가져와 가시덤불을 길들여주세요.";
+"mainstreet_exposition_03" = "우리의 불꽃을 되살려 다른 이들을 깨워주세요.";
+"mainstreet_exposition_04" = "당신의 손으로 빛을 돌려주세요.";
+"mainstreet_exposition_05" = "서둘러주세요. 왕국이 도움을 청합니다.";
 "mainstreet_return_to_guide" = "<1>희망적인 집사</1>에게 돌아가주세요.";
 "mainstreet_shop_entrance_event" = "상점에 들어가면 <2>현재 참여 중</2>인 활동이 <b>중단됩니다</b>.";
 "mainstreet_spell_shop_boat_01" = "감사의 표시로 <b>종이배 메시지</b>를 받았습니다.";

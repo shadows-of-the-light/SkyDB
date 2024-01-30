@@ -1970,7 +1970,6 @@
 "concert_leave_veteran_player" = "<2>Leave AURORA's Musical Voyage?</2>\nYou will be able to return while the voyage is still underway.";
 "confirm_bind_star_tag" = "Would you like to <warning>permanently</warning> bind this STAR product to your Sky account?\n\nThis product can't be transferred to another account after binding.";
 "confirm_change_reservation_seat" = "Claim this seat? \n<2>You will experience the <b>Musical Voyage</b> with others who claim seats here.</2>";
-"confirm_feed_comment_view_all" = "Are you sure you want to view <b>comments</b> from <b>strangers?</b>";
 "confirm_feed_follow_creator" = "<1>View</1> more creations from this player in the future?";
 "confirm_feed_replace_comment_body" = "You can only leave one comment on a creation at a time.\nWould you like to replace your previous comment?";
 "confirm_feed_replace_comment_title" = "<b>Replace Your Comment?</b>";
@@ -3394,6 +3393,11 @@
 "luke_ann_text4" = "Uh oh, this next part looks too hard for me... meet you on the other side!";
 "luke_ann_text5" = "It's time for me to say goodbye T_T\nKeep rolling everybody! Happy Birthday, Sky!!";
 "luke_ann_text6" = "How's everybody rolling today?";
+"mainstreet_exposition_01" = "At last, child. Rescue us from this darkness.";
+"mainstreet_exposition_02" = "Bring light to our world and tame its brambles.";
+"mainstreet_exposition_03" = "Rekindle our flames so others may awaken.";
+"mainstreet_exposition_04" = "For you will return the light.";
+"mainstreet_exposition_05" = "Hurry, child. The Kingdom calls for help.";
 "mainstreet_return_to_guide" = "Return to the <1>Hopeful Steward</1>.";
 "mainstreet_shop_entrance_event" = "Entering a shop will <b>take you away</b> from the event you are <2>currently experiencing</2>.";
 "mainstreet_spell_shop_01" = "";
@@ -4701,7 +4705,7 @@
 "social_feed_comment_all_title" = "<b>All Comments</b>";
 "social_feed_comment_button" = "<b>Add a comment...</b>";
 "social_feed_comment_button_gamepad" = "<b>Comment</b>";
-"social_feed_comment_enable" = "Allow Comments?";
+"social_feed_comment_enable" = "<b>Comments</b>";
 "social_feed_comment_friends_title" = "<b>Friend Comments</b>";
 "social_feed_comment_menu_count" = "<b>Comments ({{1}})</b>";
 "social_feed_comment_menu_title" = "<b>Comments</b>";
@@ -4709,6 +4713,8 @@
 "social_feed_comment_public_title" = "<b>Public Comments</b>";
 "social_feed_comment_text_placeholder" = "Add a comment...";
 "social_feed_comment_text_title" = "Add a comment";
+"social_feed_comment_view_all_body" = "This will include comments from players you haven't met.";
+"social_feed_comment_view_all_title" = "<b>View Community Comments?</b> ";
 "social_feed_comment_with_hearts" = "{{1}}\n<heart/>+{{2}}";
 "social_feed_comment_with_name" = "<b>{{1}}</b> - {{2}}";
 "social_feed_dialog_placeholder" = "Leave a note";
@@ -4773,6 +4779,7 @@
 "social_feed_superlike_collected_misc" = "Received {{1}} <heart/> for your <b>Shared Creations</b>.";
 "social_feed_superlike_collected_note" = "Received {{1}} <heart/> for your <b>Shared Message</b>.";
 "social_feed_superlike_collected_space" = "Received {{1}} <heart/> for your <b>Shared Space</b>.";
+"social_feed_superlike_cooldown" = "You've already sent this friend a <heart/> on one of their creations today.\nYou can send them another <heart/> tomorrow.";
 "social_feed_superlike_friend_memory" = "Your <b>Shared Memory</b> received a <heart/> from {{1}}.\nCollect it at <b>Aviary Village</b>.";
 "social_feed_superlike_friend_note" = "Your <b>Shared Message</b> received a <heart/> from {{1}}.\nCollect it at <b>Aviary Village</b>.";
 "social_feed_superlike_friend_space" = "Your <b>Shared Space</b> received a <heart/> from {{1}}.\nCollect it at <b>Aviary Village</b>.";
