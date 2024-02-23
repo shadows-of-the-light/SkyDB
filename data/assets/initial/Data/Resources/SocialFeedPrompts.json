@@ -1,11 +1,19 @@
 [
     {
-        "event": "social_feed_prompt_survive_tip",
+        "event": "social_feed_prompt_camping",
         "level": "MainStreet",
         "name": "AviaryCampingSurvivalTip",
         "pool_name": "MainStreetAviaryMemoryShrine",
         "pool_type": "RecordingShrine",
-        "prompt": "social_feed_prompt_survive_tip"
+        "prompt": "social_feed_prompt_camping"
+    },
+    {
+        "event": "social_feed_prompt_dobloom",
+        "level": "MainStreet",
+        "name": "AviaryDOBTransientBeauty",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_dobloom"
     },
     {
         "event": "social_feed_prompt_color_party",
@@ -38,6 +46,14 @@
         "pool_name": "MainStreetAviaryMemoryShrine",
         "pool_type": "RecordingShrine",
         "prompt": "social_feed_prompt_peace_memory"
+    },
+    {
+        "event": "social_feed_prompt_dear_friends",
+        "level": "MainStreet",
+        "name": "AviaryDearFriends",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_dear_friends"
     },
     {
         "event": "social_feed_prompt_festive_joke",
@@ -80,6 +96,22 @@
         "prompt": "social_feed_prompt_warm_melody"
     },
     {
+        "event": "social_feed_prompt_lively_party",
+        "level": "MainStreet",
+        "name": "AviaryLivelyParty",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_lively_party"
+    },
+    {
+        "event": "social_feed_prompt_s21_end",
+        "level": "MainStreet",
+        "name": "AviaryS21End",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_s21_end"
+    },
+    {
         "event": "social_feed_prompt_graceful_song",
         "level": "MainStreet",
         "name": "AviaryS21GracefulSong",
@@ -94,5 +126,13 @@
         "pool_name": "MainStreetAviaryMemoryShrine",
         "pool_type": "RecordingShrine",
         "prompt": "social_feed_prompt_hope_story"
+    },
+    {
+        "event": "social_feed_prompt_spring_story",
+        "level": "MainStreet",
+        "name": "AviarySpringStory",
+        "pool_name": "MainStreetAviaryMemoryShrine",
+        "pool_type": "RecordingShrine",
+        "prompt": "social_feed_prompt_spring_story"
     }
 ]

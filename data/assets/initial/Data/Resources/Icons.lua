@@ -151,6 +151,7 @@ resource "Icons" "SystemUI_EventCandle08" {type="SystemUI", size=128, source="Da
 resource "Icons" "SystemUI_EventCandle09" {type="SystemUI", size=128, source="Data/Images/UI/UiMenuEventCurrencyFeast.png"}
 resource "Icons" "SystemUI_EventCandle10" {type="SystemUI", size=128, source="Data/Images/UI/UiMenuEventCurrencyFortune.png"}
 resource "Icons" "SystemUI_EventCandle11" {type="SystemUI", size=128, source="Data/Images/UI/UiMenuEventCurrencyLove.png"}
+resource "Icons" "SystemUI_EventCandle12" {type="SystemUI", size=128, source="Data/Images/UI/UiMenuEventCurrencyBloom.png"}
 
 resource "Icons" "SystemUI_Sit" {type="SystemUI", size=128, source="Data/Images/UI/UiEmoteSit2.png"}
 resource "Icons" "SystemUI_Star" {type="SystemUI", size=128, source="Data/Images/UI/UiMiscStar.png"}

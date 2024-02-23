@@ -23,7 +23,6 @@ resource "Mesh" "Bloom_Sapling" { source = "Bloom_Sapling.fbx", computeOcclusion
 resource "Mesh" "BoatDayAnim_01" { source = "BoatDayAnim_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "BoatDayMotif_01" { source = "BoatDayMotif_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "BoatDock_02" { source = "BoatDock_02.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
-resource "Mesh" "BookNightElder" { source = "BookNightElder.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "Cave2EntranceMotif_01" { source = "Cave2EntranceMotif_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "Cave2Entrance_01" { source = "Cave2Entrance_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "CharBirdLowAnim" { source = "CharBirdLowAnim.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
@@ -45,7 +44,6 @@ resource "Mesh" "DawnTempleStairsRail_01" { source = "DawnTempleStairsRail_01.fb
 resource "Mesh" "DayIntroGate_01" { source = "DayIntroGate_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "DiningPlateAP04_01" { source = "DiningPlateAP04_01.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "GodLight3Z" { source = "GodLight3Z.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
-resource "Mesh" "GodLight3b" { source = "GodLight3b.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "GodLight6" { source = "GodLight6.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = false, stripAnimation = false }
 resource "Mesh" "GodLightTemple" { source = "GodLightTemple.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
 resource "Mesh" "JarCrate" { source = "JarCrate.fbx", computeOcclusions = false, computeEdges = false, computeAdjacency = false, compressPositions = false, compressUvs = false, stripUv13 = false, stripNormals = false, forceIndex32 = false, registerCollision = true, stripAnimation = false }
@@ -134,7 +132,6 @@ resourceref "Image" "RedL2"
 resourceref "Image" "StoneBase"
 resourceref "Image" "StoneBaseMotif"
 resourceref "Image" "StoneBaseSh"
-resourceref "Image" "StoneBlueD2"
 resourceref "Image" "StoneGrunge2"
 resourceref "Image" "StoneRamp"
 resourceref "Image" "StormCard2"

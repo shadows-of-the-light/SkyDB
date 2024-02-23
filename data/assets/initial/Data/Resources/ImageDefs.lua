@@ -156,6 +156,7 @@ resourcedef "Image" "SandMask"				{ source = "SandMask.png", gammaCorrection = f
 -- Noise
 resourcedef "Image" "Noise2Ch"				{ source = "Noise2Ch.png", compression = 4, filter = "nearest", gammaCorrection = false }
 resourcedef "Image" "Noise3Ch"				{ source = "Noise3Ch.png", compression = 4, gammaCorrection = false }
+resourcedef "Image" "Noise3ChSoft"			{ source = "Noise3ChSoft.png", compression = 4, gammaCorrection = false }
 resourcedef "Image" "NoiseBlue3Ch"			{ source = "NoiseBlue3Ch.png", compression = 4, disableMips = true, filter = "nearest" }
 resourcedef "Image" "ThreeDee"				{ source = "ThreeDee.png", compression = 4, disableMips = true, gammaCorrection = false }
 resourcedef "Image" "ThreeDeeCauliflower"	{ source = "ThreeDeeCauliflower.png", compression = 4, disableMips = true, gammaCorrection = false }
@@ -954,5 +955,4 @@ resourcedef "Image" "Before_Abyss_WornStone_NM"    { source = "Before_Abyss_Worn
 resourcedef "Image" "Before_Abyss_Sand_BW"    { source = "Before_Abyss_Sand_BW.png" }
 
 end
-
 

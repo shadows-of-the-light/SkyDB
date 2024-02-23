@@ -2200,6 +2200,20 @@
         "droppable": false,
         "event": "",
         "icon": "UiSocialTeleport",
+        "level": "Prairie_WildLifePark",
+        "max_level": 1,
+        "name": "questbloompark",
+        "params": "",
+        "speedMult": [
+            0.0
+        ],
+        "type": "quest_giver"
+    },
+    {
+        "default": false,
+        "droppable": false,
+        "event": "",
+        "icon": "UiSocialTeleport",
         "level": "DayHubCave",
         "max_level": 1,
         "name": "questrainbow",

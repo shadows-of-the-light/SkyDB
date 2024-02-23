@@ -37,10 +37,10 @@ resource "Shader" "Resample"					{ vs = "Resample.vert", fs = "Resample.frag" }
 resource "Shader" "VisibilityMeshDraw"		    { vs = "VisibilityMeshDraw.vert", fs="VisibilityMeshDraw.frag", defines="" }
 
 -- FragSBO can only use writeable SSBO in fragment shader for Android Mali
-resource "Shader" "VisibilityQuery"		   	    { vs = "VisibilityQuery.vert", defines="" }
+resource "Shader" "VisibilityQuery"		   	    { vs = "VisibilityQuery.vert", defines="NO_OUTPUTS_SSBO" }
 resource "Shader" "VisibilityQueryFragSSBO"		{ vs = "VisibilityQuery.vert", fs = "VisibilityQuery.frag", defines="FRAG_SSBO" }
 
-resource "Shader" "VisibilityQueryMin"		    { vs = "VisibilityQuery.vert", defines="SAMPLER_MINMAX" }
+resource "Shader" "VisibilityQueryMin"		    { vs = "VisibilityQuery.vert", defines="NO_OUTPUTS_SSBO SAMPLER_MINMAX" }
 resource "Shader" "VisibilityQueryMinFragSSBO"  { vs = "VisibilityQuery.vert", fs = "VisibilityQuery.frag", defines="FRAG_SSBO SAMPLER_MINMAX" }
 
 resource "Shader" "VisibilityDownMin"			{ vs = "QuadFS.vert", fs = "DepthDownsample.frag", defines="TO_HALF SAMPLER_MINMAX" }
@@ -97,9 +97,9 @@ resource "Shader" "Tonemap_movie"				{ vs = "QuadFS.vert", fs = "Tonemap.frag", 
 resource "Shader" "Tonemap_screenshot"			{ vs = "QuadFS.vert", fs = "Tonemap.frag", defines = "BEND REC_709 sRGB DEBANDING" }
 
 -- FragSBO can only use writeable SSBO in fragment shader for Android Mali
-resource "Shader" "LumFeedback"					{ vs = "LumFeedback.vert" }
+resource "Shader" "LumFeedback"					{ vs = "LumFeedback.vert", defines = "NO_OUTPUTS_SSBO" }
 resource "Shader" "LumFeedbackFragSSBO"			{ vs = "LumFeedback.vert", fs = "LumFeedback.frag", defines = "FRAG_SSBO" }
-resource "Shader" "DepthFeedback"				{ vs = "DepthFeedback.vert" }
+resource "Shader" "DepthFeedback"				{ vs = "DepthFeedback.vert", defines = "NO_OUTPUTS_SSBO" }
 resource "Shader" "DepthFeedbackFragSSBO"		{ vs = "DepthFeedback.vert", fs = "DepthFeedback.frag", defines = "FRAG_SSBO" }
 
 -- Debug
@@ -141,35 +141,42 @@ resource "Shader" "WorldSprite"					{ group = "Blended", vs = "WorldSprite.vert"
 
 -- Terrain materials
 resource "Shader" "TerrainDepth"				{ group = "TerrainDepth", vs = "Terrain.vert", fs = "Terrain.frag", defines = "DEPTH", toolExport = false }
+resource "Shader" "TerrainDepthTess"			{ group = "TerrainDepth", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "DEPTH TESSELLATION", toolExport = false }
 resource "Shader" "CloudShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines="CLOUD UNDULATE MESH" }
 resource "Shader" "CloudCard"					{ group = "Cloud", vs = "CloudCard.vert", fs = "CloudCard.frag", neverCastShadows = true }
 
 resource "Shader" "GrassSh"						{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "GRASS OVERLAY", toolExport = false }
+resource "Shader" "GrassShTess"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "GRASS OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "GrassShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "GRASS MESH", toolExport = false }
 resource "Shader" "GrassShMeshDecal"			{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "GRASS MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "GrassShSkirt"				{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "GRASS SKIRT OVERLAY DECAL", toolExport = false }
 
 resource "Shader" "RockFaceSh"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE OVERLAY", toolExport = false }
+resource "Shader" "RockFaceShTess"				{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "ROCKFACE OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "RockFaceShMesh"				{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE MESH", toolExport = false }
 resource "Shader" "RockFaceShMeshDecal"			{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "RockFaceShSkirt"				{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE SKIRT OVERLAY DECAL", toolExport = false }
 
 resource "Shader" "RockFaceRainSh"				{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE RAIN OVERLAY", toolExport = false }
+resource "Shader" "RockFaceRainShTess"			{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "ROCKFACE RAIN OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "RockFaceRainShMesh"			{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE RAIN MESH", toolExport = false }
 resource "Shader" "RockFaceRainShMeshDecal"		{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE RAIN MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "RockFaceRainShSkirt"			{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "ROCKFACE RAIN SKIRT OVERLAY DECAL", toolExport = false }
 
 resource "Shader" "SandSh"						{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND OVERLAY", toolExport = false }
+resource "Shader" "SandShTess"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "SAND OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "SandShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND MESH", toolExport = false }
 resource "Shader" "SandShMeshDecal"				{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "SandShSkirt"					{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND SKIRT OVERLAY DECAL", toolExport = false }
 
 resource "Shader" "SnowSh"						{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW OVERLAY", toolExport = false }
+resource "Shader" "SnowShTess"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "SNOW OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "SnowShMesh"					{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW MESH", toolExport = false }
 resource "Shader" "SnowShMeshDecal"				{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "SnowShSkirt"					{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SNOW SKIRT OVERLAY DECAL", toolExport = false }
 
 resource "Shader" "SandRainSh"					{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN OVERLAY", toolExport = false }
+resource "Shader" "SandRainShTess"				{ group = "TerrainMats", vs = "Terrain.vert", fs = "Terrain.frag", tc = "Terrain.tesc", te = "Terrain.tese", defines = "SAND RAIN OVERLAY TESSELLATION", toolExport = false }
 resource "Shader" "SandRainShMesh"				{ group = "Opaque", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN MESH", toolExport = false }
 resource "Shader" "SandRainShMeshDecal"			{ group = "ObjectDecal", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN MESH OVERLAY DECAL", toolExport = false }
 resource "Shader" "SandRainShSkirt"				{ group = "ObjectSkirt", vs = "Terrain.vert", fs = "Terrain.frag", defines = "SAND RAIN SKIRT OVERLAY DECAL", toolExport = false }
@@ -177,7 +184,7 @@ resource "Shader" "SandRainShSkirt"				{ group = "ObjectSkirt", vs = "Terrain.ve
 -- Flower.frag
 resource "Shader" "Flower"						{ group = "Flowers", vs = "Flower.vert", fs = "Flower.frag", toolExport = false }
 resource "Shader" "FlowerShadow"				{ group = "FlowerShadows", vs = "Flower.vert", fs = "Flower.frag", defines = "SHADOW", toolExport = false }
-resource "Shader" "GrassBladeNew"				{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS SSBO", toolExport = false }
+resource "Shader" "GrassBladeNew"				{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS READ_SSBO", toolExport = false }
 resource "Shader" "GrassBlade"					{ group = "OpaqueTwoFace", vs = "Flower.vert", fs = "Flower.frag", defines = "GRASS", toolExport = false }
 
 -- Mesh.frag
@@ -199,6 +206,7 @@ resource "Shader" "ChamAlphaSdf"				{ group = "Opaque", vs = "Mesh.vert", fs = "
 
 -- Ocean.frag
 resource "Shader" "Ocean"						{ group = "Ocean", vs = "Ocean.vert", fs = "Ocean.frag", toolExport = false, defines="", neverCastShadows = true }
+resource "Shader" "OceanTess"					{ group = "Ocean", vs = "Ocean.vert", fs = "Ocean.frag", tc = "Ocean.tesc", te = "Ocean.tese", toolExport = false, defines="TESSELLATION", neverCastShadows = true }
 resource "Shader" "OceanMesh"					{ group = "OceanModel", vs = "Ocean.vert", fs = "Ocean.frag", toolExport = true, neverCastShadows = true, defines="MODEL" }
 
 -- Effects
@@ -295,6 +303,7 @@ resourceref "Image" "Consolas32"
 -- Intro resources
 resourceref "Image" "UISpot"
 resourceref "Image" "Noise3Ch"
+resourceref "Image" "Noise3ChSoft"
 resourceref "Image" "CharSkyRayBasicTex"
 resourceref "Image" "RedL2"
 resourceref "Image" "RedD3"

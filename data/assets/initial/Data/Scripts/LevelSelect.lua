@@ -27,7 +27,7 @@ ArcLevels = {
 	level( "CandleSpace",				"",			"dawn" ),
 	level( "Dawn",						"",			"dawn" ),
 	level( "StormEvent_VoidSpace",		"",			"storm" ),
-	-- Do not add levels to "" bundle without changing things in MakeResourceScripts.lua 
+	-- Do not add levels to "" bundle without changing things in MakeResourceScripts.lua
 	-- Combined assets can not exceed 150MB""
 	level( "DawnCave",					"dawn" ),
 	level( "Dawn_TrialsWater",			"dawn" ),

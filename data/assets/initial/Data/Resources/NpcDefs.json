@@ -2484,6 +2484,75 @@
         "spirit": true
     },
     {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "bubbles_spring",
+        "outfit": {
+            "body": {
+                "id": 1593516145,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 1182848068,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 2971069819,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 801960077,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2035109393,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.0,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
         "animPack": "SpiritFatLaborDayHubMidScene",
         "animPack2": "",
         "capeLevel": 0,
@@ -2904,6 +2973,75 @@
         "ghost": false,
         "hasRelationshipMenu": true,
         "name": "chuckle",
+        "outfit": {
+            "body": {
+                "id": 764327266,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 2942907137,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 968949049,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 801960077,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 1661108877,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.0,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "CharSkyNPC_Skeleton_Merchant",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "chuckle_spring",
         "outfit": {
             "body": {
                 "id": 764327266,
@@ -10841,7 +10979,7 @@
         "name": "questbloom",
         "outfit": {
             "body": {
-                "id": 1315608939,
+                "id": 772190650,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -10853,7 +10991,7 @@
                 "tex": 0
             },
             "hair": {
-                "id": 2737207737,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -10872,7 +11010,7 @@
                 "tex": 0
             },
             "mask": {
-                "id": 1304488902,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -10962,6 +11100,75 @@
             "seed": 0,
             "wing": {
                 "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "questbloompark",
+        "outfit": {
+            "body": {
+                "id": 1315608939,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 3595485163,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.5,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 1304488902,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.5,
+            "seed": 0,
+            "wing": {
+                "id": 2597776800,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -11876,7 +12083,7 @@
         "name": "questoasis",
         "outfit": {
             "body": {
-                "id": 1315608939,
+                "id": 772190650,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -11888,7 +12095,7 @@
                 "tex": 0
             },
             "hair": {
-                "id": 2737207737,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -11907,7 +12114,7 @@
                 "tex": 0
             },
             "mask": {
-                "id": 1304488902,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -11928,6 +12135,75 @@
             "seed": 0,
             "wing": {
                 "id": 2469511883,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "questpc",
+        "outfit": {
+            "body": {
+                "id": 4162320124,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 1957362244,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": 0.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 4264449179,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 3467430754,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 3.0,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -12058,6 +12334,75 @@
             },
             "prop": {
                 "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "scale": 4.0,
+            "seed": 0,
+            "wing": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            }
+        },
+        "skeleton": "",
+        "spirit": true
+    },
+    {
+        "animPack": "",
+        "animPack2": "",
+        "capeLevel": 0,
+        "ghost": false,
+        "hasRelationshipMenu": true,
+        "name": "questspring",
+        "outfit": {
+            "body": {
+                "id": 3691947440,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "feet": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hair": {
+                "id": 563247171,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "hat": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "height": -1.0,
+            "horn": {
+                "id": 2166136261,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "mask": {
+                "id": 863399530,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "neck": {
+                "id": 801960077,
+                "mask": 0,
+                "pat": 0,
+                "tex": 0
+            },
+            "prop": {
+                "id": 1994487329,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -12359,7 +12704,7 @@
         "name": "questwisteria",
         "outfit": {
             "body": {
-                "id": 1315608939,
+                "id": 772190650,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -12371,7 +12716,7 @@
                 "tex": 0
             },
             "hair": {
-                "id": 2737207737,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
@@ -12390,7 +12735,7 @@
                 "tex": 0
             },
             "mask": {
-                "id": 1304488902,
+                "id": 2166136261,
                 "mask": 0,
                 "pat": 0,
                 "tex": 0
