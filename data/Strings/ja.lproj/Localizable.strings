@@ -152,7 +152,7 @@
 "account_select_type_gamecenter" = "<b>Game Center</b>";
 "account_select_type_google" = "<b>Googleアカウント</b>";
 "account_select_type_huawei" = "<b>HUAWEI ID</b>";
-"account_select_type_local" = "<b>ローカルアカウント</b>";
+"account_select_type_local" = "<b>ローカルア���ウント</b>";
 "account_select_type_nintendo" = "<b>ニンテンドーアカウント</b>";
 "account_select_type_sony" = "<b>PlayStation™Networkにサインインする</b>";
 "account_select_type_steam" = "<b>Steam</b>";
@@ -807,7 +807,7 @@
 "ap21_quest03_narration_10" = "対して鹿は、ただこの出会いを秘密にすることを希いました…";
 "ap21_quest03_narration_11" = "…ですが村人は知っていました。報酬を得られる可能性があることを…";
 "ap21_quest03_narration_12" = "…王女が鹿を欲していることを";
-"ap21_quest03_narration_13" = "都に戻った村人は、自身が見たことを国王に伝えました";
+"ap21_quest03_narration_13" = "都に戻った村人���、自身が見たことを国王に伝えました";
 "ap21_quest03_narration_14" = "国王は鹿に追手をかけました";
 "ap21_quest03_narration_15" = "九色の鹿は裏切られたのです";
 "ap21_quest04_hint1" = "湖にはまった生き物たちを救いに向かった鹿を手伝いましょう";
@@ -1047,7 +1047,7 @@
 "aurora_queendom_3600" = "私の国が来たる";
 "aurora_queendom_3700" = "私の国が来たる";
 "aurora_queendom_3800" = "私の国が来たる";
-"aurora_queendom_3900" = "私の国が来たる";
+"aurora_queendom_3900" = "私の���が来たる";
 "aurora_queendom_400" = "命の重みを背負いながら";
 "aurora_queendom_4000" = "私の国が来たる";
 "aurora_queendom_4100" = "私の国が来たる";
@@ -1702,7 +1702,7 @@
 "commerce_item_desc_rainbow_earring" = "<2>復刻アイテム</2> 髪の隙間からのぞくきらめき。ときには見せすぎない着こなしを楽しむのはいかがでしょう";
 "commerce_item_desc_rainbow_headphones" = "<2>復刻アイテム</2> スタイリッシュにセッションを楽しみたい、音楽好きな星の子どもたちへ";
 "commerce_item_desc_rainbow_pack" = "<2>復刻アイテム</2> 販売価格より$10.00 (米国ドル) 分が多様性の推進とグローバルな団結を支援する団体に寄付されます。このパックは<candle/>x {{1}}本とセットです！";
-"commerce_item_desc_rainbow_pack2" = "<2>復刻アイテム</2>わぁ！<2>ふたえの虹かける花飾り</2>！素敵なことがありそう！\n販売価格より$5.00 (米国ドル) 分が多様性の推進とグローバルな団結を支援する団体に寄付されます。このパックは<candle/>x {{1}}本とセットです！";
+"commerce_item_desc_rainbow_pack2" = "<2>復刻アイテム</2>わぁ！<2>ふたえの虹かける花飾り</2>！素敵なことがありそう！\n販売価格より$5.00 (米国ドル) 分が多様性の推進とグローバルな団結を���援する団体に寄付されます。このパックは<candle/>x {{1}}本とセットです！";
 "commerce_item_desc_rainbow_pack3" = "虹の裏側には何が待っているんだろう？\n販売価格より$5.00 (米国ドル) 分が多様性の推進とグローバルな団結を支援する団体に寄付されます。このパックは<candle/>x {{1}}本とセットです！";
 "commerce_item_desc_rainbow_rainbowhair" = "<2>復刻アイテム</2> 暖かい時こそ、この帽子でクールに過ごそう";
 "commerce_item_desc_rainbow_trousers" = "七色のきらめきがポイントのアイテム、ステージで華麗にポーズを決めるのにもぴったりです";
@@ -1756,7 +1756,7 @@
 "commerce_item_name_aurora_sneakers" = "音楽の旅スニーカー";
 "commerce_item_name_birthday_oreo" = "アニバーサリーぬいぐるみ";
 "commerce_item_name_bloom_gardenerbody" = "花笑む園丁チュニック";
-"commerce_item_name_bloom_leafumbrella" = "愛しみの葉っぱ傘";
+"commerce_item_name_bloom_leafumbrella" = "花笑む葉っぱ傘";
 "commerce_item_name_bloom_picnicblanket" = "花笑むピクニックバスケット";
 "commerce_item_name_bloom_teatable" = "花笑むピンクのティーセット";
 "commerce_item_name_bloom_wisteriatable" = "花笑むパープルのティーセット";
@@ -1925,7 +1925,7 @@
 "constellation_exit_edit_confirm_title" = "<b>編集モードを終了しますか？</b>";
 "constellation_gate_activated_00" = "あなたが助けた<1>精霊</1>が、この<1>星の封印</1>に光の力を与え、封印が解かれました";
 "constellation_gate_blocked_passage_ap10" = "<1>精霊</1>の記憶を呼び起こす手伝いをすれば、きっとこの道が開かれるでしょう";
-"constellation_gate_elder_hint_00" = "<1>孤島の大精霊</1>が、導きを失っていた<1>精霊たち</1>を神殿で待っています";
+"constellation_gate_elder_hint_00" = "<1>孤島の大精霊</1>が、導きを失っていた<1>精霊たち</1>���神殿で待っています";
 "constellation_gate_ready_00" = "あなたの<b>炎</b>と<b>星の精霊</b> が <2>星の封印を解き放った</2> ようです！";
 "constellation_gate_try_activate_00" = "この<b>星の封印</b>は力を失っています。この地にとらわれている<1>精霊たち</1>を解放し、封印を解きましょう！";
 "constellation_gate_try_activate_01" = "この<1>精霊</1>を解放し、<b>星の封印</b>を解き、<b>神殿</b>へ向かいましょう";
@@ -2550,7 +2550,7 @@
 "drinking_text6" = "デザイナーが全員で出演している公演は見ました？私はその後にお祝いでカップケーキをいただきましたよ";
 "drinking_text7" = "オフィス内をうろうろしていたら、カップケーキ見つけちゃったんです！";
 "drinking_text8" = "1階から天窓を見上げたときに、カップケーキが見えたような…？";
-"drinking_text9" = "絶対スピーカーの上にカップケーキ隠そうとしてますよね…";
+"drinking_text9" = "絶対スピーカーの上にカ���プケーキ隠そうとしてますよね…";
 "dylan_ann_text1" = "Skyのコミュニティは本当にワンダフル！";
 "dylan_ann_text2" = "あふれる感謝を伝えたいけど、僕が唯一できることは...ダンス！";
 "dylan_ann_text3" = "ヴィンス、ミュージックプリーズ！";
@@ -2967,7 +2967,7 @@
 "jenova_ann_text3" = "楽器は得意じゃないんだけど、最初の楽譜は演奏できるんだ！";
 "julian_ann_text1" = "何か新しいことをしたいんだよね";
 "julian_ann_text2" = "ううーん";
-"julian_ann_text3" = "あは、やった！魔法の生き物たちと一緒にパーティーを楽しんじゃおう";
+"julian_ann_text3" = "あは、やった！魔法の生き物たちと一緒にパーティーを���しんじゃおう";
 "leave_level_during_quest" = "ここから離れますか？\n完了せずにこの場を去ると<2>現在のアクティビティの進行が失われます</2>";
 "local_notification_accepted_invite" = "{{1}}さんがあなたの招待を承諾しました！";
 "local_notification_friend_gift_message" = "{{1}}さんがあなたに<heart/>を贈りました \nホームで受け取りましょう";
@@ -3117,7 +3117,7 @@
 "meditation_shrine_misspast" = "最も懐かしい過去の思い出を教えてください";
 "meditation_shrine_mistake" = "当たり前なようで、実は<b>恵まれている</b>と思うことはありますか？";
 "meditation_shrine_music_firstsong" = "初めて覚えた曲はなんでしたか？";
-"meditation_shrine_music_memorable" = "今まで聴いた中で、一番心に残っている音楽はなんですか？";
+"meditation_shrine_music_memorable" = "今���で聴いた中で、一番心に残っている音楽はなんですか？";
 "meditation_shrine_music_playinstrument" = "もし1つの楽器を完璧に演奏できるようになるなら、どの楽器を選びますか？";
 "meditation_shrine_music_playsong" = "出会ったばかりの星の子どもたちに演奏するなら、どんな曲にしますか？";
 "meditation_shrine_nature" = "<b>自然</b>を満喫できるお気に入りの方法を教えてください";
@@ -3363,7 +3363,7 @@
 "musicshop_jam" = "君も一緒に演奏する？";
 "musicshop_quest" = "今日の楽譜に挑戦しますか？";
 "musicshop_search_instruments_ap02bell_01" = "この楽器を持つ精霊には<b>峡谷</b>のアイスリンクで会えるでしょう";
-"musicshop_search_instruments_ap02bell_02" = "この楽器を持つ精霊には<b>書庫</b>の4階で会えるでしょう";
+"musicshop_search_instruments_ap02bell_02" = "この楽器を持つ精霊には<b>書庫</b>の4階���会えるでしょう";
 "musicshop_search_instruments_ap03flute" = "この楽器を持つ精霊には<b>草原</b>の鳥の塔で会えるでしょう";
 "musicshop_search_instruments_ap03panflute" = "この楽器を持つ精霊には<b>峡谷</b>のアイスリンクで会えるでしょう";
 "musicshop_search_instruments_ap04guitar" = "この楽器を持つ精霊には<b>捨てられた地</b>の焚火で会えるでしょう";
@@ -4064,7 +4064,7 @@
 "season_intro_3_05" = "毎日新しいクエストと、シーズン期間中限定のゴールドキャンドルが登場します。";
 "season_intro_3_06" = "<2>舟</2>に乗り込みましょう。彼らの後を辿り、新たな地を目指すのです…";
 "season_intro_3_07" = "楽園を楽しむ彼らに加わりましょう。案内人があなたの訪れを待っています。";
-"season_intro_3_08" = "預言者の石窟にて、あなたを導く案内人をたより、預言者たちを探し出しましょう";
+"season_intro_3_08" = "預言者の石窟にて���あなたを導く案内人をたより、預言者たちを探し出しましょう";
 "season_intro_3_09" = "多くの者がそうであるように、とある若きスケーターもまた、王国の為に舞う日を夢見ていました";
 "season_intro_3_10" = "見捨てられたキャンプ地のひとつで、ひとりぼっちの<1>スカウト</1>が究極のツリーハウスを建てたいと願っています";
 "season_intro_3_11" = "<1>お客さま</1>は王国を見物したいようです";
@@ -4681,7 +4681,7 @@
 "stage_tab_title_large" = "<b>大きい飾り</b>";
 "stage_tab_title_small" = "<b>小さい飾り</b>";
 "star_pin_ancestor_daylight_prairie" = "ピンバッジ 草原の大精霊";
-"star_pin_ancestor_hidden_forest" = "ピンバッジ 雨林の大精霊";
+"star_pin_ancestor_hidden_forest" = "ピンバッジ ���林の大精霊";
 "star_pin_ancestor_isle_dawn" = "ピンバッジ 孤島の大精霊";
 "star_pin_cape_lightseeker" = "ピンバッジ 光の探求者のケープ";
 "star_pin_cape_lightseeker_petal" = "ピンバッジ 花びらケープ";
@@ -4880,7 +4880,7 @@
 "system_gifthint_00" = "<candle/>を交換すると、フレンドと様々なコミュニケーションがとれるようになります\n<candle/>は購入するか、光を集めて精錬することで獲得することができます";
 "system_global_chat_disabled" = "グローバルチャット<b>無効</b>";
 "system_global_chat_enabled" = "グローバルチャット<b>有効</b>";
-"system_homebutton_00" = "<8>ホーム</8>に<b>帰りますか</b>？\n <2>舞い戻りの像</2>で瞑想すれば、ここに戻ってこられます";
+"system_homebutton_00" = "<8>ホーム</8>に<b>帰���ますか</b>？\n <2>舞い戻りの像</2>で瞑想すれば、ここに戻ってこられます";
 "system_homestone_00" = "ホームに戻りますか？\nこの場所から引き続きゲームを再開することができます";
 "system_homestone_01" = "<candle/>を捧げて<8>ホーム</8>に戻りますか？\nしばらくお待ちいただいても戻れるようになります\nまたはゲーム中でホームストーンを探してみてください";
 "system_joinrandomgame_00" = "<8>ランダムマッチング</8>に参加します";

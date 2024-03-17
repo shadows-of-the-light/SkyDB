@@ -4079,7 +4079,7 @@
         "propOffset": [
             0.0,
             0.0,
-            2.0
+            0.0
         ],
         "propRot": [
             0.0,
@@ -40479,7 +40479,7 @@
         "maskScale": 1.0,
         "maskTex": "Black",
         "mesh": "CharSkyKid_Prop_Horn",
-        "name": "CharSkyKid_Prop_Voice3",
+        "name": "CharSkyKid_Prop_Voice",
         "noSpineIk": false,
         "normTex": "UpNormal",
         "pattern_hsv": [
