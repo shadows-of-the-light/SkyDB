@@ -16,3 +16,4 @@
 
 # Ignore large files
 *.bank
+*.meshes
