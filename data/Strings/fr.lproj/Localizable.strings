@@ -2963,7 +2963,7 @@
 "dotreasure_daily_time_remaining_minute" = "La chasse au trésor du jour se termine dans <b>{{1}} minute</b>.";
 "dotreasure_daily_time_remaining_minutes" = "La chasse au trésor du jour se termine dans <b>{{1}} minutes</b>.";
 "dotreasure_digsite_action" = "Utilisez une pelle pour déterrer des <2>trésors</2> à proximité du drapeau.";
-"dotreasure_found_treasure" = "Vous avez trouvé le <2>trésor</2> !";
+"dotreasure_found_treasure" = "Tous les <2>tickets d'événement Lumière</2> obtenus aujourd'hui.";
 "dotreasure_intro" = "Les <1>pilleurs</1> et les <1>scouts</1> sontg engagés dans une course au <2>trésor</2> enfoui.";
 "dotreasure_intro_2" = "Vous ne pouvez rejoindre qu'un côté chaque jour.";
 "dotreasure_intro_3" = "Choisissez un <1>esprit</1> et aidez-le à trouver le <2>trésor</2> !";

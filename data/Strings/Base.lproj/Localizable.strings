@@ -3753,7 +3753,7 @@
 "dotreasure_daily_time_remaining_minute" = "Today's treasure hunt will end in <b>{{1}} minute</b>.";
 "dotreasure_daily_time_remaining_minutes" = "Today's treasure hunt will end in <b>{{1}} minutes</b>.";
 "dotreasure_digsite_action" = "Use the shovel to dig for <2>Treasure</2> near the flag.";
-"dotreasure_found_treasure" = "You found the <2>Treasure</2>!";
+"dotreasure_found_treasure" = "All <2>Event Ticket Light</2> collected today.";
 "dotreasure_intro" = "The <1>Scavengers</1> and <1>Scouts</1> are locked in a race to find buried <2>Treasure</2>.";
 "dotreasure_intro_2" = "You can only join one side in the hunt each day.";
 "dotreasure_intro_3" = "Pick a <1>spirit</1> and help them find the <2>Treasure</2>!";

@@ -2961,7 +2961,7 @@
 "dotreasure_daily_time_remaining_minute" = "La caccia al tesoro di oggi si concluderà tra <b>{{1}} minuto</b>.";
 "dotreasure_daily_time_remaining_minutes" = "La caccia al tesoro di oggi si concluderà tra <b>{{1}} minuti</b>.";
 "dotreasure_digsite_action" = "Usa la pala per dissotterrare il <2>tesoro</2> vicino alla bandiera.";
-"dotreasure_found_treasure" = "Hai trovato il <2>tesoro</2>!";
+"dotreasure_found_treasure" = "Hai raccolto tutta la <2>luce dei biglietti evento</2> di oggi.";
 "dotreasure_intro" = "I <1>Predoni</1> e gli <1>Scout</1> sono impegnati in una gara per trovare il <2>tesoro sepolto</2>.";
 "dotreasure_intro_2" = "Ogni giorno puoi unirti a una sola fazione nella caccia.";
 "dotreasure_intro_3" = "Scegli uno <1>spirito</1> e aiutalo a trovare il <2>tesoro</2>!";

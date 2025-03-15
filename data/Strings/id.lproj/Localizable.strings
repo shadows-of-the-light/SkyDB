@@ -2963,7 +2963,7 @@
 "dotreasure_daily_time_remaining_minute" = "Perburuan harta karun hari ini akan berakhir dalam <b>{{1}} menit</b>.";
 "dotreasure_daily_time_remaining_minutes" = "Perburuan harta karun hari ini akan berakhir dalam <b>{{1}} menit</b>.";
 "dotreasure_digsite_action" = "Gunakan sekop untuk menggali <2>Harta Karun</2> di dekat bendera.";
-"dotreasure_found_treasure" = "Kamu menemukan <2>Harta Karun</2>!";
+"dotreasure_found_treasure" = "Semua <2>Cahaya Tiket Acara</2> telah dikumpulkan hari ini.";
 "dotreasure_intro" = "Para <1>Pemulung</1> dan <1>Pengintai</1> terkunci dalam perlombaan untuk menemukan <2>Harta Karun</2> yang terkubur.";
 "dotreasure_intro_2" = "Kamu hanya dapat bergabung dengan satu pihak dalam perburuan setiap hari.";
 "dotreasure_intro_3" = "Pilihlah salah satu <1>roh</1> dan bantu mereka menemukan <2>Harta Karun</2>!";

@@ -3012,7 +3012,7 @@
 "dotreasure_daily_time_remaining_minute" = "今日的尋寶活動將於<b>{{1}}分鐘</b>後結束。";
 "dotreasure_daily_time_remaining_minutes" = "今日的尋寶活動將於<b>{{1}}分鐘</b>後結束。";
 "dotreasure_digsite_action" = "使用鏟子在旗幟附近挖掘<2>寶藏</2>。";
-"dotreasure_found_treasure" = "你找到了<2>寶藏</2>！";
+"dotreasure_found_treasure" = "今天的<2>活動燭光</2>都已蒐集完畢。";
 "dotreasure_intro" = "<1>尋寶者</1>和<1>童子軍</1>正在競速尋找埋藏的<2>寶藏</2>。";
 "dotreasure_intro_2" = "你每天只能選擇加入其中一方進行尋寶。";
 "dotreasure_intro_3" = "選擇一位<1>先靈</1>，並幫助對方找到<2>寶藏</2>！";

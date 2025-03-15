@@ -3277,7 +3277,7 @@
 "dotreasure_daily_time_remaining_minute" = "本日の宝探しはあと<b>{{1}} 分</b>で終わります";
 "dotreasure_daily_time_remaining_minutes" = "本日の宝探しはあと<b>{{1}} 分</b>で終わります";
 "dotreasure_digsite_action" = "シャベルを使って旗の近くに埋まっている<2>お宝</2>を掘りおこしましょう";
-"dotreasure_found_treasure" = "<2>お宝</2>を発見しました！";
+"dotreasure_found_treasure" = "本日分の全ての<2>専用チケットのかけら</2>を集めました";
 "dotreasure_intro" = "<1>スカベンジャーたち</1>と<1>スカウトたち</1>が、埋められた<2>お宝</2>をどちらが多く見つけられるか競い合っているようです";
 "dotreasure_intro_2" = "あなたは日替わりで、どちらかのグループの宝探しに協力できます";
 "dotreasure_intro_3" = "<1>精霊</1>を選び、 彼らが<2>お宝</2>を探せるようお手伝いをしましょう！";

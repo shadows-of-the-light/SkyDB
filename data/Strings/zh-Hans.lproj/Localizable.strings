@@ -3343,7 +3343,7 @@
 "dotreasure_daily_time_remaining_minute" = "今天的寻宝活动将在<b>{{1}}分钟</b>后结束。";
 "dotreasure_daily_time_remaining_minutes" = "今天的寻宝活动将在<b>{{1}}分钟</b>后结束。";
 "dotreasure_digsite_action" = "使用铲子在旗帜附近挖掘<2>宝物</2>。";
-"dotreasure_found_treasure" = "你找到了<2>宝物</2>！";
+"dotreasure_found_treasure" = "已收集今天的全部<2>活动门票之光</2>。";
 "dotreasure_intro" = "<1>拾荒者</1>和<1>童子军</1>正展开一场寻宝竞赛，寻找埋藏的<2>宝物</2>。";
 "dotreasure_intro_2" = "你每天只能加入其中一方进行寻宝。";
 "dotreasure_intro_3" = "选择一个<1>先灵</1>并帮助其寻找<2>宝物</2>！";

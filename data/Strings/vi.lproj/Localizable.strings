@@ -3206,7 +3206,7 @@
 "dotreasure_daily_time_remaining_minute" = "Cuộc săn kho báu hôm nay sẽ kết thúc trong <b>{{1}} phút</b>.";
 "dotreasure_daily_time_remaining_minutes" = "Cuộc săn kho báu hôm nay sẽ kết thúc trong <b>{{1}} phút</b>.";
 "dotreasure_digsite_action" = "Dùng xẻng để đào tìm <2>Kho Báu</2> gần lá cờ.";
-"dotreasure_found_treasure" = "Bạn đã tìm thấy <2>Kho Báu</2>!";
+"dotreasure_found_treasure" = "Tất cả <2>Ánh Sáng Vé Sự Kiện</2> đã được thu thập hôm nay.";
 "dotreasure_intro" = "<1>Những Người Lang Thang</1> và <1>Hướng Đạo Sinh</1> đang chạy đua để tìm <2>Kho Báu</2> bị chôn giấu.";
 "dotreasure_intro_2" = "Bạn chỉ có thể tham gia một phe trong cuộc săn tìm mỗi ngày.";
 "dotreasure_intro_3" = "Chọn một <1>tinh linh</1> và giúp họ tìm <2>Kho Báu</2>!";

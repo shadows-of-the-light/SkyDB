@@ -2961,7 +2961,7 @@
 "dotreasure_daily_time_remaining_minute" = "Die heutige Schatzsuche endet in <b>{{1}} Minute</b>.";
 "dotreasure_daily_time_remaining_minutes" = "Die heutige Schatzsuche endet in <b>{{1}} Minuten</b>.";
 "dotreasure_digsite_action" = "Nutze die Schaufel, um nach einem <2>Schatz</2> nahe der Flagge zu graben.";
-"dotreasure_found_treasure" = "Du hast den <2>Schatz</2> gefunden!";
+"dotreasure_found_treasure" = "Alle heutigen <2>Event-Tickets Licht</2> gesammelt.";
 "dotreasure_intro" = "Die <1>Schatzsucher</1> und die <1>Pfadfinder</1> befinden sich in einem Wettkampf, um den vergrabenen <2>Schatz</2> zu finden.";
 "dotreasure_intro_2" = "Du kannst dich jeden Tag nur einer Seite bei der Jagd anschließen.";
 "dotreasure_intro_3" = "Wähle einen <1>Geist</1> und hilf ihm, den <2>Schatz</2> zu finden!";

@@ -2960,7 +2960,7 @@
 "dotreasure_daily_time_remaining_minute" = "La búsqueda del tesoro de hoy terminará en <b>{{1}} minuto</b>.";
 "dotreasure_daily_time_remaining_minutes" = "La búsqueda del tesoro de hoy terminará en <b>{{1}} minutos</b>.";
 "dotreasure_digsite_action" = "Usa la pala para buscar <2>tesoros</2> cerca de la bandera.";
-"dotreasure_found_treasure" = "¡Encontraste el <2>tesoro</2>!";
+"dotreasure_found_treasure" = "Toda la <2>luz para boletos del evento</2> recogida hoy.";
 "dotreasure_intro" = "Los <1>recolectores</1> y los <1>exploradores</1> compiten para ver quién encuentra primero el <2>tesoro</2>.";
 "dotreasure_intro_2" = "Solo puedes ayudar a uno de los bandos durante la búsqueda en un mismo día";
 "dotreasure_intro_3" = "¡Elige un <1>espíritu</1> y ayúdalo a encontrar el <2>tesoro</2>!";
