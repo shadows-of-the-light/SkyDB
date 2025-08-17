@@ -1239,7 +1239,7 @@
 "ap27_quest02_hint10" = "<1>商業区</1>に入り、<1>機知に富む隠とん者</1>を手伝いましょう";
 "ap27_quest02_hint11" = "お友だちと使える新たなアクションを習得しましょう";
 "ap27_quest02_hint12" = "蝶を呼ぶための深い叫び";
-"ap27_quest02_hint13" = "共有スペースの神殿を使用して、<1>機知に富んだ隠遁者の</1>家を飾ります。";
+"ap27_quest02_hint13" = "シェアスペースの祭壇を使用して、<1>機知に富む隠とん者</1>の住処を飾りましょう";
 "ap27_quest02_hint2" = "<1>機知に富む隠とん者</1>が壊れた棚を直せるように、<2>道具屋</2>で硬貨と金づちを交換してもらいましょう";
 "ap27_quest02_hint3" = "硬貨を<2>道具屋</2>へ持って行き、金づちと交換してもらいましょう";
 "ap27_quest02_hint4" = "<1>機知に富む隠とん者</1>のもとへ、金づちを持ち帰りましょう";
@@ -5270,7 +5270,7 @@
 "notfication_daysoffeast_message" = "花鳥郷にいる精霊たちが、光のかけらにゲームに楽しい思い出と、盛りだくさんのイベントを準備してあなたを待っています！ ❄️";
 "notfication_nature_title" = "自然の日々が始まりました！🌊";
 "notfication_traveling_message" = "過ぎ去りし季節の精霊が、少しの間だけ再び王国を訪れています！🕯️";
-"notification_anniversary_awards_message" = "16日朝10:00より授賞式をシアターで開催します。コミュニティの創造力をいっしょにお祝いしましょう！";
+"notification_anniversary_awards_message" = "16日朝10:30より授賞式をシアターで開催します。コミュニティの創造力をいっしょにお祝いしましょう！";
 "notification_anniversary_awards_title" = "🎊 Sky クリエイターアワード授賞式！ 🎊";
 "notification_anniversary_message" = "パーティーグッズを身につけて、フレンドたちと踊りましょう！このお祝いに全ての星の子どもたちをご招待します 🕺💃";
 "notification_anniversary_title" = "🎊 Skyのお誕生日！ 🎊";
@@ -5437,8 +5437,8 @@
 "notification_skyshop_wave12_mid_title" = "🦐 注意：暗黒竜出没 🦐";
 "notification_skyshop_wave12_start_message" = "リアルでぎゅ���とできるオレオのぬいぐるみと、5周年記念の最新グッズをthatskyshopで見つけましょう！🌟";
 "notification_skyshop_wave12_start_title" = "🐶 オレオのぬいぐるみ 現実のあなたにも";
-"notification_social_feed_comment" = "%@ さんがあなたの作品にコメントを残しました, \"%@\"!";
-"notification_social_feed_comment_multiple" = "あなたの作品\" %@ \"に %@ 件のコメントがあります！";
+"notification_social_feed_comment" = " %@ があなたの作品\" %@ \"にコメントしました！";
+"notification_social_feed_comment_multiple" = " %@件のコメントがあなたの作品\" %@ \"に届きました！";
 "notification_social_feed_follow" = "誰かがこの先あなたの創作物をもっと鑑賞したいと願っています！";
 "notification_social_feed_follow_multiple" = "%@ 人の星の子どもたちがこの先あなたの創作物をもっと鑑賞したいと願っています！";
 "notification_style_end_message" = "この特別な日々が終わるまでに、お洒落の案内人に話かけ、ファッションショーに参加しましょう！";
@@ -5943,7 +5943,7 @@
 "season_pass_hours_left" = "<spendant/>残り <b>{{1}}</b> 時間";
 "season_pass_hours_left_no_pendant" = "残り<b>{{1}}</b> 時間";
 "season_pass_hours_to_go_no_pendant" = "あと<b>{{1}}</b>時間";
-"season_pass_info_desc_xx1" = "<apcolor>{{1}}</apcolor>が訪れました！全てのプレイヤーが季節を無料でお楽しみいただけます。\n\n<small><apcolor>シーズンパス</apcolor>所有者はパス購入時に以下をお受取りいただけます：</small>";
+"season_pass_info_desc_xx1" = "<apcolor>{{1}}</apcolor>\nが訪れました！全てのプレイヤーが季節を無料でお楽しみいただけます。\n\n<small><apcolor>シーズンパス</apcolor>所有者はパス購入時に以下をお受取りいただけます：</small>";
 "season_pass_info_faq" = "<b>遊び方</b>";
 "season_pass_info_item_candles" = "<scandle/> <apcolor>シーズンキャンドル</apcolor> 30本 ";
 "season_pass_info_item_candles_bonus" = "<scandle/>  さらに今週限定！{{1}}本ボーナス！\n";

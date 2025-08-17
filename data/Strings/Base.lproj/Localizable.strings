@@ -6015,7 +6015,7 @@
 "notfication_daysoffeast_message" = "Spirits in Aviary Village welcome everyone to an event full of Light, games, and festive memories! ❄️";
 "notfication_nature_title" = "Days of Nature is Here! 🌊";
 "notfication_traveling_message" = "A Spirit from a past Season has returned for a very limited time! 🕯️";
-"notification_anniversary_awards_message" = "TODAY at 6 pm Pacific, join a party in the Cinema to celebrate Sky's creative community!";
+"notification_anniversary_awards_message" = "TODAY at 6:30 pm Pacific, join a party in the Cinema to celebrate Sky's creative community!";
 "notification_anniversary_awards_title" = "🎊 The Sky Creator Awards Are Here! 🎊";
 "notification_anniversary_message" = "Grab your party gear and boogie with your friends—everyone's invited! 🕺💃";
 "notification_anniversary_title" = "🎊 It's Sky's Birthday! 🎊";
@@ -6184,7 +6184,7 @@
 "notification_skyshop_wave12_start_message" = "Find Oreo plushies that you can hold IRL and more to celebrate Sky's 5th anniversary—new at thatskyshop! 🌟";
 "notification_skyshop_wave12_start_title" = "🐶 Oreo Plushies: Not just for Sky kids anymore";
 "notification_social_feed_comment" = "%@ left you a comment on your creation, \"%@\"!";
-"notification_social_feed_comment_multiple" = "You've recieved %@ comments on your creation, \"%@\"!";
+"notification_social_feed_comment_multiple" = "You've received %@ comments on your creation, \"%@\"!";
 "notification_social_feed_follow" = "Someone wants to view more of your Shared Creations in the future!";
 "notification_social_feed_follow_multiple" = "%@ people want to view more of your Shared Creations in the future!";
 "notification_style_end_message" = "Find the Style Guide and join their fashion show before the event ends! 🌟";

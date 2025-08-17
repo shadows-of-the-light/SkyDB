@@ -1240,7 +1240,7 @@
 "ap27_quest02_hint10" = "<1>시장</1>에 들어가 <1>지략 있는 은둔자</1>를 도와주세요.";
 "ap27_quest02_hint11" = "친구와 함께 새 능력을 배우세요.";
 "ap27_quest02_hint12" = "나비를 부르기 위해 깊은 함성을 지르다.";
-"ap27_quest02_hint13" = "공유 공간의 신사를 이용해 <1>자원이 풍부한 은둔자</1>의 집을 장식하세요.";
+"ap27_quest02_hint13" = "공유공간 제단을 사용해서 <1>지략 있는 은둔자</1>의 집을 꾸미세요.";
 "ap27_quest02_hint2" = "<2>공구 가판대</2>에서 토큰을 망치로 교환하여 <1>지략 있는 은둔자</1>가 부서진 선반을 수리할 수 있도록 도와주세요.";
 "ap27_quest02_hint3" = "토큰을 <2>공구 가판대</2>로 가져가 망치와 교환하세요.";
 "ap27_quest02_hint4" = "망치를 <1>지략 있는 은둔자</1>에게 다시 가져다 주세요.";
@@ -4954,7 +4954,7 @@
 "notfication_daysoffeast_message" = "새들의 정원 마을에 있는 영혼들이 양초빛, 미니게임, 추억으로 가득한 이벤트로 빛의 아이들을 초대합니다! ❄️";
 "notfication_nature_title" = "자연의 날이 찾아왔어요! 🌊";
 "notfication_traveling_message" = "지난 시즌의 영혼이 돌아와서 잠시 머물다 갈 거예요! 🕯️";
-"notification_anniversary_awards_message" = "오늘 오후 6시(태평양 시간)에 영화관에서 열리는 파티에 참여하여 Sky의 창의력 커뮤니티를 축하해 주세요!";
+"notification_anniversary_awards_message" = "한국 시간으로 돌아오는 오전 10시 30분부터 영화관에서 열리는 파티에 참여하고 창의력 가득한 Sky 커뮤니티를 축하해요!";
 "notification_anniversary_awards_title" = "🎊 Sky 크리에이터 시상식이 시작되었습니다! 🎊";
 "notification_anniversary_message" = "파티 용품을 들고 친구들과 신나게 놀아요. 모두 초대합니다!🕺💃";
 "notification_anniversary_title" = "🎊 Sky, 생일 축하해! 🎊";
@@ -5122,7 +5122,7 @@
 "notification_skyshop_wave12_start_message" = "실물 오레오 봉제인형 및 다양한 상품과 함께 Sky의 5주년을 축하해요. thatskyshop 신상품 추가! 🌟";
 "notification_skyshop_wave12_start_title" = "🐶 Sky 밖에서도 오레오 봉제인형을 만나요";
 "notification_social_feed_comment" = "%@ 님이 \"%@\" 창작물에 댓글을 남겼어요!";
-"notification_social_feed_comment_multiple" = "\"%@\" 작품에 댓글 %@개가 달렸어요!";
+"notification_social_feed_comment_multiple" = "%@명이 \"%@\"에게 댓글을 남겼습니다";
 "notification_social_feed_follow" = "누군가 당신의 공유 창작물을 더 많이 보고 싶어 해요!";
 "notification_social_feed_follow_multiple" = "%@명이 앞으로 당신의 공유 창작물을 더 많이 보고 싶어 해요!";
 "notification_style_end_message" = "이벤트가 끝나기 전에 멋쟁이 안내자를 만나 패션쇼에 참여해 보세요! 🌟";
