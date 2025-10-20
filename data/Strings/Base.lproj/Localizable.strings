@@ -3795,7 +3795,7 @@
 "daily_quest_light_20_candles_desc" = "<b>Light 20 candles</b>";
 "daily_quest_light_30_candles_desc" = "<b>Light 30 candles</b>";
 "daily_quest_light_mischief_cannon_desc" = "<b>Help <1>Skidmore</1> fire the cannons 3 times in the Cackling Crab</b>";
-"daily_quest_light_mischief_cauldron_desc" = "<b>Hop into <1>Yoshi's</1> cauldron brew in the Cackling Crab</b>";
+"daily_quest_light_mischief_cauldron_desc" = "<b>Help <1>Yoshi</1> light the cauldron in the Cackling Crab</b>";
 "daily_quest_lightseeker3_day_birdnest_desc" = "<b>Catch the 3 lights in the Prairie's Bird Nest</b>";
 "daily_quest_lightseeker3_day_prairievillage_desc" = "<b>Catch the 3 lights in Prairie Village</b>";
 "daily_quest_lightseeker3_dusk_graveyard_desc" = "<b>Catch the 3 lights in the Wasteland's Graveyard</b>";
@@ -4030,7 +4030,6 @@
 "daily_quest_spirit_yoga2_desc" = "Join <1>Ascetic Monk</1> for a stretch";
 "daily_quest_spirit_yoga3_desc" = "Join <1>Ascetic Monk</1> for a stretch";
 "daily_quest_sunlight_photo_daily_desc" = "Help the <1>Praying Acolyte</1> archive summer in the Archives.";
-"daily_quest_tidy_rain_grandmatable_desc" = "<b>Tidy up the Ancestor's table of Belonging in the Forest's elevated clearing</b>";
 "daily_quest_touch_butterflies_butterflyfields_desc" = "<b>Fly with many butterflies in Butterfly Fields</b>";
 "daily_quest_ui_complete" = "Well done! Here's your <heart/> Come back tomorrow for more!";
 "daily_quest_ui_intro" = "Complete today's challenges to earn a <heart/>";
