@@ -1,12 +1,4 @@
 /* This file is auto-generated, please don't manually edit, use LocalizationTool! */
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_BODY" = "<b>冒險者你好：</b>\n \n 我們雲端的先靈已確認，一筆贈送至你帳號的交易已成功辦理退款。作為退款處理的一部分，該筆交易所包含的物品已從你的背包中移除。\n \n 若該筆贈禮包含本季的季票，我們不會移除你對本季內容的使用權，但請注意，你的帳號將會一筆負額度。若你想購買未來的季票，需先補足此筆負額度後才能繼續購買。\n \n 若需了解我們的退款政策，請參考問與答頁面。你可以透過遊戲內的齒輪選單，點擊「客服」查詢，或使用任意瀏覽器造訪：thatgamecompany.helpshift.com。\n \n 感謝你的理解，也希望你能繼續享受《Sky光·遇》的美好旅程！\n \n ~thatgamecompany";
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_SUBJECT" = "退款完成通知";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_BODY" = "<b>冒險者你好：</b>\n \n 由於我們近期於此帳號中確認並驗證了使用遊戲漏洞、外掛，或安裝第三方工具的行為，特此發出帳號警告。\n \n 請注意，利用漏洞、外掛或第三方工具來獲取不公平優勢，損害其他社群成員的權益，已違反我們的《社群規範》。\n \n 我們也已針對因違規行為而不當獲得的道具與遊戲貨幣進行回收，以維護《Sky 光·遇》世界的平衡與公平性。\n \n 以下項目已自此帳號中移除：\n [##] [物品或貨幣名稱]\n \n 我們誠摯建議你重新查閱《服務條款（ToS）》中所載的《社群規範》，並熟悉相關規定，以避免未來可能面臨的處罰。如你的裝置上曾安裝任何與《Sky 光·遇》相關的第三方程式，建議在重新進入遊戲前先行移除。\n \n 你可以在遊戲內的齒輪選單中點選「客服」，前往thatgamecompany的客服網站，查看完整的《最終用戶授權合約（EULA）》與《服務條款（ToS）》。你也可以在任何網頁瀏覽器中輸入thatgamecompany.helpshift.com直接造訪該網站。\n \n 感謝你的理解與配合，也希望你能繼續與我們一同享受《Sky 光·遇》的世界！\n \n ~Sky玩家客服團隊";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_SUBJECT" = "帳號警告與物品或貨幣移除通知（針對嚴重利用漏洞、外掛或第三方工具等狀況）";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_BODY" = "我們於此帳號中發現有違反《Sky 光·遇》的thatgamecompany《服務條款》（TOS）之行為，包含疑似使用外掛、作弊或修改遊戲檔案等。\n \n 若此類行為持續發生，該帳號可能將面臨暫時性或永久性的封禁處置。我們誠摯建議你查閱《服務條款》中所載的《社群規範》，並熟悉相關規定，以避免未來遭受帳號處分。\n \n 若你的裝置上有安裝任何與《Sky 光·遇》相關的第三方程式，我們建議你在再次登入遊戲前將其移除。\n \n 你可以在遊戲內的齒輪選單中點選「客服」，前往thatgamecompany的客服網站，查看完整的《最終用戶授權合約（EULA）》與《服務條款（ToS）》。你也可以在任何網頁瀏覽器中輸入thatgamecompany.helpshift.com直接造訪該網站。\n \n 感謝你的理解與配合，也希望你能繼續與我們一同享受《Sky 光·遇》的世界！\n \n ~Sky玩家客服團隊";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_SUBJECT" = "最後警告通知（針對嚴重利用漏洞、外掛或第三方工具等狀況）";
-"INBOX_WARNING_EXPLOITHACK_NEW_BODY" = "<b>冒險者你好：</b>\n \n 由於我們近期於此帳號偵測到使用遊戲漏洞、外掛，或安裝第三方工具的行為，特此發出帳號警告。請注意，利用漏洞、外掛或第三方工具以獲取不公平優勢，損害其他社群成員權益，已違反我們的《社群規範》。\n \n 我們誠摯建議你重新查閱《服務條款（ToS）》中所載的《社群規範》，並熟悉相關規定，以避免未來可能面臨的處罰。如你的裝置上曾安裝任何與《Sky 光·遇》相關的第三方程式，建議在重新進入遊戲前先行移除。\n \n 你可以在遊戲內的齒輪選單中點選「客服」，前往thatgamecompany的客服網站，查看完整的《最終用戶授權合約（EULA）》與《服務條款（ToS）》。你也可以在任何網頁瀏覽器中輸入thatgamecompany.helpshift.com直接造訪該網站。\n \n 感謝你的理解與配合，也希望你能繼續與我們一同享受《Sky 光·遇》的世界！\n \n ~Sky玩家客服團隊";
-"INBOX_WARNING_EXPLOITHACK_NEW_SUBJECT" = "帳號警告通知（針對嚴重利用漏洞、外掛或第三方工具等狀況）";
 "accept_addfriend" = "成為朋友";
 "accept_bearhug" = "解鎖<2>熊抱</2>?";
 "accept_carry" = "解鎖<2> 肩背 </2>?";
@@ -75,6 +67,7 @@
 "account_link_recover_message_google" = "確認要放棄當前遊戲進度並登入與 Google 綁定的遊戲帳號嗎？";
 "account_link_recover_message_google_play" = "確認要放棄當前遊戲進度並登入與 Google Play 綁定的遊戲帳號嗎？";
 "account_link_recover_title" = "找回《Sky 光·遇》帳號？";
+"account_link_superlike_locked" = "你必須在<cog/>選單中綁定帳號，才能送出這份禮物。";
 "account_link_unlinked_button" = "<b>已解除綁定</b>";
 "account_login_create_new_title" = "是否創建新的《Sky 光·遇》帳號？";
 "account_login_create_new_warning" = "如果您想用固有的《Sky 光·遇》帳號遊玩，請取消此操作。請先在其它設備上登入固有帳號，然後在帳號選單下用這個新登入方式綁定您固有的《Sky 光·遇》帳號，然後再返回這裏。";
@@ -253,8 +246,8 @@
 "achievements_reset_common" = "重置成就";
 "achievements_reset_confirm_body" = "所有成就將會<b>消失</b>。";
 "achievements_reset_confirm_title" = "<b>你確定嗎？</b>";
-"achievements_show_system_ui_common" = "顯示成就";
-"achievements_show_system_ui_sony" = "顯示獎盃";
+"achievements_show_system_ui_common" = "成就";
+"achievements_show_system_ui_sony" = "獎盃";
 "activity_birthday_2023_daily_quests" = "今日任務已全數完成。";
 "activity_birthday_2023_friend_interaction" = "請與好友一同遊玩。";
 "activity_birthday_2023_wax_collection" = "在生日派對上蒐集蠟燭。";
@@ -1303,6 +1296,10 @@
 "ap28_fetch01_intro01" = "這群光之生物失去了長老，牠們的遷徙需要指引。";
 "ap28_fetch02_intro01" = "強風驚擾了遷徙中的鳥群！";
 "ap28_fetch04_intro01" = "豪雨使雨林淹水了。";
+"ap28_fetch08_hint01" = "找到並拯救那些受到驚嚇的光之生物。";
+"ap28_fetch08_intro01" = "濃霧正籠罩著<1>暮土</1>。";
+"ap28_fetch09_hint01" = "在附近搜尋<1>遷徙鐘匠</1>的蹤跡。";
+"ap28_fetch09_hint02" = "幫忙安撫<1>遷徙嚮導</1>。";
 "ap28_hint_airplanearms" = "重溫遷徙鳥語者於<1>風之大道</1>的新回憶。";
 "ap28_hint_boat" = "船已準備啟航！引導獸群沿著光之生物的遷徙路徑前進。";
 "ap28_hint_dizzy" = "重溫遷徙引蝶人於<1>風之大道</1>的新回憶。";
@@ -1956,12 +1953,15 @@
 "commerce_item_desc_feast_ballgame" = "<2>返場道具。</2>為狂熱的光遇球迷設置的一對石製球門。";
 "commerce_item_desc_feast_furcape" = "<2>返場道具。</2>製作此款奢華又毛茸茸的斗篷的過程中，無雪怪遭到傷害。";
 "commerce_item_desc_feast_puffercape" = "<2>返場道具。</2>專為在嚴寒環境中探險而設計。";
+"commerce_item_desc_feast_scarfcape" = "如初雪翌日清晨般夢幻柔美。";
 "commerce_item_desc_feast_snowboard" = "精心打造，適合在霞谷最陡峭的坡道上帥氣滑行。";
 "commerce_item_desc_feast_snowflakepin" = "<2>返場道具。</2>用這款閃閃發光的雪花頭飾來慶祝盛宴節吧";
 "commerce_item_desc_feast_snowglobe" = "<2>返場道具。</2>無論什麼季節，無論走到哪裡，都能讓你隨身帶著冬天的記憶。";
+"commerce_item_desc_feast_snowkidhat" = "如此神奇，永不融化。";
+"commerce_item_desc_feast_warmerset" = "戴上精緻的藥盒帽與腿套，優雅又保暖地享受冬日。";
 "commerce_item_desc_feast_wintereldercape" = "<2>返場道具。</2>用這件溫暖舒適的先祖冬日斗篷來慶祝盛宴節吧";
-"commerce_item_desc_feast_wonderland_crabbithole" = "為你開啟通往奇妙仙境咖啡廳的入口，展開一場無與倫比的冒險吧！";
-"commerce_item_desc_feast_wonderland_pinafore" = "穿上愛麗絲風格的經典報春黃洋裝，搭配藍色髮帶，迷人又優雅。";
+"commerce_item_desc_feast_wonderland_crabbithole" = "<2>返場物品。</2>為你開啟通往奇妙仙境咖啡廳的入口，展開一場無與倫比的冒險吧！";
+"commerce_item_desc_feast_wonderland_pinafore" = "<2>返場物品。</2>穿上愛麗絲風格的經典報春黃洋裝，搭配藍色髮帶，迷人又優雅。";
 "commerce_item_desc_feast_yetiboots" = "<2>返場道具。</2>由雖然手拙但愛心滿滿的雪人親自縫製。";
 "commerce_item_desc_fortune_carp" = "<2> 返場道具。</2> 戴上這個幸運魚兒配件，讓您隨時吉星高照！";
 "commerce_item_desc_fortune_carppack" = "<2> 返場道具。</2> 當您穿上這件連帽魚斗篷時，將會產生幸運磁場！";
@@ -1975,6 +1975,7 @@
 "commerce_item_desc_fortune_snakecapehair" = "白色斗篷與髮型，奢華蛇形優雅展露無遺。";
 "commerce_item_desc_fortune_umbrella" = "<2>返場道具。</2>一把搶眼好用的紫色洋傘！";
 "commerce_item_desc_founder_pack" = "購買<candle/> x {{2}}，<2>贈送<candle/> x {{3}}！</2>，還能獲得一件<8>限定TGC藍斗篷<cape/></8>\n成為支持thatgamecompany的創始玩家一員！";
+"commerce_item_desc_kizuna_pack_pink" = "<2>返場道具</2> <8>絆愛斗篷<cape/></8> + <2>絆愛髮型</2> + <2> 絆愛髮飾</2>";
 "commerce_item_desc_kizuna_pack_red" = "<8>絆愛斗篷<cape/></8> + <2>絆愛髮型</2> + <2>絆愛蝴蝶結髮箍</2>";
 "commerce_item_desc_limited" = "節日限時特售：\n<b>{{1}}</b>";
 "commerce_item_desc_limited_previous" = "來自上一季節的特別優惠：";
@@ -2081,6 +2082,9 @@
 "commerce_item_desc_tgcwireframe" = "《Sky光·遇》五週年特別紀念，雲巢變身讓你重回慶典現場。";
 "commerce_item_desc_tgcwireframe_evergreen" = "感謝有你，讓 Sky 的世界充滿魔幻時刻。披上後，雲巢變身讓你重回慶典現場，瀏覽光遇歷史長廊、光遇美術展，以及開發者分享舞台。";
 "commerce_item_desc_treasure_eyepatchpants" = "換上這款可客製化色彩裝飾的眼罩面具與長褲套裝，挖掘未知冒險中的驚喜。\n包含<dye_black/>x {{1}} & <dye_white/>x {{1}}！";
+"commerce_item_desc_twinribbon_pink" = "絆愛雪紡斗篷 + 蛋糕裙";
+"commerce_item_desc_twinribbon_red" = "愛哥緞帶裙 + 緞帶斗篷";
+"commerce_item_desc_twinribbon_tele" = "超可愛，表情<2>超豐富</2> 的夥伴";
 "commerce_item_desc_valentines_swing" = "<2>雙人鞦韆</2>";
 "commerce_item_desc_wool_hat" = "<2>返場道具</2>。戴著這頂蓬鬆的羊毛帽保持舒適。";
 "commerce_item_desc_xmas_cape" = "<2>宴會節斗篷</2>";
@@ -2150,9 +2154,12 @@
 "commerce_item_name_feast_ballgame" = "光遇球賽套組";
 "commerce_item_name_feast_furcape" = "暖洋洋雪怪斗篷";
 "commerce_item_name_feast_puffercape" = "冬季絎縫鋪雲斗篷";
+"commerce_item_name_feast_scarfcape" = "冬日圍巾斗篷";
 "commerce_item_name_feast_snowboard" = "冬季盛宴滑雪板";
 "commerce_item_name_feast_snowflakepin" = "雪花頭飾";
 "commerce_item_name_feast_snowglobe" = "冬日盛宴雪景球";
+"commerce_item_name_feast_snowkidhat" = "雪童飾品";
+"commerce_item_name_feast_warmerset" = "蓬鬆冬裝";
 "commerce_item_name_feast_wintereldercape" = "冬日先祖斗篷";
 "commerce_item_name_feast_wonderland_crabbithole" = "仙境咖啡廳走廊";
 "commerce_item_name_feast_wonderland_pinafore" = "仙境報春花圍裙套裝";
@@ -2170,6 +2177,7 @@
 "commerce_item_name_fortune_umbrella" = "幸運節附魔雨傘";
 "commerce_item_name_founder_pack" = "雲流花旅禮包";
 "commerce_item_name_friendship_bundle" = "友誼長存禮包";
+"commerce_item_name_kizuna_pack_pink" = "絆愛禮包";
 "commerce_item_name_kizuna_pack_red" = "絆愛禮包";
 "commerce_item_name_littleprince_coat" = "小王子星球夾克";
 "commerce_item_name_littleprince_fox" = "狐狸背包";
@@ -2276,6 +2284,9 @@
 "commerce_item_name_tgcwireframe" = "SkyFest 線框紋斗篷";
 "commerce_item_name_tgcwireframe_evergreen" = "TGC 線框紋斗篷";
 "commerce_item_name_treasure_eyepatchpants" = "尋寶獵人的獎賞";
+"commerce_item_name_twinribbon_pink" = "絆愛蛋糕裙禮服";
+"commerce_item_name_twinribbon_red" = "愛哥緞帶禮服";
+"commerce_item_name_twinribbon_tele" = "愛哥大鐵頭玩偶";
 "commerce_item_name_valentines_swing" = "雙人鞦韆";
 "commerce_item_name_wool_hat" = "幸運絨線帽";
 "commerce_item_name_xmas_cape" = "宴會節斗篷";
@@ -2871,6 +2882,10 @@
 "daily_quest_emote_with_players_desc" = "<b>對其他玩家使用表情</b>";
 "daily_quest_explore_sunset_hotspring_desc" = "<b>在圓夢村泡溫泉放鬆</b>";
 "daily_quest_express_an_emote_to_a_friend_desc" = "<b>向一位朋友做表情動作</b>";
+"daily_quest_feast_fishing_desc" = "<b>在圓夢村使用釣竿釣一些好東西</b>";
+"daily_quest_feast_play_race_desc" = "<b>在圓夢村找到<2>熊抱雪人</2>，一起來場比賽</b>";
+"daily_quest_feast_play_skyball_desc" = "<b>在圓夢村玩 60 秒的光遇球</b>";
+"daily_quest_feast_snowball_hit_avatar_desc" = "<b>向其他玩家丟出一顆雪球</b>";
 "daily_quest_fetchlight_earth_desc" = "<b>收集 <learth><learth_img/>綠色光芒</learth></b>";
 "daily_quest_fetchlight_fire_desc" = "<b>收集 <lfire><lfire_img/>橙色光芒</lfire></b>";
 "daily_quest_fetchlight_mind_desc" = "<b>收集<lmind><lmind_img/>紫色光芒</lmind></b>";
@@ -2900,6 +2915,7 @@
 "daily_quest_help_spirit_started" = "幫<1>{{1}}</1>一個忙";
 "daily_quest_high_five_someone_desc" = "<b>和朋友擊掌</b>";
 "daily_quest_hold_someones_hand_desc" = "<b>和朋友牽手</b>";
+"daily_quest_honk_at_players_desc" = "<b>呼喚 5 位不同的玩家</b>";
 "daily_quest_hug_someone_desc" = "<b>和朋友擁抱</b>";
 "daily_quest_interact_with_invite_shrine_desc" = "<b>使用邀請神壇</b>";
 "daily_quest_join_a_group_of_3_desc" = "<b>和 3 個玩家組隊</b>";
@@ -2921,8 +2937,10 @@
 "daily_quest_lightseeker3_night_shelter_desc" = "<b>在禁閣的知識庫避難所捕捉 3 道光</b>";
 "daily_quest_lightseeker3_rain_basecamp_desc" = "<b>在大樹屋捕捉 3 道光</b>";
 "daily_quest_lightseeker3_rain_rainforest_desc" = "<b>在雨林小溪捕捉 3 道光</b>";
+"daily_quest_lightseeker3_rain_skyway_desc" = "<b>在風之大道收集 3 道光</b>";
 "daily_quest_lightseeker3_sunset_citadel_desc" = "<b>在霞谷城堡捕捉 3 道光</b>";
 "daily_quest_lightseeker3_sunset_race_desc" = "<b>在霞谷滑行賽道中捕捉 3 道光</b>";
+"daily_quest_lightseeker3_sunset_yetipark_desc" = "<b>在隱士山谷收集 3 道光</b>";
 "daily_quest_lightseeker_forest_desc" = "<b>抓住雨林之光</b>";
 "daily_quest_lightseeker_prairie_desc" = "<b>抓住雲野之光</b>";
 "daily_quest_lightseeker_valley_desc" = "<b>抓住霞谷之光</b>";
@@ -2989,7 +3007,7 @@
 "daily_quest_rescue_a_manta_from_darkstone_desc" = "<b>拯救一隻被黑暗腐植困住的光鰩</b>";
 "daily_quest_retrieve_a_lost_emote_desc" = "<b>在暮土拾回丟失的翼之光</b>";
 "daily_quest_reward_10_wax" = "獲得 10 道燭光";
-"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>在聖域群島乘坐一隻巨大光鰩</b>";
+"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>在聖域群島乘坐一隻大光鰩</b>";
 "daily_quest_runway_recording_shrine_view_desc" = "<b>在風格伸展台神壇查看共享記憶</b>";
 "daily_quest_runway_recording_shrine_walk_desc" = "<b>在風格伸展台神壇錄製共享記憶</b>";
 "daily_quest_save_a_spirit_desc" = "<b>重溫一位先靈的記憶</b>";
@@ -3030,9 +3048,9 @@
 "daily_quest_spirit_chimesmithbuilder3_desc" = "<b>一起演奏一首曲子</b>";
 "daily_quest_spirit_cold_desc" = "<b>重溫這個來自雨林先靈的記憶</b>";
 "daily_quest_spirit_confirm" = "這位<1>先靈</1>剛剛給了你一個任務。要現在開始嗎？";
-"daily_quest_spirit_crabvoice1_desc" = "幫助<1>行禮艦長</1>驅趕靠近<1>蟹語者</1>的螃蟹";
-"daily_quest_spirit_crabvoice2_desc" = "幫忙將螃蟹帶到<1>蟹語者</1>身邊";
-"daily_quest_spirit_crabvoice3_desc" = "幫助<1>蟹語者</1>爬到管道上方";
+"daily_quest_spirit_crabvoice1_desc" = "<b>協助<1>行禮艦長</1>驅趕靠近<1>蟹語者</1>的螃蟹</b>";
+"daily_quest_spirit_crabvoice2_desc" = "<b>與<1>先靈們</1>一起跳蟹舞</b>";
+"daily_quest_spirit_crabvoice3_desc" = "<b>與<1>暗蟹</1>一起爬到管道上方</b>";
 "daily_quest_spirit_cry_desc" = "<b>重溫這個來自雨林先靈的記憶</b>";
 "daily_quest_spirit_discoverark1_desc" = "拍攝船的甲板";
 "daily_quest_spirit_discoverark1_hint" = "拍攝船的主甲板";
@@ -3143,6 +3161,7 @@
 "daily_quest_spirit_yoga2_desc" = "與<1>苦行僧侶</1>一起做伸展操";
 "daily_quest_spirit_yoga3_desc" = "與<1>苦行僧侶</1>一起做伸展操";
 "daily_quest_sunlight_photo_daily_desc" = "幫助<1>祈禱聖徒</1>在秘密書庫中記錄夏日。";
+"daily_quest_tidy_rain_grandmatable_desc" = "<b>在雨林的樹林高處整理<1>歸屬季的先祖團聚長桌</1></b>";
 "daily_quest_touch_butterflies_butterflyfields_desc" = "<b>在蝴蝶原野與眾多蝴蝶一同飛翔</b>";
 "daily_quest_ui_complete" = "這是你的獎勵<heart/>！記得明天再來！";
 "daily_quest_ui_intro" = "完成今天的挑戰可以獲得一顆<heart/>";
@@ -3533,6 +3552,7 @@
 "error_shop_verifyreceipt_already" = "你已經擁有此物品。";
 "error_shop_verifyreceipt_internal" = "購買訂單錯誤";
 "error_shop_verifyreceipt_not_allowed" = "目前無法購買此物品。";
+"error_snowball_notonsnow" = "你在這裡<b>無法</b>製作<2>雪球</2>。\n請到有<b>積雪</b>的地方試試吧。";
 "error_support_message_generic" = "很抱歉，因出現未知錯誤，您當前無法訪問客服支持服務器。請再試一次。";
 "error_support_title" = "客服支持錯誤";
 "error_video_record_general" = "該設備不支持視頻錄製";
@@ -3557,8 +3577,10 @@
 "eventboard_name_skyfest" = "《Sky光·遇》週年慶";
 "eventboard_name_sunlight" = "陽光節";
 "eventboard_name_treasure" = "尋寶節";
+"eventboard_name_twinribbon" = "絆愛 + 愛哥：360 度聲光饗宴";
 "eventboard_name_ugc" = "工作坊成果發表";
 "eventboard_nextevent" = "{{1}}將在{{2}}{{3}}開始。";
+"eventname_board_feast" = "盛宴節";
 "exit_point_00" = "<2>離開</2>這個區域";
 "experimental_features_title" = "測試中功能";
 "external_account_rewards_button_twitch" = "查看 Twitch 掉寶";
@@ -3573,6 +3595,14 @@
 "extra_event_reward_hint" = "這位<1>先靈</1>非常感謝你的探訪。";
 "facebook_add_friend_permission" = "光·遇需要你授權獲取Facebook的好友信息以添加好友";
 "facebook_add_friend_sign_in" = "登入並綁定你的 Facebook 帳號，就可以透過 Facebook 添加朋友。\n登入與綁定之帳號必須相符。";
+"feast25_ec_bonus" = "找到了{{1}}/15 枚<2>額外活動票券</2>";
+"feast25_intro_tutorial_01" = "與其他玩家一起練習雪球打靶，即可獲得光與<2>活動燭光</2>";
+"feast25_intro_tutorial_02" = "和其他玩家打一場雪仗吧！";
+"feast25_intro_tutorial_03" = "每天參加活動，就能獲得 <2>活動燭光</2>";
+"feast25_intro_tutorial_04" = "在活動結束前，於共享空間神壇堆起一個雪人";
+"feast25_intro_tutorial_05" = "這個區域中藏有 15 枚<2>額外活動票券</2>";
+"feast25_intro_tutorial_06" = "活動期間隨時都能收集票券";
+"feast25_snowball_practice" = "要練習雪球打靶嗎？";
 "feast_banter_hare_01" = "你有故事要和我們分享嗎？";
 "feast_banter_hare_02" = "我應該沒有錯過蛋糕和果醬⋯⋯吧？";
 "feast_banter_hare_03" = "真是個怪物等級的宴會！";
@@ -3828,6 +3858,7 @@
 "game_button_hide_quest_list" = "隱藏任務";
 "game_button_jump_fly" = "跳躍 / 翱翔";
 "game_button_left" = "向左";
+"game_button_map_anywhere" = "地圖";
 "game_button_menu_toggle" = "道具功能";
 "game_button_move" = "移動";
 "game_button_none" = "無";
@@ -4029,7 +4060,7 @@
 "howtoplay_closet_2_adventure_title" = "<b>探險尋寶</b>";
 "howtoplay_closet_2_hearts" = "獻給<1>先靈</1><heart/> <b>愛心</b>，他們就會教你如何用<b>奇裝異服</b>搭配出<b>新造型</b>。";
 "howtoplay_closet_2_hearts_title" = "<b>奉獻愛心</b>";
-"howtoplay_closet_3_seasons" = "每兩個月《光·遇》新的季節降臨，並帶來新的先靈和限時的服飾。";
+"howtoplay_closet_3_seasons" = "限時<b>活動</b>與<b>季節</b>，將帶來發現<b>全新物品</b>的機會。";
 "howtoplay_closet_3_seasons_title" = "<b>季節變換</b>";
 "howtoplay_closet_4_instruments" = "有些<1>先靈</1>會分享<b>樂器</b>，或是傳授能夠與好友分享的<b>歌曲</b>。";
 "howtoplay_closet_4_instruments_title" = "<b>演奏音樂</b>";
@@ -5418,6 +5449,10 @@
 "notification_social_feed_comment_multiple" = "你已收到 %@ 條關於你的作品《%@》的評論！";
 "notification_social_feed_follow" = "有人希望以後能看到更多你的共享創作！";
 "notification_social_feed_follow_multiple" = "%@個人希望以後能看到更多你的共享創作！";
+"notification_special_event2_message" = "想了解活動在你當地的時間，請查看遊戲行事曆。 🗓️ 如果錯過了第一次，別擔心！它會每 2 小時重複一次。 ⏰";
+"notification_special_event2_title" = "今天有個特別的活動，千萬別錯過～ 🎀";
+"notification_special_event4_message" = "想了解活動在你當地的時間，請查看遊戲行事曆。 🗓️ 如果錯過了第一次，別擔心！它會每 4 小時重複一次。 ⏰";
+"notification_special_event4_title" = "今天有個特別的活動，千萬別錯過～ 🎀";
 "notification_style_end_message" = "在活動結束前找到風格嚮導並參加時裝秀！🌟";
 "notification_style_end_title" = "🎩風格節即將結束";
 "notification_style_start_message" = "換上喜愛的造型展現自我，並發現新物品！🎩";
@@ -5482,6 +5517,12 @@
 "notification_treasure_end_title" = "🗺️ 尋寶節即將結束！";
 "notification_treasure_message" = "尋寶任務已經開始！幫助你最喜愛的先靈，一起穿越領域，尋找埋藏的寶物吧！🏃‍♀️ ";
 "notification_treasure_title" = "尋寶節 💎";
+"notification_twinribbon2_message" = "想了解活動在你當地的時間，請查看遊戲行事曆。 🗓️ 如果錯過了第一次，別擔心！它會每 2 小時重複一次。 ⏰";
+"notification_twinribbon2_title" = "絆愛特別演唱會——就在今天！ 🎀";
+"notification_twinribbon4_message" = "想了解活動在你當地的時間，請查看遊戲行事曆。 🗓️ 如果錯過了第一次，別擔心！它會每 4 小時重複一次。 ⏰";
+"notification_twinribbon4_pyoko_message" = "想了解活動在你當地的時間，請查看遊戲行事曆。 🗓️ 如果錯過了第一場，別擔心！它會每 4 小時重複一次。 ⏰";
+"notification_twinribbon4_pyoko_title" = "就在今天！\n絆愛 + 愛哥：360 度聲光饗宴🎀";
+"notification_twinribbon4_title" = "絆愛特別演唱會——就在今天！ 🎀";
 "notification_unnamed_accepted_invite" = "一位朋友接受了你的邀請！";
 "notification_unnamed_friend_gift_message" = "一個朋友送給你了一個♥！請回到遇境領取";
 "notification_unnamed_friend_online" = "一個朋友上線了！";
@@ -5514,6 +5555,7 @@
 "outfit_hint_elder_specific" = "你<b>尚未</b>獲得<1>{{1}}</1>的這項物品。\n幫助<1>{{2}}</1>的所有先靈，即可取得。";
 "outfit_hint_event" = "你<b>尚未</b>從<b>正在進行的活動</b>中獲得此物品。 \n參與<b>正在進行活動</b>即可取得。";
 "outfit_hint_event_specific" = "你<b>尚未</b>從<b>正在進行的活動</b>中獲得此物品。 \n拜訪<1>{{1}}</1>即可取得。";
+"outfit_hint_genericshop" = "此物品可在<2>特別商店</2>中獲得";
 "outfit_hint_iap" = "可在商店選單購買，或在任何領域的商店位置限時選購";
 "outfit_hint_limited" = "限量供應";
 "outfit_hint_night" = "在禁閣的群星中解鎖";
@@ -5673,7 +5715,7 @@
 "race_in_progress_come_back" = "比賽進行中。請等待加入下一輪。";
 "radiance_cap_reached" = "此種顏色的<b>彩染之光</b> 今天的額度已經集滿了。";
 "radiance_despawn_warning" = "動作要快，這片黑暗很快就會消逝。";
-"radiance_event_green_black_info_body" = "<b>綠染之光</b><dye_green/>與<b>黑染之光</b><dye_black/>將更常出現在所有光染腐植中。\n\n另外，可於<1>光之染坊</1>獲取更多物品。";
+"radiance_event_green_black_info_body" = "<dye_white/>與<dye_blue/>與<dye_red/>將更常出現在所有光染腐植中。  另外，可於<1>光之染坊</1>獲取更多物品。";
 "radiance_event_green_black_info_header" = "<b>彩染活動</b> 進行中！";
 "radiance_shout" = "難以觸及的藤蔓也對深層呼喚很敏感。";
 "radiance_vine_gameplay" = "藤蔓對<2>心火</2>非常敏感。";
@@ -5822,6 +5864,7 @@
 "samk_ann_text5" = "欸，你有沒有想過星星究竟是什麼？";
 "samk_ann_text6" = "所有星星都是粒子發射器產生的，會追蹤特定玩家的動態。因此，當玩家移動時，星星也會跟著移動！";
 "samk_ann_text7" = "嘿，是我，Charley。你知道這一切都是假的，對吧？這不符合 Sky 的世界觀，我也不知道 Sam 從哪裡找來那個飄浮的先靈。";
+"scoreboard_total" = "總分：";
 "season_candle_purchase_confirmation" = " 未使用的限定蠟燭會在每一季奇妙之旅結束時被轉換為普通蠟燭。";
 "season_daysbefore" = "新的季節在<b>{{1}}</b>天後開始";
 "season_daysleft" = "本季節還有<b>{{1}}</b>天結束";
@@ -7767,6 +7810,11 @@
 "tutorial_shout_03_temple_ps" = "迷路時，<hinticon/><1>按下<button type=\"shout\"/></1>。一道光會指引你前往下一個<1>長老神廟</1><beacon/>。";
 "tutorial_shout_to_reveal_friends" = "<hinticon/> <1>輕點</1><2>你的角色</2>可以顯示朋友的位置";
 "tutorial_shout_to_reveal_friends_ps" = "<hinticon/> <1>輕按 <button type=\"shout\"/></1> 可以顯示朋友的位置";
+"tutorial_snowball_charge_throw" = "<hinticon/><1>長按</1><throw/>蓄力準備<b>投擲</b>";
+"tutorial_snowball_charge_throw_ps" = "<hinticon/><1>長按</1><button type=\"menu_toggle\"/>蓄力準備<b>投擲</b>";
+"tutorial_snowball_release_throw" = "<hinticon/><1>鬆開</1>就可以投擲";
+"tutorial_snowball_reload" = "<hinticon/><1>點擊</1> <hand/>製作雪球";
+"tutorial_snowball_reload_ps" = "<hinticon/><1>按下</1><button type=\"menu_toggle\"/>製作雪球";
 "tutorial_spirit_00" = "<hinticon/> 徹底<1>點亮</1><b>左右兩座</b>雕像";
 "tutorial_spirit_01" = "<hinticon/> <1>點亮</1><b>左右兩扇</b>大門";
 "tutorial_spirit_02" = "<hinticon/> <1>點亮</1>蠟燭喚醒光的先靈";
@@ -7806,6 +7854,17 @@
 "tutorial_wingbuff_level_up_00" = "<hinticon/> <1>點擊</1><warning>紅點</warning>，<2>升級</2>你的翅膀<cape/>";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/> <1>按下 <button type=\"emote_menu\"/></1><2> 升級</2>你的翅膀 <cape/>";
 "tutorial_wingbuff_progress" = "<hinticon/> 再尋找 <b>{{1}}</b> 顆 <2><wingbuff/></2> 可以成長到下一個<cape/> 等級";
+"twinribbon_ec_bonus" = "在這個區域蒐集 15 枚<2>額外活動票券</2> ～";
+"twinribbon_encore" = "安可！安可！";
+"twinribbon_ground" = "要回到地面嗎？";
+"twinribbon_help" = "幫愛哥一起叫醒絆愛就能獲得 <2>活動燭光</2>。";
+"twinribbon_prompt_encore" = "想要安可曲，就大聲呼喊吧！";
+"twinribbon_ready" = "其中一位已經準備好囉～";
+"twinribbon_return" = "絆愛再訪 Sky 國度，與愛哥一同登台演出！";
+"twinribbon_sky" = "要回到空中嗎？";
+"twinribbon_soon" = "我快醒了啦⋯⋯";
+"twinribbon_tired" = "另一位升級後還有點愛睡。";
+"twinribbon_try" = "<hinticon/> 試著大聲呼喊，也許就能喚醒絆愛";
 "ui_adjust_insets" = "<b>使用右操作桿配合你的螢幕調整畫面範圍</b>";
 "ui_adjust_insets_keyboard" = "<b>使用箭頭將遊戲畫面區域調整到符合你的顯示器</b>";
 "ui_botton_done" = "<b>完成</b>";
@@ -7838,7 +7897,7 @@
 "ui_nav_web_remote_unlink" = "<b>解除連結</b>";
 "ui_nav_yes" = "<b>是</b>";
 "unlock_while_diving_disabled" = "無法在水中解鎖。";
-"video_settings_menu_hint" = "請至齒輪選單中的<b>音訊</b>設定，調整<b>字幕</b>與<b>音量</b>偏好以最佳化觀影體驗。";
+"video_settings_menu_hint" = "請至<cog/>選單中的<b>音訊</b>設定，調整<b>字幕</b>與<b>音量</b>偏好以最佳化在光遇影院的體驗。";
 "video_settings_menu_title" = "遊戲內電影院";
 "video_settings_subtitle_button" = "字幕";
 "video_settings_title" = "影像設定";

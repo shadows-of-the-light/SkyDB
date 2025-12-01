@@ -1,12 +1,4 @@
 /* This file is auto-generated, please don't manually edit, use LocalizationTool! */
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_BODY" = "<b>Salam, Petualang,</b>\n\nRoh kami di awan telah mengonfirmasi bahwa pengembalian dana telah diproses untuk pembelian yang diberikan ke akun kamu. Barang-barang dari pembelian ini telah dihapus dari inventaris kamu sebagai bagian dari pengembalian dana ini. \n\nJika pembelian yang diberikan adalah untuk Season Pass saat ini, alih-alih menghapus akses ke Season Pass kamu saat ini, harap diperhatikan bahwa saldo negatif telah diterapkan ke akun kamu. Untuk mengakses Season Pass di masa depan, saldo negatif ini harus dibayar terlebih dahulu agar dapat membeli Season Pass baru. \n\nUntuk informasi tentang kebijakan pengembalian dana kami, silakan merujuk ke halaman FAQ kami. kamu dapat mengaksesnya dalam game melalui menu roda gigi dengan mengklik “Dukungan.” Situs web Dukungan juga tersedia di thatgamecompany.helpshift.com melalui browser web apa pun. \n\nKami menghargai pengertian kamu dan berharap kamu akan terus menikmati dunia Sky bersama kami! \n\n~thatgamecompany";
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_SUBJECT" = "Pemberitahuan Pengembalian Dana Telah Selesai";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_BODY" = "Karena deteksi dan verifikasi baru-baru ini terhadap eksploitasi game, hack, atau pemasangan alat pihak ketiga pada akun ini, kami mengeluarkan peringatan akun ini.\n\nHarap diperhatikan bahwa menggunakan eksploitasi, atau memasang hack atau alat pihak ketiga untuk mendapatkan keuntungan tidak adil terhadap anggota Komunitas lainnya, merupakan pelanggaran terhadap Panduan Komunitas kami.\n\nSetiap item atau mata uang dalam game yang ditemukan diperoleh melalui keuntungan tidak adil juga telah dihapus dari akun ini untuk mengembalikan keseimbangan dan permainan yang adil di dunia Sky.\n\nBerikut yang telah dihapus dari akun ini:\n[##] [Item or Currency Name]\n\nKami mohon Anda meninjau Panduan Komunitas yang dijelaskan dalam Ketentuan Layanan (ToS) kami dan membiasakan diri dengan aturan untuk menghindari potensi sanksi di masa depan. Jika ada program pihak ketiga untuk Sky: Children of the Light yang telah diinstal di perangkat Anda, kami menyarankan untuk menghapusnya sebelum masuk kembali ke dalam game.\n\nKetentuan Layanan dapat diakses di dalam game melalui menu roda gigi dan klik “Support.” Ini akan membawa Anda ke situs web dukungan thatgamecompany, tempat Anda dapat melihat EULA/ToS secara lengkap. Situs dukungan juga dapat diakses dengan mengetik thatgamecompany.helpshift.com di browser web mana pun.\n\nKami berterima kasih atas pengertian Anda dan berharap Anda terus menikmati dunia Sky bersama kami!\n\n~Tim Dukungan Pemain Sky\"";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_SUBJECT" = "Pemberitahuan Peringatan Akun dan Penghapusan Item atau Mata Uang (Eksploitasi Ekstrem, Hack, atau Alat Pihak Ketiga)\n\"<b>Salam Petualang,</b>";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_BODY" = "Permainan yang menunjukkan pelanggaran terhadap Ketentuan Layanan (ToS) thatgamecompany untuk Sky: Anak-Anak Cahaya telah teridentifikasi pada akun ini. \n\nLanjutan gameplay yang konsisten dengan hacking, cheating, atau modifikasi file game, dapat mengakibatkan tindakan terhadap akun ini, termasuk pemblokiran sementara atau permanen. Kami mohon agar kamu meninjau Pedoman Komunitas yang tercantum dalam ToS kami dan memahami aturan-aturan tersebut untuk menghindari sanksi di masa depan.  \n\nJika ada program pihak ketiga untuk Sky: Anak-Anak Cahaya yang terinstal di perangkatmu, kami sarankan untuk menghapusnya sebelum masuk kembali ke game. \n\nKetentuan Layanan dapat diakses dalam game melalui menu roda gigi dan mengklik “Dukungan.” Ini akan membawa kamu ke situs web Dukungan thatgamecompany, di mana kamu dapat melihat EULA/ToS lengkap. Situs web Dukungan juga dapat diakses dengan mengetikkan thatgamecompany.helpshift.com di browser web apa pun. \n\nKami mengucapkan terima kasih atas pengertian kamu dan berharap kamu akan terus menikmati dunia Sky bersama kami! \n\n~Tim Dukungan Pemain Sky";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_SUBJECT" = "Pemberitahuan Peringatan Terakhir (Penyalahgunaan Ekstrem, Peretasan, atau Alat Pihak Ketiga)";
-"INBOX_WARNING_EXPLOITHACK_NEW_BODY" = "<b>Salam, Petualang,</b>\n\nKarena adanya eksploitasi game, hacking, atau deteksi penggunaan alat pihak ketiga yang terpasang pada akun ini, kami mengeluarkan peringatan untuk akun ini. Harap diperhatikan bahwa penggunaan eksploitasi, hacking, atau alat pihak ketiga untuk mendapatkan keunggulan yang tidak adil terhadap anggota Komunitas lainnya merupakan pelanggaran terhadap Pedoman Komunitas kami. \n\nKami mohon agar kamu meninjau Pedoman Komunitas yang tercantum dalam Ketentuan Layanan (ToS) kami dan memahami aturan-aturan tersebut untuk menghindari sanksi di masa depan. Jika ada program pihak ketiga untuk Sky: Anak-Anak Cahaya yang terpasang di perangkat kamu, kami menyarankan untuk menghapusnya sebelum masuk kembali ke permainan. \n\nKetentuan Layanan dapat diakses dalam game melalui menu roda gigi dan mengklik “Dukungan.” Ini akan membawa kamu ke situs web Dukungan thatgamecompany, di mana kamu dapat melihat EULA/ToS lengkap. Situs web Dukungan juga dapat diakses dengan mengetikkan thatgamecompany.helpshift.com di browser web apa pun. \n\nKami mengucapkan terima kasih atas pengertian kamu dan berharap kamu akan terus menikmati dunia Sky bersama kami! \n\n~Tim Dukungan Pemain Sky";
-"INBOX_WARNING_EXPLOITHACK_NEW_SUBJECT" = "Pemberitahuan Peringatan Akun (Penyalahgunaan Ekstrem, Peretasan, atau Alat Pihak Ketiga)";
 "accept_addfriend" = "Berteman dengan pemain ini?";
 "accept_bearhug" = "Buka <2>pelukan beruang</2>?";
 "accept_carry" = "Buka <2>gendong</2>?";
@@ -75,6 +67,7 @@
 "account_link_recover_message_google" = "Lepas akun Sky yang belum ditautkan ini dan pulihkan akun yang ditautkan ke Google?";
 "account_link_recover_message_google_play" = "Lepas akun Sky yang belum ditautkan ini dan pulihkan akun yang ditautkan ke Google Play?";
 "account_link_recover_title" = "Pulihkan Akun Sky?";
+"account_link_superlike_locked" = "Kamu harus memiliki akun yang terhubung di menu <cog/> untuk mengirim hadiah ini.";
 "account_link_unlinked_button" = "<b>Tautan dibatalkan</b>";
 "account_login_create_new_title" = "Buat Akun Sky Baru?";
 "account_login_create_new_warning" = "Jika kamu ingin bermain dengan akun Sky yang sudah ada, batalkan proses ini. Pertama masuk ke perangkat lain lalu tautkan akun Sky yang sudah ada dengan metode login baru ini di bawah Menu Akun, lalu kembali ke sini.";
@@ -253,8 +246,8 @@
 "achievements_reset_common" = "Reset Pencapaian";
 "achievements_reset_confirm_body" = "Semua pencapaian akan <b>hilang</b>.";
 "achievements_reset_confirm_title" = "<b>Apakah Kamu Yakin?</b>";
-"achievements_show_system_ui_common" = "Tampilkan Pencapaian";
-"achievements_show_system_ui_sony" = "Tampilkan Piala";
+"achievements_show_system_ui_common" = "Penghargaan";
+"achievements_show_system_ui_sony" = "Piala";
 "activity_birthday_2023_daily_quests" = "Selesaikan semua misi harian.";
 "activity_birthday_2023_friend_interaction" = "Bermain dengan temanmu.";
 "activity_birthday_2023_wax_collection" = "Kumpulkan lilin di pesta ulang tahun.";
@@ -1303,6 +1296,10 @@
 "ap28_fetch01_intro01" = "Kawanan ini telah kehilangan para pemimpinnya dan membutuhkan bimbingan dalam migrasi mereka.";
 "ap28_fetch02_intro01" = "Angin kencang telah mengejutkan burung-burung yang sedang bermigrasi!";
 "ap28_fetch04_intro01" = "Hujan deras telah menyebabkan banjir di Hutan Tersembunyi.";
+"ap28_fetch08_hint01" = "Temukan dan selamatkan Makhluk Cahaya yang ketakutan.";
+"ap28_fetch08_intro01" = "Kabut tebal telah menyelimuti <1>Gurun Emas</1>.";
+"ap28_fetch09_hint01" = "Cari di sekitar untuk jejak <1>Pembuat Lonceng Migrasi</1>.";
+"ap28_fetch09_hint02" = "Bantu menenangkan <1>Pemandu Migrasi</1>.";
 "ap28_hint_airplanearms" = "Hidupkan kembali kenangan baru dari Pembisik Burung Migrasi di <1>Jalur Angin</1>.";
 "ap28_hint_boat" = "Perahu sudah siap! Pimpin kawanan mengikuti jejak Makhluk Cahaya yang bermigrasi.";
 "ap28_hint_dizzy" = "Hidupkan kembali kenangan baru dari Perayu Kupu-Kupu Migrasi di <1>Jalur Angin</1>.";
@@ -1948,12 +1945,15 @@
 "commerce_item_desc_feast_ballgame" = "<2>Item Kembali.</2> Sepasang tiang gawang yang kokoh saat ditempatkan untuk penggemar Skyball sejati.";
 "commerce_item_desc_feast_furcape" = "<2>Item Kembali.</2> Tidak ada pertapa yang dirugikan dalam pembuatan jubah putih yang mewah dan halus ini.";
 "commerce_item_desc_feast_puffercape" = "<2>Barang yang Kembali.</2> Dirancang untuk menantang pemandangan apa pun yang membeku.";
+"commerce_item_desc_feast_scarfcape" = "Seindah pagi setelah salju pertama turun.";
 "commerce_item_desc_feast_snowboard" = "Dirancang dengan baik untuk menaklukkan lereng Lembah yang paling curam.";
 "commerce_item_desc_feast_snowflakepin" = "<2>Item Kembali.</2> Rayakan Hari Perjamuan dengan Aksesori Kepingan Salju berkilau ini";
 "commerce_item_desc_feast_snowglobe" = "<2>Item Kembali.</2> Apa pun musimnya, bawa kenangan musim dingin ke mana pun kamu pergi.";
+"commerce_item_desc_feast_snowkidhat" = "Misteriusnya, tak pernah meleleh.";
+"commerce_item_desc_feast_warmerset" = "Tetap hangat dengan topi mewah dan set pelindung kaki ini.";
 "commerce_item_desc_feast_wintereldercape" = "<2>Item Kembali.</2> Rayakan Hari Perjamuan dengan Jubah Musim Panas Leluhur yang nyaman ini ";
-"commerce_item_desc_feast_wonderland_crabbithole" = "Masuki lorong menuju Kafe Wonderland yang unik untuk petualangan yang tak tertandingi.";
-"commerce_item_desc_feast_wonderland_pinafore" = "Hanyutkan dirimu dalam gaun kuning primrose bergaya klasik milik Alice, yang dipadukan sempurna dengan pita rambut biru.";
+"commerce_item_desc_feast_wonderland_crabbithole" = "<2>Item yang Kembali.</2> Membuka jalan menuju Kafe Wonderland yang penuh keajaiban untuk petualangan tak tertandingi.";
+"commerce_item_desc_feast_wonderland_pinafore" = "<2>Item yang Kembali.</2> Tenggelam dalam gaun kuning primrose klasik Alice, dipasangkan sempurna dengan pita rambut biru.";
 "commerce_item_desc_feast_yetiboots" = "<2>Barang yang Kembali.</2> Dengan ceroboh (tapi penuh cinta) dijahit oleh tangan Pertapa sendiri.";
 "commerce_item_desc_fortune_carp" = "<2> Item Kembali.</2> Berikan keberuntungan pada teman saat kamu menggunakan Aksesori Ikan Keberuntungan ini!";
 "commerce_item_desc_fortune_carppack" = "<2> Item Kembali.</2> Selami semangat Keberuntungan saat kamu mengenakan Jubah dan Tudung Ikan yang keren ini!";
@@ -1966,6 +1966,7 @@
 "commerce_item_desc_fortune_snakecapehair" = "Jubah putih dan gaya rambut dengan keanggunan ular yang mewah.";
 "commerce_item_desc_fortune_umbrella" = "<2>Barang yang Kembali</2> Payung ungu yang sangat menarik!";
 "commerce_item_desc_founder_pack" = "<candle/> x {{1}} <2>( bonus {{2}} + {{3}}! )</2> dan <8>jubah biru TGC terbatas<cape/></8>\n untuk menjadi anggota pendiri dan mendukung thatgamecompany!";
+"commerce_item_desc_kizuna_pack_pink" = "<2>Item yang Kembali.</2> <8>Jubah KizunaAI <cape/></8> + <2>Gaya Rambut KizunaAI</2> + <2>Aksesori Rambut KizunaAI</2>";
 "commerce_item_desc_kizuna_pack_red" = "<8>Jubah Kizuna AI<cape/></8> + <2>Gaya Rambut Kizuna AI</2> + <2> Aksesori Rambut Kizuna AI </2>";
 "commerce_item_desc_limited" = "Promo spesial untuk merayakan periode di tahun ini:\n<b>{{1}}</b>";
 "commerce_item_desc_limited_previous" = "Promo spesial dari musim sebelumnya:";
@@ -2073,6 +2074,9 @@
 "commerce_item_desc_tgcwireframe" = "Sebuah perayaan khusus untuk memperingati ulang tahun kelima Sky. Menghadirkan kembali transformasi meriah dari Desa Aviary.";
 "commerce_item_desc_tgcwireframe_evergreen" = "Mengenang momen-momen ajaib di dunia Sky berkat kehadiran kamu. Memungkinkan untuk mengunjungi kembali transformasi meriah dari Desa Aviary, galeri Sejarah Sky, galeri Seni Sky, dan panggung Obrolan Pengembang.";
 "commerce_item_desc_treasure_eyepatchpants" = "Gali petualangan yang belum pernah dilakukan dengan menyesuaikan aksen warna pada masker penutup mata dan set celana panjang ini.\nTermasuk <dye_black/>x {{1}} & <dye_white/>x {{1}}!";
+"commerce_item_desc_twinribbon_pink" = "Jubah Sutra KizunaAI & Gaun Berlapis KizunaAI";
+"commerce_item_desc_twinribbon_red" = "Gaun Pita AI-GE & Jubah Pita AI-GE";
+"commerce_item_desc_twinribbon_tele" = "Teman yang bisa dipeluk, <2>ekspresif secara tak terduga</2>.";
 "commerce_item_desc_valentines_swing" = "<2>Ayunan Hari Kasih</2>";
 "commerce_item_desc_wool_hat" = "<2> Item Kembali.</2> Tetap nyaman menggunakan Topi Wol nan lembut ini.";
 "commerce_item_desc_xmas_cape" = "<2>Jubah Hari Perjamuan</2>";
@@ -2142,9 +2146,12 @@
 "commerce_item_name_feast_ballgame" = "Set Skyball Perjamuan";
 "commerce_item_name_feast_furcape" = "Jubah Pertapa yang Nyaman";
 "commerce_item_name_feast_puffercape" = "Jubah Berlapis Musim Dingin";
+"commerce_item_name_feast_scarfcape" = "Jubah Syal Musim Dingin";
 "commerce_item_name_feast_snowboard" = "Papan Seluncur Salju Pesta Musim Dingin";
 "commerce_item_name_feast_snowflakepin" = "Aksesori Rambut Kepingan Salju";
 "commerce_item_name_feast_snowglobe" = "Globe Salju Perjamuan Musim Dingin";
+"commerce_item_name_feast_snowkidhat" = "Aksesori Snowkid";
+"commerce_item_name_feast_warmerset" = "Pakaian Berbulu Musim Dingin";
 "commerce_item_name_feast_wintereldercape" = "Jubah Leluhur Musim Dingin";
 "commerce_item_name_feast_wonderland_crabbithole" = "Koridor Kafe Wonderland";
 "commerce_item_name_feast_wonderland_pinafore" = "Set Primrose Pinafore Wonderland";
@@ -2162,6 +2169,7 @@
 "commerce_item_name_fortune_umbrella" = "Payung Ajaib Hari Keberuntungan";
 "commerce_item_name_founder_pack" = "Paket Pendiri";
 "commerce_item_name_friendship_bundle" = "Bundel Pertemanan";
+"commerce_item_name_kizuna_pack_pink" = "Paket KizunaAI";
 "commerce_item_name_kizuna_pack_red" = "Paket Kizuna AI";
 "commerce_item_name_littleprince_coat" = "Jaket Asteroid Pangeran Kecil";
 "commerce_item_name_littleprince_fox" = "Rubah Pangeran Kecil";
@@ -2268,6 +2276,9 @@
 "commerce_item_name_tgcwireframe" = "Jubah Kerangka Kawat Sky Fest";
 "commerce_item_name_tgcwireframe_evergreen" = "Jubah Kerangka Kawat TGC";
 "commerce_item_name_treasure_eyepatchpants" = "Hadiah bagi Pencari Harta Karun";
+"commerce_item_name_twinribbon_pink" = "Pakaian Berlapis KizunaAI";
+"commerce_item_name_twinribbon_red" = "Pakaian Berpita AI-GE";
+"commerce_item_name_twinribbon_tele" = "Boneka TV AI-GE";
 "commerce_item_name_valentines_swing" = "Ayunan Hari Kasih";
 "commerce_item_name_wool_hat" = "Topi Wol Hari Keberuntungan";
 "commerce_item_name_xmas_cape" = "Jubah Hari Perjamuan";
@@ -2825,6 +2836,10 @@
 "daily_quest_emote_with_players_desc" = "<b>Gunakan ekspresi dengan pemain lain</b>";
 "daily_quest_explore_sunset_hotspring_desc" = "<b>Bersantai di Mata Air Panas di Desa Impian</b>";
 "daily_quest_express_an_emote_to_a_friend_desc" = "<b>Gunakan ekspresi di dekat teman</b>";
+"daily_quest_feast_fishing_desc" = "<b>Tangkap sesuatu yang baik dengan pancingan ikan di Desa Impian</b>";
+"daily_quest_feast_play_race_desc" = "<b>Temukan <2>Hermit Pemeluk Erat</2> di Desa Impian dan ikuti perlombaan</b>";
+"daily_quest_feast_play_skyball_desc" = "<b>Mainkan Skyball selama 60 detik di Desa Impian</b>";
+"daily_quest_feast_snowball_hit_avatar_desc" = "<b>Lemparkan bola salju ke seseorang</b>";
 "daily_quest_fetchlight_earth_desc" = "<b>Kumpulkan <learth><learth_img/>Cahaya Hijau</learth></b>";
 "daily_quest_fetchlight_fire_desc" = "<b>Kumpulkan <lfire><lfire_img/>Cahaya Oranye</lfire></b>";
 "daily_quest_fetchlight_mind_desc" = "<b>Kumpulkan <lmind><lmind_img/>Cahaya Ungu</lmind></b>";
@@ -2854,6 +2869,7 @@
 "daily_quest_help_spirit_started" = "Bantu <1>{{1}}</1>";
 "daily_quest_high_five_someone_desc" = "<b>Tos dengan teman</b>";
 "daily_quest_hold_someones_hand_desc" = "<b>Pegang tangan teman</b>";
+"daily_quest_honk_at_players_desc" = "<b>Honk ke 5 pemain yang berbeda</b>";
 "daily_quest_hug_someone_desc" = "<b>Peluk teman</b>";
 "daily_quest_interact_with_invite_shrine_desc" = "<b>Berinteraksi dengan Kuil Undang Teman</b>";
 "daily_quest_join_a_group_of_3_desc" = "<b>Bentuk tim dengan 3 teman</b>";
@@ -2875,8 +2891,10 @@
 "daily_quest_lightseeker3_night_shelter_desc" = "<b>Tangkap 3 cahaya di Gudang Pengungsi Kubah</b>";
 "daily_quest_lightseeker3_rain_basecamp_desc" = "<b>Tangkap 3 cahaya di Rumah Pohon besar</b>";
 "daily_quest_lightseeker3_rain_rainforest_desc" = "<b>Tangkap 3 cahaya di Anak Sungai Hutan</b>";
+"daily_quest_lightseeker3_rain_skyway_desc" = "<b>Tangkap 3 cahaya di Jalur Angin</b>";
 "daily_quest_lightseeker3_sunset_citadel_desc" = "<b>Tangkap 3 cahaya di Benteng Lembah</b>";
 "daily_quest_lightseeker3_sunset_race_desc" = "<b>Tangkap 3 cahaya selama balapan seluncur di Lembah</b>";
+"daily_quest_lightseeker3_sunset_yetipark_desc" = "<b>Tangkap 3 cahaya di Lembah Pertapa</b>";
 "daily_quest_lightseeker_forest_desc" = "<b>Tangkap cahaya di Hutan Tersembunyi</b>";
 "daily_quest_lightseeker_prairie_desc" = "<b>Tangkap cahaya di Padang Rumput Siang</b>";
 "daily_quest_lightseeker_valley_desc" = "<b>Tangkap cahaya di Lembah Kejayaan</b>";
@@ -2942,6 +2960,7 @@
 "daily_quest_rescue_a_manta_from_darkstone_desc" = "<b>Selamatkan Manta dari kegelapan</b>";
 "daily_quest_retrieve_a_lost_emote_desc" = "<b>Dapatkan kembali Cahaya Bersayap yang hilang di Gurun</b>";
 "daily_quest_reward_10_wax" = "<b>Diberi hadiah 10 cahaya!</b>";
+"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>Naik manta raksasa di Pulau Tempat Suci</b>";
 "daily_quest_runway_recording_shrine_view_desc" = "<b>Lihat Memori Bersama di kuil panggung bergaya</b>";
 "daily_quest_runway_recording_shrine_walk_desc" = "<b>Rekam Kenangan Bersama di kuil panggung bergaya</b>";
 "daily_quest_save_a_spirit_desc" = "<b>Hidupkan kembali kenangan Roh</b>";
@@ -2982,9 +3001,9 @@
 "daily_quest_spirit_chimesmithbuilder3_desc" = "<b>Mainkan lagu bersama-sama</b>";
 "daily_quest_spirit_cold_desc" = "<b>Hidupkan kembali kenangan roh ini dari Hutan Tersembunyi</b>";
 "daily_quest_spirit_confirm" = "<1>roh</1> ini baru saja memberi kamu sebuah misi. Mulai sekarang?";
-"daily_quest_spirit_crabvoice1_desc" = "Bantu <1>Kapten Hormat</1> untuk menjauhkan kepiting dari <1>Pembisik Kepiting</1>";
-"daily_quest_spirit_crabvoice2_desc" = "Berikan bantuan untuk membawa kepiting ke <1>Pembisik Kepiting</1>";
-"daily_quest_spirit_crabvoice3_desc" = "Bantu <1>Pembisik Kepiting</1> untuk mencapai bagian atas pipa.";
+"daily_quest_spirit_crabvoice1_desc" = "<b>Bantu <1>Kapten Hormat</1> menjauhkan kepiting dari <1>Pembisik Kepiting</1></b>";
+"daily_quest_spirit_crabvoice2_desc" = "<b>Berjalan kepiting bersama <1>para Roh</1></b>";
+"daily_quest_spirit_crabvoice3_desc" = "<b>Capai ke bagian atas pipa bersama <1>kepiting</1></b>";
 "daily_quest_spirit_cry_desc" = "<b>Hidupkan kembali kenangan roh ini dari Hutan Tersembunyi</b>";
 "daily_quest_spirit_discoverark1_desc" = "Memotret geladak kapal";
 "daily_quest_spirit_discoverark1_hint" = "Memotret dek utama kapal";
@@ -3095,6 +3114,8 @@
 "daily_quest_spirit_yoga2_desc" = "Bergabunglah dengan <1>Biksu Pertapa</1> untuk melakukan peregangan";
 "daily_quest_spirit_yoga3_desc" = "Bergabunglah dengan <1>Biksu Pertapa</1> untuk melakukan peregangan";
 "daily_quest_sunlight_photo_daily_desc" = "Bantu <1>Pelayan Berdoa</1> menyimpan kenangan musim panas di Arsip.";
+"daily_quest_tidy_rain_grandmatable_desc" = "<b>Rapikan Meja Kepemilikan <1>Nenek Moyang</1> di dataran tinggi Hutan Tersembunyi</b>";
+"daily_quest_touch_butterflies_butterflyfields_desc" = "<b>Terbang bersama banyak kupu-kupu di Ladang Kupu-Kupu</b>";
 "daily_quest_ui_complete" = "Kerja bagus! Terimalah <heart/> Kembalilah lagi esok untuk mendapatkannya lagi!";
 "daily_quest_ui_intro" = "Selesaikan tantangan hari ini untuk meraih <heart/>";
 "daily_quest_use_teleport_to_candle_space_desc" = "<b>Teleportasi kembali ke Rumah</b>";
@@ -3482,6 +3503,7 @@
 "error_shop_verifyreceipt_already" = "Kamu sudah memiliki item ini.";
 "error_shop_verifyreceipt_internal" = "Terjadi masalah internal dengan bukti pembelian";
 "error_shop_verifyreceipt_not_allowed" = "Item ini tidak dapat dibeli saat ini.";
+"error_snowball_notonsnow" = "Kamu <b>tidak</b> bisa membuat <2>bola salju</2> di sini. \nCari <b>salju</b> di dekatnya.";
 "error_support_message_generic" = "Maaf, terjadi kesalahan tidak terduga yang mencegah komunikasi dengan server Dukungan. Coba lagi nanti.";
 "error_support_title" = "Kesalahan Dukungan";
 "error_video_record_general" = "Perekaman video tidak didukung di perangkat ini";
@@ -3506,8 +3528,10 @@
 "eventboard_name_skyfest" = "Ulang Tahun Sky";
 "eventboard_name_sunlight" = "Hari Sinar Matahari";
 "eventboard_name_treasure" = "Hari Harta Karun";
+"eventboard_name_twinribbon" = "Pengalaman Pyoko-Pyoko 360";
 "eventboard_name_ugc" = "Lokakarya Pertunjukan & Cerita";
 "eventboard_nextevent" = "{{1}} dimulai dari {{2}} {{3}}.";
+"eventname_board_feast" = "Hari Perayaan";
 "exit_point_00" = "<1>Keluar</1> area ini dari sini";
 "experimental_features_title" = "Fitur Eksperimental";
 "external_account_rewards_button_twitch" = "Periksa Hadiah Twitch";
@@ -3522,6 +3546,14 @@
 "extra_event_reward_hint" = "<1>Roh</1> ini sangat berterima kasih atas kunjunganmu.";
 "facebook_add_friend_permission" = "Sky perlu izin untuk mengakses data temanmu guna menambahkan teman melalui Facebook";
 "facebook_add_friend_sign_in" = "Masuk dan tautkan akun Facebook kamu untuk menambahkan teman melalui Facebook\nAkun yang digunakan untuk masuk dan ditautkan harus sesuai";
+"feast25_ec_bonus" = "{{1}}/15 <2>Tiket Acara Bonus</2> ditemukan";
+"feast25_intro_tutorial_01" = "Mainkan target bola salju dengan pemain lain untuk mendapatkan Cahaya dan <2>Cahaya Tiket Acara</2>";
+"feast25_intro_tutorial_02" = "Bertarung bola salju dengan pemain lain!";
+"feast25_intro_tutorial_03" = "Ikuti kegiatan di area untuk mendapatkan <2>Cahaya Tiket Acara</2> setiap hari";
+"feast25_intro_tutorial_04" = "Bangun manusia salju di Kuil Ruang Bersama sebelum acara berakhir";
+"feast25_intro_tutorial_05" = "15 <2>Tiket Acara Bonus</2> tersembunyi di seluruh area";
+"feast25_intro_tutorial_06" = "Kamu bisa mengumpulkannya kapan saja selama acara";
+"feast25_snowball_practice" = "Mainkan latihan target bola salju?";
 "feast_banter_hare_01" = "Apakah kamu punya cerita untuk kami?";
 "feast_banter_hare_02" = "Aku yakin aku tidak terlambat untuk kue dan selai?";
 "feast_banter_hare_03" = "Sebuah rakasa dari sebuah pesta!";
@@ -3768,6 +3800,7 @@
 "game_button_hide_quest_list" = "Sembunyikan Misi";
 "game_button_jump_fly" = "Lompat / Terbang";
 "game_button_left" = "Kiri";
+"game_button_map_anywhere" = "Peta";
 "game_button_menu_toggle" = "Kemampuan Item";
 "game_button_move" = "Gerak";
 "game_button_none" = "Tidak ada";
@@ -3968,7 +4001,7 @@
 "howtoplay_closet_2_adventure_title" = "<b>Beranilah Menjelajah</b>";
 "howtoplay_closet_2_hearts" = "Tiap pakaian akan terbuka di rasi roh ditukarkan dengan hati.";
 "howtoplay_closet_2_hearts_title" = "<b>Tawarkan hati kepada mereka</b>";
-"howtoplay_closet_3_seasons" = "Dua bulan sekali, musim baru akan menghadirkan <b>pakaian terbatas</b> yang hanya tersedia di musim tersebut.";
+"howtoplay_closet_3_seasons" = "<b>Acara</b> dan <b>Musim</b> terbatas menghadirkan kesempatan untuk menemukan <b>item baru</b>.";
 "howtoplay_closet_3_seasons_title" = "<b>Periksa kembali secara teratur</b>";
 "howtoplay_closet_4_instruments" = "Sejumlah roh membawa alat musik dan partitur dan mengizinkanmu untuk bermain musik bersama.";
 "howtoplay_closet_4_instruments_title" = "<b>Tampil bersama</b>";
@@ -5355,6 +5388,8 @@
 "notification_social_feed_comment_multiple" = "Kamu telah menerima %@ komentar atas kreasi kamu, \"%@\"!";
 "notification_social_feed_follow" = "Seseorang ingin melihat lebih banyak Kreasi Bersama milikmu di masa mendatang!";
 "notification_social_feed_follow_multiple" = "%@ orang ingin melihat lebih banyak Kreasi Bersama milikmu di masa mendatang!";
+"notification_special_event4_message" = "Periksa kalender dalam game untuk waktu lokalmu. 🗓️ Tenang saja! Jika kamu melewatkannya pertama kali, acara ini akan diputar ulang setiap 4 jam. ⏰";
+"notification_special_event4_title" = "Hari ini ada acara istimewa! 🎀";
 "notification_style_end_message" = "Temukan Pemandu Gaya dan ikuti peragaan busana mereka sebelum acara berakhir! 🌟";
 "notification_style_end_title" = "🎩 Hari Bergaya Segera Berakhir";
 "notification_style_start_message" = "Ekspresikan dirimu dengan koleksi favoritmu, dan temukan item baru! 🎩";
@@ -5419,6 +5454,7 @@
 "notification_treasure_end_title" = "🗺️ Perburuan Harta Karun Hampir Berakhir!";
 "notification_treasure_message" = "Perburuan harta karun dimulai! Bantu para Roh favorit kamu saat mereka mencari hadiahnya. 🏃‍♀️ ";
 "notification_treasure_title" = "Hari Harta Karun 💎";
+"notification_twinribbon4_pyoko_title" = "Hari ini ada konser spesial Pyoko-Pyoko 360! 🎀";
 "notification_unnamed_accepted_invite" = "Seorang teman menerima undanganmu!";
 "notification_unnamed_friend_gift_message" = "Seorang teman mengirimkan ♥! Ambil di Rumah";
 "notification_unnamed_friend_online" = "Seorang teman online!";
@@ -5450,6 +5486,7 @@
 "outfit_hint_elder_specific" = "Kamu <b>belum</b> mendapatkan ini dari <1>{{1}}</1>.\nBantulah semua roh di <1>{{2}}</1> untuk mendapatkannya.";
 "outfit_hint_event" = "Kamu <b>belum</b> mendapatkan ini dari <b>acara yang sedang berlangsung.</b>\nBerpartisipasi dalam <b>acara yang sedang berlangsung</b> untuk mendapatkannya.";
 "outfit_hint_event_specific" = "Kamu <b>belum</b> mendapatkan ini dari <b>acara yang sedang berlangsung.</b>\nKunjungi <1>{{1}}</1> untuk mendapatkannya.";
+"outfit_hint_genericshop" = "Item ini bisa ditemukan di <2>Toko Spesial</2>";
 "outfit_hint_iap" = "Tersedia di menu Toko atau di lokasi Toko dalam salah satu alam untuk durasi terbatas.";
 "outfit_hint_limited" = "Ketersediaan terbatas";
 "outfit_hint_night" = "Tersedia di rasi Kubah";
@@ -5599,7 +5636,7 @@
 "race_in_progress_come_back" = "Perlombaan sedang berlangsung. Mohon tunggu untuk bergabung di babak berikutnya.";
 "radiance_cap_reached" = "\nJenis <b>Cahaya Berwarna</b> ini telah dikumpulkan untuk hari ini.";
 "radiance_despawn_warning" = "Bekerjalah dengan cepat - kegelapan ini akan segera sirna.";
-"radiance_event_green_black_info_body" = "<b>Cahaya Hijau</b><dye_green/> dan <b>Cahaya Hitam</b><dye_black/> muncul lebih sering pada semua Tanaman Kegelapan Bercahaya.\n\nItem tambahan tersedia di <1>Lokakarya Warna</1>.";
+"radiance_event_green_black_info_body" = "<dye_white/> dan <dye_blue/> dan <dye_red/> muncul lebih sering pada semua Tanaman Kegelapan Bercahaya.  Item tambahan tersedia di <1>Lokakarya Warna</1>.";
 "radiance_event_green_black_info_header" = "Sebuah <b>Acara Pancaran Cahaya</b> sedang berlangsung!";
 "radiance_shout" = "Tanaman merambat yang sulit dijangkau juga sensitif terhadap panggilan yang keras.";
 "radiance_vine_gameplay" = "Tanaman merambat sensitif terhadap <2>api</2>.";
@@ -5749,6 +5786,7 @@
 "samk_ann_text5" = "Yo. Apakah kamu pernah bertanya-tanya apa bintang-bintang itu?";
 "samk_ann_text6" = "Mereka berasal dari penghasil partikel yang diletakkan ke pemutar. Jadi, saat pemain bergerak, bintang juga ikut bergerak!";
 "samk_ann_text7" = "Hai. Ini aku, Charley. Kamu tahu semua ini tidak nyata, kan? Itu tidak sejalan dengan pembangunan dunia Sky, dan aku tidak tahu di mana Sam menemukan roh yang mengambang itu.";
+"scoreboard_total" = "Total:";
 "season_candle_purchase_confirmation" = " Lilin musim yang tidak digunakan akan diubah menjadi lilin biasa di akhir musim. ";
 "season_daysbefore" = "Musim baru dimulai dalam <b>{{1}}</b> hari";
 "season_daysleft" = "<b>{{1}}</b> hari lagi sebelum musim berakhir";
@@ -7648,6 +7686,11 @@
 "tutorial_shout_03_temple_ps" = "<hinticon/> <1>tekan <button type=\\“shout\\” /></1> saat tersesat. Sebuah cahaya akan memandu kamu ke <1>Kuil Tetua</1> berikutnya <beacon/>.";
 "tutorial_shout_to_reveal_friends" = "<hinticon/> <1>Ketuk</1> <2>dirimu</2> untuk menampilkan temanmu";
 "tutorial_shout_to_reveal_friends_ps" = "<hinticon/> <1>Tekan <button type=\"shout\"/></1> untuk menampilkan temanmu";
+"tutorial_snowball_charge_throw" = "<hinticon/><1>Tekan dan tahan</1> tombol <throw/> untuk mengisi <b>lemparan</b> kamu";
+"tutorial_snowball_charge_throw_ps" = "<hinticon/> <1>Tahan</1> <button type=\"menu_toggle\"/> untuk mengisi <b>lemparan</b> kamu";
+"tutorial_snowball_release_throw" = "<hinticon/> <1>Lepaskan</1> untuk melempar";
+"tutorial_snowball_reload" = "<hinticon/> <1>Ketuk</1> <hand/> untuk membuat bola salju";
+"tutorial_snowball_reload_ps" = "<hinticon/> <1>Tekan</1> <button type=\"menu_toggle\"/> untuk membuat bola salju";
 "tutorial_spirit_00" = "<hinticon/> <1>Sinari</1> patung di <b>kedua</b> sisi sepenuhnya";
 "tutorial_spirit_01" = "<hinticon/> <1>Sentuh</1> <b>kedua</b> pintu dengan <1>lilin</1> untuk membukanya";
 "tutorial_spirit_02" = "<hinticon/> <1>Nyalakan</1> lilin untuk membangkitkan roh masa lalu";
@@ -7687,6 +7730,17 @@
 "tutorial_wingbuff_level_up_00" = "<hinticon/> <1>Ketuk</1> <warning>titik merah</warning> untuk <2>menaikkan level</2> sayapmu <cape/>";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/> <1>Tekan <button type=\"emote_menu\"/></1> untuk <2>menaikkan level</2> sayap <cape/> milikmu";
 "tutorial_wingbuff_progress" = "<hinticon/> Temukan <b>{{1}}</b> lain <2><wingbuff/></2> untuk mencapai level <cape/> berikutnya";
+"twinribbon_ec_bonus" = "Temukan 15 <2>Tiket Acara Bonus</2> di seluruh area";
+"twinribbon_encore" = "Encore!";
+"twinribbon_ground" = "Kembali ke tanah?";
+"twinribbon_help" = "Bantu AI-GE membangunkan KizunaAI untuk mendapatkan <2>Cahaya Tiket Acara</2>";
+"twinribbon_prompt_encore" = "Panggilan untuk encore spesial!";
+"twinribbon_ready" = "Satu sudah siap....";
+"twinribbon_return" = "KizunaAI telah kembali ke Sky untuk tampil bersama AI-GE!";
+"twinribbon_sky" = "Naik ke atas lagi?";
+"twinribbon_soon" = "Aku akan segera bangun....";
+"twinribbon_tired" = "Yang lain masih lelah setelah Peningkatan-nya.";
+"twinribbon_try" = "<hinticon/> Coba panggilan dalam untuk membangunkan KizunaAI";
 "ui_adjust_insets" = "<b>Gunakan tuas kanan untuk menyesuaikan area layar agar sesuai dengan tampilanmu</b>";
 "ui_adjust_insets_keyboard" = "<b>Gunakan tombol panah untuk menyesuaikan area layar game agar sesuai dengan tampilanmu</b>";
 "ui_botton_done" = "<b>Selesai</b>";
@@ -7719,7 +7773,7 @@
 "ui_nav_web_remote_unlink" = "<b>Batalkan Tautan</b>";
 "ui_nav_yes" = "<b>Ya</b>";
 "unlock_while_diving_disabled" = "Tidak bisa membuka saat berada di air.";
-"video_settings_menu_hint" = "Akses pengaturan <b>Audio</b> di menu roda gigi untuk menyesuaikan preferensi <b>teks terjemahan</b> dan <b>volume</b> untuk Bioskop.";
+"video_settings_menu_hint" = "Akses pengaturan <b>Audio</b> di menu <cog/> untuk menyesuaikan <b>subtitle</b> dan <b>volume</b> di Bioskop.";
 "video_settings_menu_title" = "Bioskop Dalam Game";
 "video_settings_subtitle_button" = "Subtitle";
 "video_settings_title" = "Pengaturan Video";

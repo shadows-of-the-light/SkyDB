@@ -1,12 +1,4 @@
 /* This file is auto-generated, please don't manually edit, use LocalizationTool! */
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_BODY" = "<b>星の子どもたちへ</b>\n\nこんにちは。王国の精霊たちが、あなたのアカウントにプレゼント機能で贈られたアイテムの返金手続きが完了したことを確認したそうです。つきましては、該当のアイテムがドレスアップの祠より回収されましたことをお知らせいたします。\n\nなお、贈られたものが開催中のシーズンパスだった場合は、季節へのアクセスが制限される代わりに、アカウントの残高がマイナスになります。今後、新たな季節のシーズンパスのご購入には、まずマイナス分を返済いただく必要があります。\n\n返金ポリシーについての詳細はFAQをご確認ください。FAQはゲーム内設定メニューの「サポート」よりご覧いただけます。またはウェブブラウザからthatgamecompany.helpshift.comにアクセスください。\n\nご理解とご協力に心より感謝申し上げます。引き続きSkyの世界をお楽しみください！\n\n~thatgamecompany\n";
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_SUBJECT" = "返金手続き完了のお知らせ";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_BODY" = "このアカウントにおけるゲームの不正利用、ハック、またはサードパーティツールのインストールが最近検出・確認されたため、本アカウントに対して警告を発行いたします。\n\nコミュニティの他のメンバーに対して不当な有利を得る目的で、不正利用やハック、サードパーティツールの使用は、コミュニティガイドラインの違反となります。\n\n不当な手段で取得されたアイテムやゲーム内通貨は、このアカウントから削除され、公正なプレイとSkyの世界でのバランスを回復しています。\n\n以下のアイテムがこのアカウントから削除されました：\n[##] [Item or Currency Name]\n\n今後のペナルティを避けるため、利用規約（ToS）に記載されたコミュニティガイドラインを確認し、ルールをよく理解しておくことを推奨します。もしお使いのデバイスにSky: Children of the Light用のサードパーティプログラムがインストールされている場合は、ゲームに再度ログインする前にアンインストールしてください。\n\n利用規約は、ゲーム内の歯車メニューから「サポート」を選択することで確認できます。こちらからthatgamecompanyのサポートサイトに移動し、EULA/ToS全体を閲覧可能です。また、ウェブブラウザでthatgamecompany.helpshift.comと入力してアクセスすることもできます。\n\nご理解いただきありがとうございます。今後もSkyの世界をお楽しみください。\n\n~Sky プレイヤーサポートチーム\"";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_SUBJECT" = "アカウント警告およびアイテム・通貨の削除のお知らせ（重大な不正利用、ハック、サードパーティツール）";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_BODY" = "こちらのアカウントにおいて、thatgamecompanyの『Sky 星を紡ぐ子どもたち』の利用規約（TOS）に違反するゲームプレイが確認されました。\n\nハッキングやチート、改変されたゲームファイルを使用した継続的なゲームプレイは、アカウントの一時的または恒久的な停止措置の対象となる場合があります。将来的な罰則等の措置を回避するためにも、今一度、ガイドラインセクションにあります利用規約をご一読いただき、各ルールをご確認いただきますようお願いいたします。\n\nSky 星を紡ぐ子どもたちに機能するサードパーティ製ツールが、ご使用端末にインストールされている場合は、ゲームに再度ログインされる前にアンインストールされることを推奨いたします。\n\n利用規約はゲーム内設定メニューの『サポート』からご確認いただけます。サポートメニューはthatgamecompanyのサポートサイトに連携しており、そちらで使用許諾契約/ 利用規約の全文をご覧いただけます。サポートサイトに直接アクセスされる際は、Webブラウザよりthatgamecompany.helpshift.comにアクセスください。\n\n利用規約を遵守の上、今後ともSkyをお楽しみいただけますと幸いです。ご理解とご協力に感謝申し上げます。\n\n~Sky Player Support Team";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_SUBJECT" = "アカウントに関する最終通告（過度なエクスプロイト、ハッキング、またはサードパーティ製ツールの使用）";
-"INBOX_WARNING_EXPLOITHACK_NEW_BODY" = "<b>星の子どもたちへ</b>\n\nこちらのアカウントにおいて、ゲームのエクスプロイト、ハッキング、またはサードパーティ製ツールのインストールが検知されましたので、アカウントに対する警告を発行いたします。エクスプロイト、ハッキングツールやサードパーティ製ツールで不公平な優位性を得る行為はコミュニティガイドライン違反となります事、ご承知おきください。\n\n将来的な罰則等の措置を回避するためにも、今一度、ガイドラインセクションにあります利用規約をご一読いただき、各ルールをご確認いただきますようお願いいたします。Sky 星を紡ぐ子どもたちに機能するサードパーティ製ツールが、ご使用端末にインストールされている場合は、ゲームに再度ログインされる前にアンインストールされることを推奨いたします。\n\n利用規約はゲーム内設定メニューの『サポート』からご確認いただけます。サポートメニューはthatgamecompanyのサポートサイトに連携しており、そちらで使用許諾契約/ 利用規約の全文をご覧いただけます。サポートサイトに直接アクセスされる際は、Webブラウザよりthatgamecompany.helpshift.comにアクセスください。\n\n利用規約を遵守の上、今後ともSkyをお楽しみいただけますと幸いです。ご理解とご協力に感謝申し上げます。\n\n~Sky Player Support Team";
-"INBOX_WARNING_EXPLOITHACK_NEW_SUBJECT" = "アカウントに関する通告（過度なエクスプロイト、ハッキング、またはサードパーティ製ツールの使用）";
 "accept_addfriend" = "このプレイヤーとフレンドになることができます";
 "accept_bearhug" = "このプレイヤーと<2>くまハグ</2>ができるようになります\nよろしいですか？";
 "accept_carry" = "このプレイヤーと<2>”おんぶ”</2>ができるようになります\nよろしいですか？";
@@ -75,6 +67,7 @@
 "account_link_recover_message_google" = "連携されていないSkyアカウントを破棄して、GoogleアカウントをSkyと連携しますか？";
 "account_link_recover_message_google_play" = "連携されていないSkyアカウントを破棄して、Google PlayアカウントをSkyと連携しますか？";
 "account_link_recover_title" = "Skyアカウントを復元しますか？";
+"account_link_superlike_locked" = "このギフトを贈るには<cog/>設定メニューにてアカウントを連携する必要があります";
 "account_link_unlinked_button" = "<b>連携していません</b>";
 "account_login_create_new_title" = "新しいSkyアカウントを作りますか？";
 "account_login_create_new_warning" = "既存のSkyアカウントでプレイしたい場合は、この手順をキャンセルしてください。先に既存の端末で、アカウントメニューより既存のSkyアカウントを、これから使用したい新規のログイン方法と連携し、こちらに戻って来てください。";
@@ -251,8 +244,8 @@
 "achievements_reset_common" = "達成項目を初期化する";
 "achievements_reset_confirm_body" = "全ての達成項目は<b>失われます</b>";
 "achievements_reset_confirm_title" = "<b>本当に実行しますか？</b>";
-"achievements_show_system_ui_common" = "達成項目を表示する";
-"achievements_show_system_ui_sony" = "トロフィーを表示する";
+"achievements_show_system_ui_common" = "達成項目";
+"achievements_show_system_ui_sony" = "トロフィー";
 "activity_birthday_2023_daily_quests" = "全てのデイリークエストを完了する";
 "activity_birthday_2023_friend_interaction" = "フレンドと一緒に遊ぶ";
 "activity_birthday_2023_wax_collection" = "バースデー会場で光のかけらを集める";
@@ -1301,6 +1294,10 @@
 "ap28_fetch01_intro01" = "この群れは年長者を失い、渡りを遂行するための導きを必要としています";
 "ap28_fetch02_intro01" = "強風に渡り鳥たちが怯えています！";
 "ap28_fetch04_intro01" = "豪雨により雨林が水浸しになっています";
+"ap28_fetch08_hint01" = "怯えている光の生き物たちとを見つけ、救い出しましょう";
+"ap28_fetch08_intro01" = "<1>捨てられた地</1>に濃い霧が立ち込めています";
+"ap28_fetch09_hint01" = "周辺を探索し、<1>渡りの鐘職人</1>の痕跡を見つけましょう";
+"ap28_fetch09_hint02" = "<1>渡りの案内人</1>が落ち着けるよう、手伝いましょう";
 "ap28_hint_airplanearms" = "<1>風の街道</1>で渡りの鳥の語り部の新たな記憶を呼び起こしましょう";
 "ap28_hint_boat" = "舟の準備が整いました！群れを光の渡りの道へと導きましょう";
 "ap28_hint_dizzy" = "<1>風の街道</1>で渡りの蝶々使いの新たな記憶を呼び起こしましょう";
@@ -2263,12 +2260,15 @@
 "commerce_item_desc_feast_ballgame" = "<2>復刻アイテム</2> 熱狂的なSkyボールプレイヤーたちのため造られた、一対の石造りのゴールポストです";
 "commerce_item_desc_feast_furcape" = "<2>復刻アイテム</2> このふわふわの白いケープの制作過程において、いかなる隠者も傷付いてはおりませんのでご安心ください";
 "commerce_item_desc_feast_puffercape" = "<2>復刻アイテム</2> これをまとえば、どれほど凍てつく世界にも耐えられるでしょう";
+"commerce_item_desc_feast_scarfcape" = "まるで最初の雪のひとひらが舞い降りた朝の夢のよう";
 "commerce_item_desc_feast_snowboard" = "峡谷の急峻もものともしない確かな逸品です";
 "commerce_item_desc_feast_snowflakepin" = "<2>復刻アイテム</2> この輝く聖なる雪花アクセサリーで、聖なる星の日々をお祝いしましょう";
 "commerce_item_desc_feast_snowglobe" = "<2>復刻アイテム</2> どの季節になっても、冬の思い出をあなたと一緒に連れていきましょう";
+"commerce_item_desc_feast_snowkidhat" = "不思議なことに全く溶けないのです";
+"commerce_item_desc_feast_warmerset" = "ふわふわをたっぷり使った上質なピルボックス帽とレッグウォーマーのセットで気品あふれる暖かさに包まれましょう";
 "commerce_item_desc_feast_wintereldercape" = "<2>復刻アイテム</2> 先祖が心を込めて編んだ温かみのあるケープで、聖なる星の日々をお祝いしましょう";
-"commerce_item_desc_feast_wonderland_crabbithole" = "魔法のように取り出す扉は小さな小さな不思議の国と、他にはない冒険へ導くひみつの通り道";
-"commerce_item_desc_feast_wonderland_pinafore" = "クラシカルなスタイルの黄色いエプロンドレスと、ぴったりの青いリボンをはためかせ、アリスのように不思議の国へ";
+"commerce_item_desc_feast_wonderland_crabbithole" = "<2>復刻アイテム</2>：魔法のように取り出す扉は小さな小さな不思議の国と、他にはない冒険へ導くひみつの通り道";
+"commerce_item_desc_feast_wonderland_pinafore" = "<2>復刻アイテム</2>：クラシカルなスタイルの黄色いエプロンドレスと、ぴったりの青いリボンをはためかせ、アリスのように不思議の国へ";
 "commerce_item_desc_feast_yetiboots" = "<2>復刻アイテム</2> 隠者自らの手により、不器用ながら愛情を込めて縫い上げられた一足";
 "commerce_item_desc_fortune_carp" = "<2>復刻アイテム</2> この小魚アクセサリーをのせて、どこにいても来福の日々を楽しみましょう！";
 "commerce_item_desc_fortune_carppack" = "<2>復刻アイテム</2> 大迫力の魚ケープとヘッドドレスで、来福の日々のお祝いに飛びこみましょう！";
@@ -2282,6 +2282,7 @@
 "commerce_item_desc_fortune_snakecapehair" = "蛇のような優艶な曲線美を備えた純白のケープとヘアスタイル";
 "commerce_item_desc_fortune_umbrella" = "<2>復刻アイテム</2> パッと目を引くパープルも鮮やかな、どこでさすにもパーフェクトなパラソル！";
 "commerce_item_desc_founder_pack" = "<candle/> x {{1}} <2>( {{2}} + {{3}}本ボーナス！ )</b> + <b>限定ケープ（TGCブルー） !</b>\n thatgamecompanyカラーのケープを着て、Skyを応援しましょう！";
+"commerce_item_desc_kizuna_pack_pink" = "<2>復刻アイテム</2>：<8>キズナアイケープ<cape/></8> + <2>キズナアイヘア</2> + <2>キズナアイヘッドアクセサリー</2>";
 "commerce_item_desc_kizuna_pack_red" = "<8>キズナアイケープ<cape/></8> + <2>キズナアイヘア</2> + <2>キズナアイヘッドアクセサリー</2>";
 "commerce_item_desc_limited" = "この特別な日々をお祝いしましょう！：\n<b>{{1}}</b>";
 "commerce_item_desc_limited_previous" = "過去の季節からの特別なお届け物";
@@ -2389,6 +2390,9 @@
 "commerce_item_desc_tgcwireframe" = "Sky5周年の特別な思い出に。お祝いのデコレーションが施された花鳥郷に再び遊びに行きましょう";
 "commerce_item_desc_tgcwireframe_evergreen" = "Skyの世界に魔法のような輝きをくれたあなたへ感謝を込めて。身につけるとお祝いのデコレーションが施された花鳥郷、History of Sky -Skyの軌跡-、Art of Sky -Skyの美術-、そして開発トークステージへ再訪できるケープです。";
 "commerce_item_desc_treasure_eyepatchpants" = "アクセントに色をカスタマイズできる眼帯とマスクとズボンのセットで、未開拓の冒険へ飛び込みましょう。\n<dye_black/>x {{1}} & <dye_white/>x {{1}}も含まれています！";
+"commerce_item_desc_twinribbon_pink" = "キズナアイ シフォンケープ＆ティアードスカート";
+"commerce_item_desc_twinribbon_red" = "アイガーリボンドレス＆リボンケープ";
+"commerce_item_desc_twinribbon_tele" = "<2>とっても豊かな</2>表情の、ぎゅっとしたくなる可愛いお友だち";
 "commerce_item_desc_valentines_swing" = "<2>愛しみのブランコ</2>";
 "commerce_item_desc_wool_hat" = "<2>復刻アイテム</2> 来福あったか帽子でぽかぽかに過ごしましょう";
 "commerce_item_desc_xmas_cape" = "<2>聖なるふわふわケープ</2>";
@@ -2457,9 +2461,12 @@
 "commerce_item_name_feast_ballgame" = "Skyボール・トーナメントセット";
 "commerce_item_name_feast_furcape" = "隠者のぬくもりケープ";
 "commerce_item_name_feast_puffercape" = "冬編むキルティングケープ";
+"commerce_item_name_feast_scarfcape" = "冬編む雪花マフラー";
 "commerce_item_name_feast_snowboard" = "聖なるスノーボード";
 "commerce_item_name_feast_snowflakepin" = "聖なる雪花アクセサリー";
 "commerce_item_name_feast_snowglobe" = "聖なる冬のスノードーム";
+"commerce_item_name_feast_snowkidhat" = "ゆきんこアクセサリー";
+"commerce_item_name_feast_warmerset" = "冬編むふわふわ小物パック";
 "commerce_item_name_feast_wintereldercape" = "冬編む先祖のケープ";
 "commerce_item_name_feast_wonderland_crabbithole" = "不思議のカフェの通り道";
 "commerce_item_name_feast_wonderland_pinafore" = "不思議のエプロンドレス";
@@ -2477,6 +2484,7 @@
 "commerce_item_name_fortune_umbrella" = "来福の魔法傘";
 "commerce_item_name_founder_pack" = "サポーターパック";
 "commerce_item_name_friendship_bundle" = "フレンドパック";
+"commerce_item_name_kizuna_pack_pink" = "キズナアイパック";
 "commerce_item_name_kizuna_pack_red" = "キズナアイパック";
 "commerce_item_name_littleprince_coat" = "王子さまの小惑星マント";
 "commerce_item_name_littleprince_fox" = "キツネのリュック";
@@ -2583,6 +2591,9 @@
 "commerce_item_name_tgcwireframe" = "SkyFest ワイヤーフレームケープ";
 "commerce_item_name_tgcwireframe_evergreen" = "TGCワイヤーフレームケープ";
 "commerce_item_name_treasure_eyepatchpants" = "トレジャーハンターの財宝";
+"commerce_item_name_twinribbon_pink" = "キズナアイ・ティアードドレス";
+"commerce_item_name_twinribbon_red" = "アイガー・リボンドレス";
+"commerce_item_name_twinribbon_tele" = "アイガー・TVぬいぐるみ";
 "commerce_item_name_valentines_swing" = "愛しみのブランコ";
 "commerce_item_name_wool_hat" = "来福あったか帽子";
 "commerce_item_name_xmas_cape" = "聖なるふわふわケープ";
@@ -3140,6 +3151,10 @@
 "daily_quest_emote_with_players_desc" = "<b>他のプレイヤーと感情表現を使う</b>";
 "daily_quest_explore_sunset_hotspring_desc" = "<b>夢見の町の温泉でゆっくりする</b>";
 "daily_quest_express_an_emote_to_a_friend_desc" = "<b>フレンドのそばで感情表現を使う</b>";
+"daily_quest_feast_fishing_desc" = "<b>夢見の町の釣り竿を使って何か良いものを釣り上げる</b>";
+"daily_quest_feast_play_race_desc" = "<b>夢見の町で<2>ハグ好きの隠者</2>を見つけ、レースに参加する</b>";
+"daily_quest_feast_play_skyball_desc" = "<b>夢見の町で、60秒間Skyボールをプレイする</b>";
+"daily_quest_feast_snowball_hit_avatar_desc" = "<b>誰かに雪玉を投げる</b>";
 "daily_quest_fetchlight_earth_desc" = "<b><learth><learth_img/>緑色の灯り</learth>を集める</b>";
 "daily_quest_fetchlight_fire_desc" = "<b><lfire><lfire_img/>だいだい色の灯り</lfire>を集める</b>";
 "daily_quest_fetchlight_mind_desc" = "<b><lmind><lmind_img/>紫色の灯り</lmind>を集める</b>";
@@ -3169,6 +3184,7 @@
 "daily_quest_help_spirit_started" = "<1>{{1}}</1>を手伝う";
 "daily_quest_high_five_someone_desc" = "<b>フレンドとハイタッチする</b>";
 "daily_quest_hold_someones_hand_desc" = "<b>フレンドと手をつなぐ</b>";
+"daily_quest_honk_at_players_desc" = "<b>5人の異なるプレイヤーに呼びかける</b>";
 "daily_quest_hug_someone_desc" = "<b>フレンドとハグをする</b>";
 "daily_quest_interact_with_invite_shrine_desc" = "<b>呼び寄せの像を使う</b>";
 "daily_quest_join_a_group_of_3_desc" = "<b>4人グループで行動する</b>";
@@ -3190,8 +3206,10 @@
 "daily_quest_lightseeker3_night_shelter_desc" = "<b>書庫の君憶う保存庫で3つの光をつかまえる</b>";
 "daily_quest_lightseeker3_rain_basecamp_desc" = "<b>大きなツリーハウスで3つの光をつかまえる</b>";
 "daily_quest_lightseeker3_rain_rainforest_desc" = "<b>雨林の小川で3つの光をつかまえる</b>";
+"daily_quest_lightseeker3_rain_skyway_desc" = "<b>風の街道で3つの光をつかまえる</b>";
 "daily_quest_lightseeker3_sunset_citadel_desc" = "<b>峡谷の城塞都市で3つの光をつかまえる</b>";
-"daily_quest_lightseeker3_sunset_race_desc" = "<b>草原の鳥の巣で3つの光をつかまえる</b>";
+"daily_quest_lightseeker3_sunset_race_desc" = "<b>峡谷の陸のレースで3つの光をつかまえる</b>";
+"daily_quest_lightseeker3_sunset_yetipark_desc" = "<b>隠者の峠で3つの光をつかまえる</b>";
 "daily_quest_lightseeker_forest_desc" = "<b>雨林で光をつかまえる</b>";
 "daily_quest_lightseeker_prairie_desc" = "<b>草原で光をつかまえる</b>";
 "daily_quest_lightseeker_valley_desc" = "<b>峡谷で光をつかまえる</b>";
@@ -3257,6 +3275,7 @@
 "daily_quest_rescue_a_manta_from_darkstone_desc" = "<b>光のマンタを蝕む闇から解放する</b>";
 "daily_quest_retrieve_a_lost_emote_desc" = "<b>捨てられた地で、落とした光の翼を失う前に取り戻す</b>";
 "daily_quest_reward_10_wax" = "光のかけらを10個 獲得しました！";
+"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>楽園の島々で巨大なマンタに乗る</b>";
 "daily_quest_runway_recording_shrine_view_desc" = "<b>お洒落な日々のランウェイでシェアメモリーズを鑑賞する</b>";
 "daily_quest_runway_recording_shrine_walk_desc" = "<b>お洒落な日々のランウェイでシェアメモリーズを記録する</b>";
 "daily_quest_save_a_spirit_desc" = "<b>精霊の記憶を呼び起こす</b>";
@@ -3298,8 +3317,8 @@
 "daily_quest_spirit_cold_desc" = "<b>紋様が示す雨林の精霊の記憶を呼び起こす</b>";
 "daily_quest_spirit_confirm" = "この<1>精霊</1>からクエストの依頼を受けました。すぐに始めますか？";
 "daily_quest_spirit_crabvoice1_desc" = "<1>敬礼する隊長</1>を手伝い、<1>蟹の語り部</1>から蟹たちを遠ざけましょう";
-"daily_quest_spirit_crabvoice2_desc" = "<1>蟹の語り部</1>が蟹を運ぶのを手伝いましょう";
-"daily_quest_spirit_crabvoice3_desc" = "<1>蟹の語り部</1>が配管の上に行けるよう手伝いましょう";
+"daily_quest_spirit_crabvoice2_desc" = "<1>精霊たち</1>と一緒に蟹歩きをしましょう";
+"daily_quest_spirit_crabvoice3_desc" = "<1>蟹たち</1>と一緒に配管の上まで行きましょう";
 "daily_quest_spirit_cry_desc" = "<b>紋様が示す雨林の精霊の記憶を呼び起こす</b>";
 "daily_quest_spirit_discoverark1_desc" = "舟の甲板を撮影しましょう";
 "daily_quest_spirit_discoverark1_hint" = "舟のメインデッキを撮影する";
@@ -3410,6 +3429,8 @@
 "daily_quest_spirit_yoga2_desc" = "<1>節制の修行者</1>と一緒に体をほぐしましょう";
 "daily_quest_spirit_yoga3_desc" = "<1>節制の修行者</1>と一緒に体をほぐしましょう";
 "daily_quest_sunlight_photo_daily_desc" = "資料庫で<1>祈る侍者</1>が夏を記録するのを手伝いましょう";
+"daily_quest_tidy_rain_grandmatable_desc" = "<b>雨林の高台広場で<1>想いを編む先祖の食卓</1>を片付ける</b>";
+"daily_quest_touch_butterflies_butterflyfields_desc" = "<b>蝶々の住処で、たくさんの蝶と一緒に飛行する</b>";
 "daily_quest_ui_complete" = "おめでとう！<heart/>を1つ 獲得しました\n明日のクエストをお楽しみに！";
 "daily_quest_ui_intro" = "今日のクエストを完了して<heart/>を獲得しましょう";
 "daily_quest_use_teleport_to_candle_space_desc" = "<b>ホームに戻る</b>";
@@ -3797,6 +3818,7 @@
 "error_shop_verifyreceipt_already" = "すでにこのアイテムを所持しています";
 "error_shop_verifyreceipt_internal" = "内部エラーのため購入履歴が取得できませんでした";
 "error_shop_verifyreceipt_not_allowed" = "現在このアイテムは購入できません";
+"error_snowball_notonsnow" = "ここでは<2>雪玉</2>を<b>作れません</b>。 \n<b>雪</b>がある場所を見つけましょう";
 "error_support_message_generic" = "予期せぬエラーによりサポートサーバーとの通信ができません。大変申し訳ございませんが、少し時間をおいて再度お試しください";
 "error_support_title" = "サポートエラー";
 "error_video_record_general" = "この端末では録画機能はお使いいただけません";
@@ -3821,8 +3843,10 @@
 "eventboard_name_skyfest" = "Skyアニバーサリー";
 "eventboard_name_sunlight" = "陽光の日々";
 "eventboard_name_treasure" = "宝探しの日々";
+"eventboard_name_twinribbon" = "ぴょこぴょこ360°エクスペリエンス";
 "eventboard_name_ugc" = "巣づくり工房発表会";
 "eventboard_nextevent" = "{{1}} はあと {{2}} {{3}} で始まります";
+"eventname_board_feast" = "聖なる星の日々";
 "exit_point_00" = "ここからこのエリアを<1>退出</1>します";
 "experimental_features_title" = "実験的機能";
 "external_account_rewards_button_twitch" = "Twitch Dropsを確認";
@@ -3837,6 +3861,14 @@
 "extra_event_reward_hint" = "この<1>精霊</1>は、あなたの訪問にとても感謝しています";
 "facebook_add_friend_permission" = "FacebookからフレンドをSkyに追加するには、友達リストへのアクセス許可が必要となります";
 "facebook_add_friend_sign_in" = "Facebookからフレンドを追加するには、同一Facebookアカウントで\n端末からログイン、ならびにSkyとの連携が必要となります";
+"feast25_ec_bonus" = "{{1}}/15枚の<2>ボーナス専用チケット</2>を見つけました";
+"feast25_intro_tutorial_01" = "周りの星の子どもたちと一緒に的当て練習をプレイして<2>イベントチケットのかけら</2>を集めましょう";
+"feast25_intro_tutorial_02" = "みんなで雪合戦を楽しみましょう！";
+"feast25_intro_tutorial_03" = "イベントエリア内のアクティビティに参加し、聖なる星の日々<2>専用チケットのかけら</2>を毎日集めましょう";
+"feast25_intro_tutorial_04" = "イベントが終わる前にシェアスペースの祭壇で雪だるまを作りましょう";
+"feast25_intro_tutorial_05" = "イベントエリアには15枚の<2>ボーナス専用チケット</2>が隠されています";
+"feast25_intro_tutorial_06" = "イベント開催中はいつでも、お好きなタイミングで集めていただけます";
+"feast25_snowball_practice" = "的当て練習をプレイしますか？";
 "feast_banter_hare_01" = "なにかお話をしてくれない？";
 "feast_banter_hare_02" = "僕がケーキとジャムに遅れるはずがない、そうだろ？";
 "feast_banter_hare_03" = "モンスター級の祝祭だ！";
@@ -4083,6 +4115,7 @@
 "game_button_hide_quest_list" = "クエストリストを閉じる";
 "game_button_jump_fly" = "ジャンプ / 飛行";
 "game_button_left" = "左";
+"game_button_map_anywhere" = "地図";
 "game_button_menu_toggle" = "アイテムの使用";
 "game_button_move" = "移動";
 "game_button_none" = "なし";
@@ -4283,7 +4316,7 @@
 "howtoplay_closet_2_adventure_title" = "<b>待ち受ける冒険</b>";
 "howtoplay_closet_2_hearts" = "ドレスアップアイテムは、それぞれ精霊の星座でハートと引き換えるとアンロックできます。";
 "howtoplay_closet_2_hearts_title" = "<b>ハートをあげましょう</b>";
-"howtoplay_closet_3_seasons" = "新しいシーズンは２ヶ月ごとに訪れます。季節限定の精霊たちが、珍しいアイテムや新しいクエストを携えてやってきますよ";
+"howtoplay_closet_3_seasons" = "期間限定の<b>イベント</b>や<b>季節</b>では多彩な<b>新アイテム</b>に出会えるでしょう";
 "howtoplay_closet_3_seasons_title" = "<b>移り変わる季節</b>";
 "howtoplay_closet_4_instruments" = "楽器や楽譜を手に入れて、他のプレイヤーたちと演奏を楽しみましょう";
 "howtoplay_closet_4_instruments_title" = "<b>奏でるハーモニー</b>";
@@ -5670,6 +5703,10 @@
 "notification_social_feed_comment_multiple" = " %@件のコメントがあなたの作品\" %@ \"に届きました！";
 "notification_social_feed_follow" = "誰かがこの先あなたの創作物をもっと鑑賞したいと願っています！";
 "notification_social_feed_follow_multiple" = "%@ 人の星の子どもたちがこの先あなたの創作物をもっと鑑賞したいと願っています！";
+"notification_special_event2_message" = "ゲーム内カレンダーで、イベントの時間をチェックしましょう📅でもご心配なく！もし見逃しても、2時間ごとに再演されます⏰";
+"notification_special_event2_title" = "本日、特別なイベントが開催されます！🎀";
+"notification_special_event4_message" = "ゲーム内カレンダーで、イベントの時間をチェックしましょう📅でもご心配なく！もし見逃しても、4時間ごとに再演されます⏰";
+"notification_special_event4_title" = "本日、特別なイベントが開催されます！🎀";
 "notification_style_end_message" = "この特別な日々が終わるまでに、お洒落の案内人に話かけ、ファッションショーに参加しましょう！";
 "notification_style_end_title" = "🎩 お洒落な日々はもうすぐ終わります";
 "notification_style_start_message" = "お気に入りの組み合わせや、新たなアイテムの可能性を見つけて、自分を表現しましょう！🎩";
@@ -5733,6 +5770,12 @@
 "notification_treasure_end_title" = "🗺️ 宝探しの日々はもうすぐ終わります";
 "notification_treasure_message" = "いざ宝探しへ！大好きな精霊たちを手伝い、各地でお宝を見つけましょう🏃‍♀️ ";
 "notification_treasure_title" = "宝探しの日々 💎";
+"notification_twinribbon2_message" = "ゲーム内カレンダーで、イベントの時間をチェックしましょう📅でもご心配なく！もし見逃しても、2時間ごとに再演されます⏰";
+"notification_twinribbon2_title" = "本日、キズナアイの特別コンサートが開催されます！🎀";
+"notification_twinribbon4_message" = "ゲーム内カレンダーで、イベントの時間をチェックしましょう📅でもご心配なく！もし見逃しても、4時間ごとに再演されます⏰";
+"notification_twinribbon4_pyoko_message" = "ゲーム内カレンダーで、イベントの時間をチェックしましょう📅でもご心配なく！もし見逃しても、4時間ごとに再演されます⏰";
+"notification_twinribbon4_pyoko_title" = "本日、キズナアイのスペシャルコンサートが開催されます！🎀";
+"notification_twinribbon4_title" = "本日、キズナアイの特別コンサートが開催されます！🎀";
 "notification_unnamed_accepted_invite" = "フレンドがあなたの招待を承諾しました";
 "notification_unnamed_friend_gift_message" = "フレンドからハートが届きました！\nホームに戻って受け取りましょう";
 "notification_unnamed_friend_online" = "フレンドがオンラインになりました";
@@ -5764,6 +5807,7 @@
 "outfit_hint_elder_specific" = "あなたはまだ<1>{{1}}</1>よりこちらを<b>獲得していません</b>。 \n<1>{{2}}</1>にいる全ての精霊を助け、入手しましょう";
 "outfit_hint_event" = "あなたは<b>開催中のイベント</b>にて、まだこちらを<b>獲得していません</b>。\n<b>開催中のイベント</b>に参加して入手しましょう";
 "outfit_hint_event_specific" = "あなたは<b>開催中のイベント</b>にて、まだこちらを<b>獲得していません</b>。\n<1>{{1}}</1>のもとを訪れ、入手しましょう";
+"outfit_hint_genericshop" = "このアイテムは<2>特別なお店</2>で入手できます";
 "outfit_hint_iap" = "ショップまたは、とある地方の特定のエリア内のショップにて、期間限定でお求めいただけます";
 "outfit_hint_limited" = "限定アイテムです";
 "outfit_hint_night" = "書庫の星座で見つけられます";
@@ -5921,7 +5965,7 @@
 "race_in_progress_come_back" = "レースが進行中です。次の回をお待ちください";
 "radiance_cap_reached" = "この種類の本日分の<b>光染料のかけら</b>を集めきりました";
 "radiance_despawn_warning" = "急ぎましょう。この蝕む闇はすぐに消えてしまうでしょう";
-"radiance_event_green_black_info_body" = "<b>緑色の光染料のかけら</b><dye_green/>と<b>黒色の光染料のかけら</b><dye_black/>が、光染料を持つ全ての蝕む闇より頻繁に採集できるようです。\n\n<1>光染め工房</1>では追加のアイテムも登場しています";
+"radiance_event_green_black_info_body" = "<dye_white/>と<dye_blue/>と<dye_red/>が、光染料を持つ全ての蝕む闇より頻繁に採集できるようです。  <1>光染め工房</1>では追加のアイテムも登場しています";
 "radiance_event_green_black_info_header" = "<b>光に染まるイベント</b>が開催されています！";
 "radiance_shout" = "届かなそうな手強い蔓も大きな呼びかけには反応するようです";
 "radiance_vine_gameplay" = "蔓は<2>炎</2>に弱いようです";
@@ -6071,6 +6115,7 @@
 "samk_ann_text5" = "ねえ、星ってなんだろうって考えたことある？";
 "samk_ann_text6" = "たぶんプレイヤーたちを見守ってる粒子放出機から出てる光なんだよね。だからプレイヤーが動くと、星たちも動くってわけ！";
 "samk_ann_text7" = "どうも、チャーリーです。今起こったのが現実じゃない、ってみんなわかってくれてる、よね？Skyの世界観にあってないし、サムがどこであの浮いてる子を見つけてきたのかもさっぱりだよ";
+"scoreboard_total" = "総得点：";
 "season_candle_purchase_confirmation" = " 使用されなかった<scandle/>はシーズンの終了時に通常の<candle/>に変換されます";
 "season_daysbefore" = "新たなシーズンの始まりまであと<b>{{1}}</b>日";
 "season_daysleft" = "シーズン終了まであと<b>{{1}}</b> 日";
@@ -7974,6 +8019,11 @@
 "tutorial_shout_03_temple_ps" = "<hinticon/>迷ったら<1><button type=\"shout\"/>を押して</1>呼びかけましょう。光が、あなたを次の<1>大精霊の神殿</1>への道を示すでしょう<beacon/>";
 "tutorial_shout_to_reveal_friends" = "<hinticon/> <1>自分をタップ</1>して フレンドに<2>呼びかけます</2>";
 "tutorial_shout_to_reveal_friends_ps" = "<hinticon/> <1><button type=\"shout\"/> を押して</1> フレンドに<2>呼びかけます</2>";
+"tutorial_snowball_charge_throw" = "<hinticon/> <throw/>を<1>長押し</1>して<b>投げる</b>準備をしましょう";
+"tutorial_snowball_charge_throw_ps" = "<hinticon/> <button type=\"menu_toggle\"/>を<1>長押し</1>して<b>投げる</b>準備をしましょう";
+"tutorial_snowball_release_throw" = "<hinticon/> 長押しをやめ<1>指を離して</1>投げます";
+"tutorial_snowball_reload" = "<hinticon/> <hand/>を<1>タップ</1>して雪玉を作りましょう";
+"tutorial_snowball_reload_ps" = "<hinticon/> <button type=\"menu_toggle\"/>を<1>押して</1>して雪玉を作りましょう";
 "tutorial_spirit_00" = "<hinticon/> <b>両側</b>の石像に完全に<2>灯を点しましょう</2>";
 "tutorial_spirit_01" = "<hinticon/> <b>両側</b>の扉に<2>キャンドルを灯して</2>みましょう";
 "tutorial_spirit_02" = "<hinticon/> キャンドルを灯して<2>大精霊を呼び覚まし</2>ましょう";
@@ -8013,6 +8063,17 @@
 "tutorial_wingbuff_level_up_00" = "<hinticon/> <warning>赤色の点</warning>を<1>タップ</1>するとケープ<cape/>が<2>レベルアップ</2>します";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/><1><button type=\"emote_menu\"/> ボタンを押す</1>と<cape/>が<2>レベルアップ</2>します";
 "tutorial_wingbuff_progress" = "<hinticon/> 次の<cape/>レベルまであと <b>{{1}}</b>片 の<wingbuff/>を集めましょう";
+"twinribbon_ec_bonus" = "エリア内にある15枚の<2>ボーナスイベントチケット</2>を見つけましょう";
+"twinribbon_encore" = "アンコール！";
+"twinribbon_ground" = "地上に戻りますか？";
+"twinribbon_help" = "キズナアイを起こそうとしているアイガーを手伝い、<2>イベントチケットのかけら</2>を集めましょう";
+"twinribbon_prompt_encore" = "特別なアンコールが聞きたいなら、叫んでー！";
+"twinribbon_ready" = "1人は準備万端…";
+"twinribbon_return" = "キズナアイが、アイガーと一緒にパフォーマンスするためにSkyに帰ってきました！";
+"twinribbon_sky" = "もう一度上昇しますか？";
+"twinribbon_soon" = "もうすぐ起きるよ…";
+"twinribbon_tired" = "もう1人はアップデートの影響でまだ疲れているみたい";
+"twinribbon_try" = "<hinticon/> キズナアイが目覚めるように呼びかけてみましょう";
 "ui_adjust_insets" = "<b>右スティックで表示エリアを調整します</b>";
 "ui_adjust_insets_keyboard" = "<b>方向キーで、表示エリアを調整します/b>";
 "ui_botton_done" = "<b>完了</b>";
@@ -8045,7 +8106,7 @@
 "ui_nav_web_remote_unlink" = "<b>接続解除</b>";
 "ui_nav_yes" = "<b>はい</b>";
 "unlock_while_diving_disabled" = "水中ではアンロックできません";
-"video_settings_menu_hint" = "設定メニュー内<b>サウンド</b>メニューにて、シアターでの<b>字幕</b>の使用と<b>音量</b>を設定いただけます";
+"video_settings_menu_hint" = "シアター内での<b>字幕</b>と<b>音量</b>は<cog/>設定メニューの<b>サウンド</b>にて調整いただけます。";
 "video_settings_menu_title" = "シアター設定";
 "video_settings_subtitle_button" = "字幕";
 "video_settings_title" = "動画設定";

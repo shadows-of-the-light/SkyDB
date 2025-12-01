@@ -1,12 +1,4 @@
 /* This file is auto-generated, please don't manually edit, use LocalizationTool! */
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_BODY" = "<b> Salutations Aventurier,</b>\n\nNos esprits dans les nuages ont confirmé qu’un remboursement a été effectué pour un achat offert à votre compte. Les objets issus de cet achat ont été retirés de votre inventaire dans le cadre de ce remboursement.\n\nSi l’achat offert concernait un Pass de Saison en cours, au lieu de retirer l’accès à la Saison actuelle, veuillez noter qu’un solde négatif a été appliqué à votre compte. Pour accéder aux futures Saisons, ce solde devra d’abord être réglé afin de pouvoir acheter un nouveau Pass de Saison.\n\nPour plus d’informations sur notre politique de remboursement, veuillez consulter notre page FAQ. Elle est accessible en jeu via le menu principal, en cliquant sur « Assistance ». Le site d’assistance est également disponible à l’adresse suivante : thatgamecompany.helpshift.com, depuis n’importe quel navigateur Internet.\n\nNous vous remercions de votre compréhension et espérons que vous continuerez à profiter de l'univers de Sky avec nous !\n\n~thatgamecompany";
-"INBOX_REFUND_GIFTRECIPIENT1_NEW_SUBJECT" = "Avis de remboursement effectué";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_BODY" = "En raison de la détection et de la vérification récentes d’exploits, de hacks ou de l’installation d’outils tiers sur ce compte, nous émettons cet avertissement de compte.\n\nVeuillez noter que l’utilisation d’exploits, de hacks ou d’outils tiers afin d’obtenir un avantage déloyal sur les autres membres de la Communauté constitue une violation de nos Règles Communautaires.\n\nTout objet ou toute monnaie en jeu acquis grâce à un avantage déloyal a également été retiré de ce compte afin de rétablir l’équilibre et l’équité dans le monde de Sky.\n\nLes éléments suivants ont été supprimés de ce compte :\n[##] [Item or Currency Name]\n\nNous vous invitons à consulter les Règles Communautaires détaillées dans nos Conditions d’Utilisation (ToS) et à vous familiariser avec celles-ci afin d’éviter toute sanction future. Si des programmes tiers pour Sky: Children of the Light ont été installés sur votre/vos appareil(s), nous vous recommandons de les désinstaller avant de revenir dans le jeu.\n\nLes Conditions d’Utilisation peuvent être consultées dans le jeu via le menu engrenage puis en cliquant sur « Support ». Cela vous mènera au site d’assistance de thatgamecompany, où vous pourrez consulter l’intégralité de l’EULA/ToS. Le site d’assistance est également accessible en tapant thatgamecompany.helpshift.com dans n’importe quel navigateur web.\n\nNous vous remercions de votre compréhension et espérons que vous continuerez à profiter du monde de Sky avec nous !\n\n~Sky Player Support Team\"";
-"INBOX_WARNING_EXPLOITHACK_CLAWBACK_SUBJECT" = "Avis d’avertissement de compte et suppression d’objets ou de monnaie (exploits graves, hacks ou outils tiers)\n\"<b>Salutations Aventurier,</b>";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_BODY" = "Un comportement de jeu indiquant une violation des Conditions d’utilisation de thatgamecompany pour Sky: Enfants de la Lumière a été identifié sur ce compte.\n\nLa poursuite d’un comportement de jeu associé au piratage, à la triche ou à la modification des fichiers du jeu pourrait entraîner des mesures prises à l’encontre de ce compte, y compris une suspension temporaire ou un bannissement définitif.\nNous vous prions à nouveau de consulter les Règles de la communauté détaillées dans nos Conditions d’utilisation et de vous familiariser avec les règles pour éviter toute sanction future.\n\nSi des programmes tiers liés à Sky: Enfants de la Lumière ont été installés sur votre (vos) appareil(s), nous vous recommandons de les désinstaller avant de relancer le jeu.\n\nLes Conditions d’Utilisation sont accessibles en jeu via le menu principal, en cliquant sur « Assistance ». Cela vous redirigera vers le site d’assistance de thatgamecompany, où vous pourrez consulter l'intégralité du CLUF (Contrat de Licence Utilisateur Final) / Conditions d’Utilisation. Le site d’assistance est également accessible depuis n’importe quel navigateur Internet en tapant thatgamecompany.helpshift.com.\n\nNous vous remercions de votre compréhension et espérons que vous continuerez à profiter de l'univers de Sky avec nous !\n\n~L’Equipe d’Assistance Sky";
-"INBOX_WARNING_EXPLOITHACK_FINAL_NEW_SUBJECT" = "Dernier avertissement (exploits extrêmes, piratage ou outils tiers)";
-"INBOX_WARNING_EXPLOITHACK_NEW_BODY" = "<b>Salutations Aventurier,</b>\n\nEn raison d’exploits récents, de piratages ou de la détection d’outils tiers installés sur ce compte, nous émettons un avertissement lié à ce compte. Veuillez noter que l’utilisation d’exploits, de hacks ou d’outils tiers pour obtenir un avantage déloyal sur les autres membres de la Communauté constitue une violation de nos Règles de la communauté.\n\nNous vous prions de bien vouloir consulter les Règles de la communauté détaillées dans nos Conditions d’Utilisation et de vous familiariser avec les règles afin d’éviter toute sanction future. Si des programmes tiers liés à Sky: Enfants de la Lumière ont été installés sur votre (vos) appareil(s), nous vous recommandons de les désinstaller avant de relancer le jeu.\n\nLes Conditions d’Utilisation sont accessibles en jeu via le menu principal, en cliquant sur « Assistance ». Cela vous redirigera vers le site d’assistance de thatgamecompany, où vous pourrez consulter l'intégralité du CLUF (Contrat de Licence Utilisateur Final) / Conditions d’Utilisation. Le site d’assistance est également accessible depuis n’importe quel navigateur Internet en tapant thatgamecompany.helpshift.com.\n\nNous vous remercions de votre compréhension et espérons que vous continuerez à profiter de l'univers de Sky avec nous !\n\n~L’Equipe d’Assistance Sky";
-"INBOX_WARNING_EXPLOITHACK_NEW_SUBJECT" = "Avis d'avertissement de compte (exploits extrêmes, piratage ou outils tiers)";
 "accept_addfriend" = "Devenir ami avec ce joueur";
 "accept_bearhug" = "Déverrouiller <2>gros câlin</2> ?";
 "accept_carry" = "Déverrouiller <2>porter</2> ?";
@@ -75,6 +67,7 @@
 "account_link_recover_message_google" = "Abandonner ce compte Sky dissocié et récupérer le compte associé à votre compte Google ?";
 "account_link_recover_message_google_play" = "Abandonner ce compte Sky dissocié et récupérer le compte associé à votre compte Google Play ?";
 "account_link_recover_title" = "Récupérer le compte Sky ?";
+"account_link_superlike_locked" = "Vous devez avoir un compte associé dans le menu <cog/> pour envoyer ce cadeau";
 "account_link_unlinked_button" = "<b>Dissocié</b>";
 "account_login_create_new_title" = "Créer un nouveau compte Sky ?";
 "account_login_create_new_warning" = "Si vous voulez jouer avec votre compte Sky existant, annulez ce processus. Connectez-vous d'abord à votre autre appareil et liez votre compte Sky existant avec cette nouvelle méthode de connexion dans le menu Compte, puis revenez ici.";
@@ -253,8 +246,8 @@
 "achievements_reset_common" = "Réinitialiser les succès";
 "achievements_reset_confirm_body" = "Tous les succès seront <b>perdus</b>.";
 "achievements_reset_confirm_title" = "<b>Confirmer ?</b>";
-"achievements_show_system_ui_common" = "Afficher les succès";
-"achievements_show_system_ui_sony" = "Afficher les trophées";
+"achievements_show_system_ui_common" = "Succès";
+"achievements_show_system_ui_sony" = "Trophées";
 "activity_birthday_2023_daily_quests" = "Terminez toutes les missions quotidiennes.";
 "activity_birthday_2023_friend_interaction" = "Jouez entre amis.";
 "activity_birthday_2023_wax_collection" = "Récupérez de la cire à la fête d’anniversaire.";
@@ -1303,6 +1296,10 @@
 "ap28_fetch01_intro01" = "Cette volée a perdu ses anciens et ne sait pas où migrer, elle a besoin d'aide.";
 "ap28_fetch02_intro01" = "Les oiseaux migrateurs sont surpris par des vents forts !";
 "ap28_fetch04_intro01" = "Des pluies diluviennes ont inondé la Forêt cachée.";
+"ap28_fetch08_hint01" = "Trouvez et sauvez les créatures de lumière effrayées.";
+"ap28_fetch08_intro01" = "Une brume épaisse s'est abattue sur le <1>Désert d'or</1>";
+"ap28_fetch09_hint01" = "Cherchez une trace du <1>Fabricant de Cloches Migrateur</1> dans les parages";
+"ap28_fetch09_hint02" = "Aidez à réconforter la <1>Guide de Migration</1>";
 "ap28_hint_airplanearms" = "Revivez le nouveau souvenir de l'Orateur d'oiseaux migrateur sur les <1>Chemins de vent</1>.";
 "ap28_hint_boat" = "Le bateau est prêt ! Menez la volée sur les chemins des créatures de lumière migratrices.";
 "ap28_hint_dizzy" = "Revivez le nouveau souvenir du Charmeur de papillons migrateur sur les <1>Chemins de vent</1>.";
@@ -1948,12 +1945,15 @@
 "commerce_item_desc_feast_ballgame" = "<2>Objet à nouveau disponible.</2> Une paire de poteaux de but taillés dans la pierre et placés pour les amateurs de Skyball.";
 "commerce_item_desc_feast_furcape" = "<2>Objet à nouveau disponible.</2> Aucun ermite n'a été blessé dans la fabrication de cette cape blanche luxueuse et moelleuse.";
 "commerce_item_desc_feast_puffercape" = "<2>Objet à nouveau disponible.</2> Ajusté pour affronter le plus rude des déserts de glace.";
+"commerce_item_desc_feast_scarfcape" = "Ravissant comme le matin après la première neige.";
 "commerce_item_desc_feast_snowboard" = "Conçu avec soin pour descendre les pentes les plus abruptes.";
 "commerce_item_desc_feast_snowflakepin" = "<2>Objet à nouveau disponible.</2> Célébrez les Jours de fête avec cet accessoire flocon de neige scintillant.";
 "commerce_item_desc_feast_snowglobe" = "<2>Objet à nouveau disponible.</2> Quelle que soit la saison, emportez le souvenir de l'hiver partout où vous allez.";
+"commerce_item_desc_feast_snowkidhat" = "Ne fond jamais, mystérieusement.";
+"commerce_item_desc_feast_warmerset" = "Un ensemble chic, confortable et luxueux comprenant un chapeau tambourin et des jambières.";
 "commerce_item_desc_feast_wintereldercape" = "<2>Objet à nouveau disponible.</2> Célébrez les Jours de fête avec cette confortable cape hivernale d’ancêtre.";
-"commerce_item_desc_feast_wonderland_crabbithole" = "Invoque un passage dans le très décalé café du pays des merveilles, avec à la clé des aventures aux proportions inégalées.";
-"commerce_item_desc_feast_wonderland_pinafore" = "Portez la robe jaune primevère classique d’Alice, avec son nœud bleu parfaitement assorti.";
+"commerce_item_desc_feast_wonderland_crabbithole" = "<2>Objet de retour.</2> Fait apparaître un passage vers le fantaisiste Café du pays des merveilles, où des aventures aux proportions extraordinaires vous attendent.";
+"commerce_item_desc_feast_wonderland_pinafore" = "<2>Objet de retour.</2> Perdez-vous dans la robe jaune pâle classique d'Alice et son ruban bleu parfaitement assorti.";
 "commerce_item_desc_feast_yetiboots" = "<2>Objet à nouveau disponible.</2> Cousues avec maladresse (et amour) par l'ermite lui-même.";
 "commerce_item_desc_fortune_carp" = "<2> Objet à nouveau disponible.</2> Portez cet accessoire poisson pour emporter l'esprit de la Chance partout avec vous !";
 "commerce_item_desc_fortune_carppack" = "<2> Objet à nouveau disponible.</2> Parez-vous de la capuche et de la cape poisson pour plonger au cœur de l'esprit de la Chance !";
@@ -1967,6 +1967,7 @@
 "commerce_item_desc_fortune_snakecapehair" = "Une cape blanche et une coupe d'une élégance serpentine.";
 "commerce_item_desc_fortune_umbrella" = "<2>Objet à nouveau disponible.</2> Une ombrelle violette qui a du punch !";
 "commerce_item_desc_founder_pack" = "<candle/> x {{1}} <2>( {{2}} + {{3}} bonus ! )</2> et <8>une cape bleue TGC limitée<cape/></8>\n pour vous remercier d'être un membre fondateur et de soutenir thatgamecompany !";
+"commerce_item_desc_kizuna_pack_pink" = "<2>Objet de retour.</2> <8>Cape de KizunaAI <cape/></8> + <2>coupe de cheveux de KizunaAI</2> + <2>accessoire pour cheveux de KizunaAI</2>";
 "commerce_item_desc_kizuna_pack_red" = "<8>Cape Kizuna AI<cape/></8> + <2>Coiffure Kizuna AI</2> + <2> Accessoire pour cheveux Kizuna AI</2>";
 "commerce_item_desc_limited" = "Une offre spéciale pour célébrer cette période de l'année :\n<b>{{1}}</b>";
 "commerce_item_desc_limited_previous" = "Offre spéciale d'une saison passée :";
@@ -2074,6 +2075,9 @@
 "commerce_item_desc_tgcwireframe" = "Un petit souvenir du cinquième anniversaire de Sky. Permet de revivre la transformation du village volière à l'occasion de l'événement.";
 "commerce_item_desc_tgcwireframe_evergreen" = "Fête les moments magiques du monde de Sky, grâce à vous. Permet de revisiter la joyeuse transformation du village volière, les galeries Histoire de Sky et Esthétique de Sky, ainsi que la discussion avec les développeurs.";
 "commerce_item_desc_treasure_eyepatchpants" = "Plongez dans une toute nouvelle aventure en personnalisant les teintes de ce cache-œil et de ce pantalon.\nComprend <dye_black/>x {{1}} et <dye_white/>x {{1}} !";
+"commerce_item_desc_twinribbon_pink" = "Cape en soie de KizunaAI et toge à volants de KizunaAI";
+"commerce_item_desc_twinribbon_red" = "Robe à ruban d'AI-GE et cape à ruban d'AI-GE";
+"commerce_item_desc_twinribbon_tele" = "Un compagnon câlin, avec une expressivité <2>imprévisible</2>.";
 "commerce_item_desc_valentines_swing" = "<2>Balançoire des Jours de l'amour</2>";
 "commerce_item_desc_wool_hat" = "<2> Objet à nouveau disponible.</2> Restez au chaud avec ce chapeau en laine tout doux.";
 "commerce_item_desc_xmas_cape" = "<2>Cape des Jours de fête</2>";
@@ -2143,9 +2147,12 @@
 "commerce_item_name_feast_ballgame" = "Ensemble de fête Skyball";
 "commerce_item_name_feast_furcape" = "Cape d'ermite douillette";
 "commerce_item_name_feast_puffercape" = "Cape matelassée d'hiver";
+"commerce_item_name_feast_scarfcape" = "Cape écharpe hivernale";
 "commerce_item_name_feast_snowboard" = "Snowboard du festival hivernal";
 "commerce_item_name_feast_snowflakepin" = "Accessoire pour cheveux flocon de neige";
 "commerce_item_name_feast_snowglobe" = "Boule à neige fête hivernale";
+"commerce_item_name_feast_snowkidhat" = "Accessoire d'enfant des neiges";
+"commerce_item_name_feast_warmerset" = "Tenue hivernale";
 "commerce_item_name_feast_wintereldercape" = "Cape d’ancêtre hivernale";
 "commerce_item_name_feast_wonderland_crabbithole" = "Corridor du café du pays des merveilles";
 "commerce_item_name_feast_wonderland_pinafore" = "Ensemble Tablier primevère du pays des merveilles";
@@ -2163,6 +2170,7 @@
 "commerce_item_name_fortune_umbrella" = "Ombrelle enchantée des Jours de chance";
 "commerce_item_name_founder_pack" = "Pack fondateur";
 "commerce_item_name_friendship_bundle" = "Bundle amitié";
+"commerce_item_name_kizuna_pack_pink" = "Pack KizunaAI";
 "commerce_item_name_kizuna_pack_red" = "Pack Kizuna AI";
 "commerce_item_name_littleprince_coat" = "Veste astéroïde du Petit Prince";
 "commerce_item_name_littleprince_fox" = "Le renard du Petit Prince";
@@ -2269,6 +2277,9 @@
 "commerce_item_name_tgcwireframe" = "Cape constellation du festival de SkyFest";
 "commerce_item_name_tgcwireframe_evergreen" = "Cape constellation TGC";
 "commerce_item_name_treasure_eyepatchpants" = "Prime du chasseur de trésors";
+"commerce_item_name_twinribbon_pink" = "Robe à volants de KizunaAI";
+"commerce_item_name_twinribbon_red" = "Robe à ruban d'AI-GE";
+"commerce_item_name_twinribbon_tele" = "Peluche AI-GE TV";
 "commerce_item_name_valentines_swing" = "Balançoire des Jours de l'amour";
 "commerce_item_name_wool_hat" = "Chapeau de laine des Jours de chance";
 "commerce_item_name_xmas_cape" = "Cape des Jours de fête";
@@ -2825,6 +2836,10 @@
 "daily_quest_emote_with_players_desc" = "<b>Utilisez des expressions avec les joueurs</b>";
 "daily_quest_explore_sunset_hotspring_desc" = "<b>Détendez-vous à la source chaude du Village des rêves </b>";
 "daily_quest_express_an_emote_to_a_friend_desc" = "<b>Utilisez une expression à côté d'un ami</b>";
+"daily_quest_feast_fishing_desc" = "<b>Attrapez quelque chose de bien avec une canne à pêche au Village des Rêves</b>";
+"daily_quest_feast_play_race_desc" = "<b>Trouvez le <2>Yéti du Câlin</2> dans le Village des Rêves et faites la course</b>";
+"daily_quest_feast_play_skyball_desc" = "<b>Jouez à Skyball pendant 60 secondes dans le Village des Rêves</b>";
+"daily_quest_feast_snowball_hit_avatar_desc" = "<b>Jetez une boule de neige sur quelqu'un</b>";
 "daily_quest_fetchlight_earth_desc" = "<b>Récupérez la <learth><learth_img/>lumière verte</learth></b>";
 "daily_quest_fetchlight_fire_desc" = "<b>Récupérez la <lfire><lfire_img/>lumière orange</lfire></b>";
 "daily_quest_fetchlight_mind_desc" = "<b>Récupérez la <lmind><lmind_img/>lumière violette</lmind></b>";
@@ -2854,6 +2869,7 @@
 "daily_quest_help_spirit_started" = "Aidez <1>{{1}}</1>";
 "daily_quest_high_five_someone_desc" = "<b>Topez-là avec un ami</b>";
 "daily_quest_hold_someones_hand_desc" = "<b>Tenez la main d’un ami</b>";
+"daily_quest_honk_at_players_desc" = "<b>Appelez 5 joueurs différents</b>";
 "daily_quest_hug_someone_desc" = "<b>Faites un câlin à un ami</b>";
 "daily_quest_interact_with_invite_shrine_desc" = "<b>Interagissez avec le sanctuaire d’ami</b>";
 "daily_quest_join_a_group_of_3_desc" = "<b>Faites équipe avec 3 joueurs</b>";
@@ -2875,8 +2891,10 @@
 "daily_quest_lightseeker3_night_shelter_desc" = "<b>Récupérez les 3 lumières dans le dépôt du refuge</b>";
 "daily_quest_lightseeker3_rain_basecamp_desc" = "<b>Récupérez les 3 lumières dans la grande cabane dans l'arbre</b>";
 "daily_quest_lightseeker3_rain_rainforest_desc" = "<b>Récupérez les 3 lumières dans le ruisseau de la forêt</b>";
+"daily_quest_lightseeker3_rain_skyway_desc" = "<b>Récupérez les 3 lumières sur les Chemins de vent</b>";
 "daily_quest_lightseeker3_sunset_citadel_desc" = "<b>Récupérez les 3 lumières dans la citadelle de la vallée</b>";
 "daily_quest_lightseeker3_sunset_race_desc" = "<b>Récupérez les 3 lumières durant la course en glissade de la vallée</b>";
+"daily_quest_lightseeker3_sunset_yetipark_desc" = "<b>Récupérez les 3 lumières sur la pente du Yéti</b>";
 "daily_quest_lightseeker_forest_desc" = "<b>Récupérez la lumière dans la Forêt cachée</b>";
 "daily_quest_lightseeker_prairie_desc" = "<b>Récupérez la lumière dans la Prairie illuminée</b>";
 "daily_quest_lightseeker_valley_desc" = "<b>Récupérez la lumière dans la Vallée du triomphe</b>";
@@ -2942,7 +2960,7 @@
 "daily_quest_rescue_a_manta_from_darkstone_desc" = "<b>Sauvez une raie manta de l’obscurité</b>";
 "daily_quest_retrieve_a_lost_emote_desc" = "<b>Récupérez une lumière ailée perdue dans le Désert</b>";
 "daily_quest_reward_10_wax" = "10 lumières en récompense !";
-"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>Chevauchez une raie mantra géante dans les îles du sanctuaire</b>";
+"daily_quest_ride_giant_manta_prairie_island_desc" = "<b>Chevauchez une raie manta géante dans les Îles du sanctuaire</b>";
 "daily_quest_runway_recording_shrine_view_desc" = "<b>Regardez un souvenir partagé sur le podium d’un sanctuaire</b>";
 "daily_quest_runway_recording_shrine_walk_desc" = "<b>Enregistrez un souvenir partagé sur le podium d’un sanctuaire</b>";
 "daily_quest_save_a_spirit_desc" = "</b>Revivez les souvenirs d'un esprit</b>";
@@ -2983,9 +3001,9 @@
 "daily_quest_spirit_chimesmithbuilder3_desc" = "<b>Jouez un morceau ensemble</b>";
 "daily_quest_spirit_cold_desc" = "<b>Revivez ce souvenir d’esprit de la Forêt cachée</b>";
 "daily_quest_spirit_confirm" = "Cet <1>esprit</1> vient de vous confier une quête. La commencer ?";
-"daily_quest_spirit_crabvoice1_desc" = "Aidez le <1>capitaine saluant</1> à éloigner les crabes de l'<1>Orateur crabe</1>";
-"daily_quest_spirit_crabvoice2_desc" = "Aidez à amener le crabe à l'<1>Orateur crabe</1>";
-"daily_quest_spirit_crabvoice3_desc" = "Aidez l'<1>Orateur crabe</1> à atteindre la zone au-dessus des tuyaux";
+"daily_quest_spirit_crabvoice1_desc" = "<b>Aidez le <1>Capitaine Saluant</1> à éloigner les crabes de l'<1>Orateur des Crabes</1></b>";
+"daily_quest_spirit_crabvoice2_desc" = "<b>Marchez en crabe avec les <1>Esprits</1></b>";
+"daily_quest_spirit_crabvoice3_desc" = "<b>Atteignez au-dessus des tuyaux avec le <1>crabe</1></b>";
 "daily_quest_spirit_cry_desc" = "<b>Revivez ce souvenir d’esprit de la Forêt cachée</b>";
 "daily_quest_spirit_discoverark1_desc" = "Photographiez le pont du navire";
 "daily_quest_spirit_discoverark1_hint" = "Photographiez le pont du navire.";
@@ -3096,6 +3114,7 @@
 "daily_quest_spirit_yoga2_desc" = "Étirez-vous avec le <1>moine ascétique</1>";
 "daily_quest_spirit_yoga3_desc" = "Étirez-vous avec le <1>moine ascétique</1>";
 "daily_quest_sunlight_photo_daily_desc" = "Aidez l'<1>Acolyte en prière</1> à classer l'été dans les Archives.";
+"daily_quest_tidy_rain_grandmatable_desc" = "<b>Rangez la table de l'Appartenance de l'<1>ancêtre</1></b> dans la clairière élevée de la Forêt cachée";
 "daily_quest_touch_butterflies_butterflyfields_desc" = "<b>Volez avec les coléoptères dans le champ de papillons</b>";
 "daily_quest_ui_complete" = "Bien joué ! Voici votre <heart/> Revenez demain pour d’autres récompenses !";
 "daily_quest_ui_intro" = "Terminez les défis du jour pour gagner un <heart/>";
@@ -3484,6 +3503,7 @@
 "error_shop_verifyreceipt_already" = "Vous possédez déjà cet objet.";
 "error_shop_verifyreceipt_internal" = "Un problème interne est survenu lors de la génération du reçu d’achat";
 "error_shop_verifyreceipt_not_allowed" = "Cet objet ne peut pas être acheté pour le moment.";
+"error_snowball_notonsnow" = "Vous ne <b>pouvez pas</b> faire une <2>boule de neige</2> ici. \nTrouvez de la <b>neige</b> dans les parages.";
 "error_support_message_generic" = "Nous sommes désolés, une erreur inattendue empêche la communication avec les serveurs d'assistance. Réessayez plus tard.";
 "error_support_title" = "Erreur d'assistance";
 "error_video_record_general" = "L'enregistrement vidéo n'est pas supporté par cet appareil";
@@ -3508,8 +3528,10 @@
 "eventboard_name_skyfest" = "Anniversaire de Sky";
 "eventboard_name_sunlight" = "Jours Ensoleillés";
 "eventboard_name_treasure" = "Jours de trésor";
+"eventboard_name_twinribbon" = "Expérience Pyoko-Pyoko 360";
 "eventboard_name_ugc" = "Atelier quoi de neuf";
 "eventboard_nextevent" = "{{1}} commence dans {{2}} {{3}}.";
+"eventname_board_feast" = "Jours de Fête";
 "exit_point_00" = "<1>Quitter</1> ce secteur à partir d’ici";
 "experimental_features_title" = "Fonctionnalités Expérimentales";
 "external_account_rewards_button_twitch" = "Chercher des drops Twitch";
@@ -3524,6 +3546,14 @@
 "extra_event_reward_hint" = "Cet <1>esprit</1> apprécie grandement votre visite.";
 "facebook_add_friend_permission" = "Sky a besoin d'une autorisation pour accéder aux données de vos amis afin d'ajouter des amis via Facebook";
 "facebook_add_friend_sign_in" = "Connectez-vous et liez votre compte Facebook pour ajouter des amis via Facebook\n Le compte connecté et le compte lié doivent correspondre";
+"feast25_ec_bonus" = "{{1}}/15 <2>tickets d'événement bonus</2> trouvés";
+"feast25_intro_tutorial_01" = "Jetez des boules de neige sur des cibles avec d'autres joueurs pour gagner de la lumière et de la <2>lumière de ticket d'événement</2>";
+"feast25_intro_tutorial_02" = "Faites une bataille de boules de neige avec d'autres joueurs !";
+"feast25_intro_tutorial_03" = "Effectuez des activités dans la zone pour gagner chaque jour de la <2>lumière de ticket d'événement</2>";
+"feast25_intro_tutorial_04" = "Faites un bonhomme de neige au sanctuaire de l'espace partagé avant la fin de l'événement";
+"feast25_intro_tutorial_05" = "15 <2>tickets d'événement bonus</2> sont cachés dans la zone";
+"feast25_intro_tutorial_06" = "Vous pouvez les obtenir à tout moment durant l’événement";
+"feast25_snowball_practice" = "Pratiquer le lancer de boules de neige ?";
 "feast_banter_hare_01" = "Vous aviez une histoire à nous raconter ?";
 "feast_banter_hare_02" = "Je ne pensais pas manquer le goûter ?";
 "feast_banter_hare_03" = "Un festin monstrueux !";
@@ -3770,6 +3800,7 @@
 "game_button_hide_quest_list" = "Masquer les quêtes";
 "game_button_jump_fly" = "Sauter/voler";
 "game_button_left" = "Gauche";
+"game_button_map_anywhere" = "Carte";
 "game_button_menu_toggle" = "Utiliser l'objet équipé";
 "game_button_move" = "Se déplacer";
 "game_button_none" = "Aucun";
@@ -3970,7 +4001,7 @@
 "howtoplay_closet_2_adventure_title" = "<b>L'aventure vous attend</b>";
 "howtoplay_closet_2_hearts" = "Offrez des<heart/> <b>cœurs</b> aux <1>esprits</1>, et ils vous apprendront de <b>nouveaux looks</b> avec leurs <b>tenues uniques</b>.";
 "howtoplay_closet_2_hearts_title" = "<b>Donnez-leur des cœurs</b>";
-"howtoplay_closet_3_seasons" = "Tous les deux mois, une nouvelle saison de Sky apportera de nouveaux esprits et des tenues limitées.";
+"howtoplay_closet_3_seasons" = "Les <b>Evénements</b> et <b>Saisons</b> à durée limitée permettent de découvrir de <b>nouveaux objets</b>.";
 "howtoplay_closet_3_seasons_title" = "<b>Revenez régulièrement</b>";
 "howtoplay_closet_4_instruments" = "Certains <1>esprits</1> partageront des<b>instruments</b> ou vous apprendront des <b>chansons</b> que vous pourrez partager avec vos amis";
 "howtoplay_closet_4_instruments_title" = "<b>Jouez une chanson</b>";
@@ -5357,6 +5388,10 @@
 "notification_social_feed_comment_multiple" = "Vous avez reçu %@ commentaires sur votre création, \"%@\" !";
 "notification_social_feed_follow" = "Quelqu'un veut voir plus de vos créations partagées à l’avenir !";
 "notification_social_feed_follow_multiple" = "%@ personnes veulent voir plus de vos créations partagées à l’avenir !";
+"notification_special_event2_message" = "Vérifie le calendrier en jeu pour connaître l'heure locale. 🗓️ Ne t'inquiète pas ! Si tu le manques la première fois, il sera rediffusé toutes les 2 heures. ⏰";
+"notification_special_event2_title" = "Il y a un événement spécial aujourd'hui ! 🎀";
+"notification_special_event4_message" = "Vérifie le calendrier en jeu pour connaître l'heure locale. 🗓️ Ne t'inquiète pas ! Si tu le manques la première fois, il sera rediffusé toutes les 4 heures. ⏰";
+"notification_special_event4_title" = "Il y a un événement spécial aujourd'hui ! 🎀";
 "notification_style_end_message" = "Trouvez la guide du Style et participez à son défilé de mode avant la fin de l’événement ! 🌟";
 "notification_style_end_title" = "🎩 Les jours du style se terminent bientôt";
 "notification_style_start_message" = "Exprimez-vous avec vos ensembles préférés et découvrez de nouveaux objets ! 🎩";
@@ -5420,6 +5455,12 @@
 "notification_treasure_end_title" = "🗺️ La chasse au trésor touche à son terme !";
 "notification_treasure_message" = "La chasse au trésor est ouverte ! Aidez vos esprits préférés, qui cherchent leur trésor dans les royaumes. 🏃‍♀️ ";
 "notification_treasure_title" = "Jours de trésor 💎";
+"notification_twinribbon2_message" = "Vérifie le calendrier en jeu pour connaître l'heure locale. 🗓️ Ne t'inquiète pas ! Si tu le manques la première fois, il sera rediffusé toutes les 2 heures. ⏰";
+"notification_twinribbon2_title" = "Il y a un concert spécial de Kizuna AI aujourd'hui ! 🎀";
+"notification_twinribbon4_message" = "Vérifie le calendrier en jeu pour connaître l'heure locale. 🗓️ Ne t'inquiète pas ! Si tu le manques la première fois, il sera rediffusé toutes les 4 heures. ⏰";
+"notification_twinribbon4_pyoko_message" = "Vérifie le calendrier en jeu pour connaître l'heure locale. 🗓️ Ne t'inquiète pas ! Si tu le manques la première fois, il sera rediffusé toutes les 4 heures. ⏰";
+"notification_twinribbon4_pyoko_title" = "Une expérience spéciale Pyoko-Pyoko 360 a lieu aujourd’hui ! 🎀";
+"notification_twinribbon4_title" = "Il y a un concert spécial de Kizuna AI aujourd'hui ! 🎀";
 "notification_unnamed_accepted_invite" = "Un ami a accepté votre invitation !";
 "notification_unnamed_friend_gift_message" = "Un ami vous a envoyé un ♥ ! Récupérez-le à la Maison";
 "notification_unnamed_friend_online" = "Un ami est en ligne !";
@@ -5451,6 +5492,7 @@
 "outfit_hint_elder_specific" = "Vous <b>n'avez pas</b> obtenu cet élément lors de notre <1>{{1}}</1>.\nAidez les esprits dans <1>{{2}}</1> pour l'obtenir.";
 "outfit_hint_event" = "Vous <b>n'avez pas</b> obtenu cet élément dans un <b>événement en cours</b>.\nParticipez aux <b>événements en cours</b> pour le recevoir.";
 "outfit_hint_event_specific" = "Vous <b>n'avez pas</b> obtenu cet élément dans un <b>événement en cours</b>.\nAllez ici pour le recevoir : <1>{{1}}</1>.";
+"outfit_hint_genericshop" = "Cet objet n'est disponible que dans les <2>boutiques spéciales</2>";
 "outfit_hint_iap" = "Disponible dans le menu de la Boutique ou l'emplacement de la Boutique dans l'un des royaumes pour une durée limitée.";
 "outfit_hint_limited" = "Disponibilité limitée";
 "outfit_hint_night" = "Disponible dans la constellation Chambre forte";
@@ -5600,7 +5642,7 @@
 "race_in_progress_come_back" = "Course en cours. Attendez la manche suivante.";
 "radiance_cap_reached" = "Ce type de <b>Lumière colorée</b> a été collecté pour la journée.";
 "radiance_despawn_warning" = "Travaillez rapidement - cette obscurité va bientôt se dissiper.";
-"radiance_event_green_black_info_body" = "La <b>Lumière Verte</b><dye_green/> et la <b>Lumière Noire</b><dye_black/> apparaissent plus fréquemment dans les Plantes Sombres Radiantes.\n\nDes objets supplémentaires sont disponibles à l'<1>Atelier de Teinture</1>.";
+"radiance_event_green_black_info_body" = "<dye_white/> et <dye_blue/> et <dye_red/> apparaissent plus fréquemment dans les Plantes Sombres Radiantes.  Des objets supplémentaires sont disponibles à l'<1>Atelier de Teinture</1>.";
 "radiance_event_green_black_info_header" = "Un <b>Evénement de Splendeur</b> est en cours !";
 "radiance_shout" = "Les plantes grimpantes hors d'atteinte sont aussi sensibles aux appels puissants.";
 "radiance_vine_gameplay" = "La vigne est sensible aux <2>flammes</2>.";
@@ -5750,6 +5792,7 @@
 "samk_ann_text5" = "Salut. Vous êtes-vous jamais demandé ce que sont les étoiles en réalité ?";
 "samk_ann_text6" = "Elles proviennent d’un émetteur de particules apparenté au joueur. Voilà pourquoi, lorsque le joueur se déplace, les étoiles le font aussi !";
 "samk_ann_text7" = "Hé, c’est moi, Charley. Vous savez que rien de tout ceci n’est réel, n’est-ce pas ? Tout ceci ne s’aligne pas avec la construction du monde de Sky, et j’ignore où Sam a déniché cet esprit flottant.";
+"scoreboard_total" = "Total :";
 "season_candle_purchase_confirmation" = " Les bougies de saison non utilisées seront converties en bougies normales à la fin de la saison.";
 "season_daysbefore" = "La nouvelle saison commence dans <b>{{1}}</b> jours";
 "season_daysleft" = "<b>{{1}}</b> jours restants avant la fin de la saison";
@@ -7692,6 +7735,11 @@
 "tutorial_shout_03_temple_ps" = "<hinticon/> <1>appuyez sur <button type=\"shout\"/></1> si vous vous perdez. Une lumière vous guidera jusqu’au prochain <1>Temple des Anciens</1> <beacon/>.";
 "tutorial_shout_to_reveal_friends" = "<hinticon/> <1>Touchez </1> votre <2>personnage</2> pour révéler vos amis";
 "tutorial_shout_to_reveal_friends_ps" = "<hinticon/> <1>Appuyez sur <button type=\"shout\"/></1> pour pour révéler vos amis";
+"tutorial_snowball_charge_throw" = "<hinticon/><1>Appuyez et maintenez</1> le <throw/> pour charger votre <b>lancer</b>";
+"tutorial_snowball_charge_throw_ps" = "<hinticon/> <1>Maintenez</1> <button type=\"menu_toggle\"/> pour charger votre <b>lancer</b>";
+"tutorial_snowball_release_throw" = "<hinticon/> <1>Relâchez</1> pour lancer";
+"tutorial_snowball_reload" = "<hinticon/> <1>Touchez</1> la <hand/> pour faire une boule de neige";
+"tutorial_snowball_reload_ps" = "<hinticon/> <1>Appuyez sur</1> <button type=\"menu_toggle\"/> pour faire une boule de neige";
 "tutorial_spirit_00" = "<hinticon/> <1>Éclairez</1> complètement les statues des <b>deux</b> côtés";
 "tutorial_spirit_01" = "<hinticon/> <1>Touchez</1> <b>les deux</b> portes avec votre <1>bougie</1> pour ouvrir";
 "tutorial_spirit_02" = "<hinticon/> <1>Éclairez</1> les bougies pour réveiller un esprit du passé";
@@ -7731,6 +7779,17 @@
 "tutorial_wingbuff_level_up_00" = "<hinticon/> <1>Touchez</1> le <warning>point rouge</warning> pour <2>améliorer</2> votre cape <cape/>";
 "tutorial_wingbuff_level_up_00_ps" = "<hinticon/> <1>Appuyez sur <button type=\"emote_menu\"/></1> pour <2>améliorer</2> votre aile <cape/>";
 "tutorial_wingbuff_progress" = "<hinticon/> Trouvez <b>{{1}}</b> <2><wingbuff/></2> supplémentaires pour atteindre le prochain niveau de <cape/>";
+"twinribbon_ec_bonus" = "Trouvez 15 <2>Tickets d'Evénement Bonus</2> dans la zone";
+"twinribbon_encore" = "Encore!";
+"twinribbon_ground" = "Retourner au sol ?";
+"twinribbon_help" = "Aidez AI-GE à réveiller KizunaAI pour gagner de la <2>Lumière de Ticket d'Evénement</2>";
+"twinribbon_prompt_encore" = "Réclamez un rappel spécial !";
+"twinribbon_ready" = "L'un est prêt…";
+"twinribbon_return" = "KizunaAI est de retour à Sky pour monter sur scène avec AI-GE !";
+"twinribbon_sky" = "Remonter ?";
+"twinribbon_soon" = "Je vais bientôt me lever…";
+"twinribbon_tired" = "L'autre est toujours fatigué par son amélioration.";
+"twinribbon_try" = "<hinticon/> Tentez un appel profond pour réveiller KizunaAI";
 "ui_adjust_insets" = "<b>Utilisez le joystick droit pour ajuster la zone d'affichage en fonction de votre écran.</b>";
 "ui_adjust_insets_keyboard" = "<b>Utilisez les touchés fléchées pour ajuster la zone de l’écran de feu.</b>";
 "ui_botton_done" = "<b>Terminer</b>";
@@ -7763,7 +7822,7 @@
 "ui_nav_web_remote_unlink" = "<b>Délier</b>";
 "ui_nav_yes" = "<b>Oui</b>";
 "unlock_while_diving_disabled" = "Impossible de déverrouiller dans l'eau.";
-"video_settings_menu_hint" = "Accédez aux paramètres <b>Audio</b> depuis le menu contextuel pour régler les <b>sous-titres</b> et le <b>volume</b> du cinéma.";
+"video_settings_menu_hint" = "Rendez-vous dans les réglages <b>audio</b> du <cog/> menu pour modifier les préférences des <b>sous-titres</b> et du <b>volume</b> du cinéma.";
 "video_settings_menu_title" = "Cinéma du jeu";
 "video_settings_subtitle_button" = "Sous-titres";
 "video_settings_title" = "Paramètres vidéo";
