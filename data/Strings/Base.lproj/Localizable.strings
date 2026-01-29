@@ -1,4 +1,4 @@
-﻿/* This file is auto-generated, please don't manually edit, use LocalizationTool! */
+/* This file is auto-generated, please don't manually edit, use LocalizationTool! */
 "accept_addfriend" = "Become friends with this player?";
 "accept_bearhug" = "Unlock <2>bear hug</2>?";
 "accept_carry" = "Unlock <2>carry</2>?";
@@ -6888,7 +6888,7 @@
 "personality_test_question_10" = "<b>10：</b>When learning something new, you prefer…";
 "personality_test_question_10_A" = "A： Figuring out the underlying patterns";
 "personality_test_question_10_B" = "B： Step-by-step instructions";
-"personality_test_question_11" = "<b>11：</b>Do you trust….";
+"personality_test_question_11" = "<b>11：</b>Do you trust...";
 "personality_test_question_11_A" = "A： Objective standards";
 "personality_test_question_11_B" = "B： Personal values";
 "personality_test_question_12" = "<b>12：</b>Are you more comfortable when…";
@@ -8798,14 +8798,14 @@
 "system_maintenancemode_00" = "<b>System Maintenance</b>";
 "system_maintenancemode_01" = "{{1}}\n";
 "system_maintenancemode_02" = "We look forward to playing again with you soon!";
-"system_maintenancemode_message_ap_hours" = "We are preparing for the next Season Pass season.\n Our server will be back online in {1} hours.";
-"system_maintenancemode_message_ap_minutes" = "We are preparing for the next Season Pass season.\n Our server will be back online in {1} minutes.";
+"system_maintenancemode_message_ap_hours" = "We are preparing for the next Season Pass season.\n Our server will be back online in {{1}} hours.";
+"system_maintenancemode_message_ap_minutes" = "We are preparing for the next Season Pass season.\n Our server will be back online in {{1}} minutes.";
 "system_maintenancemode_message_emergency" = "Due to unexpected technical difficulties, our server is currently offline.\n We apologize for any inconvenience this may have caused.";
-"system_maintenancemode_message_hours" = "Our server will be back online in {1} hours.";
-"system_maintenancemode_message_minutes" = "Our server will be back online in {1} minutes.";
+"system_maintenancemode_message_hours" = "Our server will be back online in {{1}} hours.";
+"system_maintenancemode_message_minutes" = "Our server will be back online in {{1}} minutes.";
 "system_maintenancemode_message_timeunknown" = "Our server will be back online shortly.";
-"system_maintenancemode_message_update_hours" = "We are preparing for the next update.\n Our server will be back online in {1} hours.";
-"system_maintenancemode_message_update_minutes" = "We are preparing for the next update.\n Our server will be back online in {1} minutes.";
+"system_maintenancemode_message_update_hours" = "We are preparing for the next update.\n Our server will be back online in {{1}} hours.";
+"system_maintenancemode_message_update_minutes" = "We are preparing for the next update.\n Our server will be back online in {{1}} minutes.";
 "system_mute_warning" = "If you don't hear sound, please check <2>mute mode</2> or wear 🎧";
 "system_nfc_incompatible_tag_failure" = "Tag chip is incompatible with Sky STAR";
 "system_nfc_password_authentication_failure" = "Tag failed to unlock with provided password";
