@@ -2,13 +2,9 @@
 
 SkyDB's goal is to keep track of changes in the game and find new things in it. Upcoming features, easter-eggs and interesting details. This repository is not affiliated with [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/ThatGameCompany_Logo.png/220px-ThatGameCompany_Logo.png" width="16px"> thatgamecompany](https://thatgamecompany.com/). This is a fan project.
 
-## 🔎 Findings
+## ℹ Where to start exploring?
 
-We put findings in the [findings](./findings) folder. Each update has its own file. If you want to contribute, please read the [contributing](#❤-contributing) section.
-
-### ℹ Where to start exploring?
-
-I recommend starting with checking previous findings in the [findings](./findings) folder. If you want to explore the game files, start with the [localization files](./data/Strings/Base.lproj/Localizable.strings). They are easily readable and contain a lot of interesting strings.
+If you want to explore the game files, start with the [localization files](./data/Strings/Base.lproj/Localizable.strings). They are easily readable and contain a lot of interesting strings.
 
 If you are familiar with GitHub or this repository, you can help us finding new things by checking [commits](https://github.com/CsakiTheOne/SkyDB/commits/main/) and selecting a commit that contains a game update. These commits are named like this:
 
@@ -25,12 +21,6 @@ When the game receives an update on Steam, I update this repo with the new game 
 This repository doesn't contain all game files. There are some unreadable, large and rarely changing files which I decided to ignore. See [.gitignore](./.gitignore) for more details. I may change this in the future.
 
 ## ❤ Contributing
-
-### ✨ Share your findings
-
-If you find something interesting in the game, please share it with us! You can do this by [creating an issue](https://github.com/CsakiTheOne/SkyDB/issues/new/choose) with the `finding` label or if you are familiar with GitHub, [create a pull request](https://github.com/CsakiTheOne/SkyDB/pulls) with your changes.
-
-In case of a pull request, please make sure that you are not changing any other files outside of the `findings` folder.
 
 ### 🛠 Sky Beta
 
