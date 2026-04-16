@@ -5491,6 +5491,8 @@
 "nature_vortex_hint_1" = "Siga a criatura de luz até o Vórtice.";
 "nature_vortex_how" = "Mas como tanto lixo foi parar no oceano?";
 "nature_wildlife_confirmation_text1" = "Teletransportar-se para os Picos da Campina";
+"nbox_radianceevent_33_0_body" = "Saudações, Aventureiros!\n\nO Evento Radiante retornou até 7 de maio! As cores preta e amarela aparecerão com maior frequência nas Plantas Sombrias, que concedem Luz Colorida em todos os reinos. Você poderá coletar essas cores mais rapidamente, bem a tempo para os próximos Dias do Tesouro!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Saudações, Aventureiros!\n\nA Temporada do Carnaval chegou ao Sky!\n\nUm novo carnaval viajante foi visto sobre a Vila Aviary! Ajude espíritos conhecidos a preparar a grande abertura. Ao longo da temporada, desbloqueie novos itens de desafio gratuitos.\n\nPronto para um desafio? Um novo sistema foi adicionado aos Espaços Compartilhados, permitindo criar desafios próprios. Crie algo para surpreender amigos ou enfrente desafios de outros jogadores. Quanto maior o desafio, maior a recompensa…\n\nAproveite sua jornada acima das nuvens!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Uma nova missão da <1>Temporada do Resplendor</1> está disponível!";
 "new_seasonal_quest_available_ap26" = "Uma nova missão da <1>Temporada do Pássaro Azul</1> está disponível!";
 "new_seasonal_quest_available_ap27" = "Uma nova missão da <1>Temporada das Duas Fagulhas – Parte 1</1> já está disponível!";

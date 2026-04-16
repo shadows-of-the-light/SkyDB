@@ -5489,6 +5489,8 @@
 "nature_vortex_hint_1" = "Sigue a la criatura de luz hasta el vórtice.";
 "nature_vortex_how" = "¿Cómo fue que tantos desechos terminaron en el agua?";
 "nature_wildlife_confirmation_text1" = "Teletransportarse a las cumbres de la planicie";
+"nbox_radianceevent_33_0_body" = "¡Saludos, Aventureros!\n\n¡El Evento de Resplandor ha regresado hasta el 7 de mayo! Los colores negro y amarillo aparecerán con mayor frecuencia en las Plantas Oscuras que otorgan Luz de Color en todos los reinos. Podrás recolectar estos tintes más rápido de lo habitual, justo a tiempo para los próximos Días del Tesoro.\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "¡Saludos, Aventureros!\n\n¡La Temporada del Carnaval ha llegado a Sky!\n\n¡Un nuevo carnaval viajero ha sido visto sobre Aviary Village! Ayuda a espíritus conocidos a prepararlo para su gran apertura. A medida que los ayudes durante la temporada, desbloquearás nuevos objetos de desafío gratuitos.\n\n¿Estás listo para un reto? Se ha añadido un nuevo sistema de desafíos a los Espacios Compartidos, permitiendo a los Niños de la Luz crear sus propios desafíos. Intenta crear uno para sorprender a tus amigos o ponerte a prueba con los de otros jugadores. Cuanto mayor sea el desafío, mayor será la recompensa…\n\n¡Disfruta tu viaje sobre las nubes!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "¡Hay una nueva misión disponible de la <1>Temporada de resplandor</1>!";
 "new_seasonal_quest_available_ap26" = "¡Hay una nueva misión disponible de la <1>Temporada del Pájaro Azul</1>!";
 "new_seasonal_quest_available_ap27" = "¡Hay una nueva misión disponible de la <1>Temporada de Las Dos Brasas: Parte 1</1>!";

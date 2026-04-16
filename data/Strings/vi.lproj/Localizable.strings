@@ -5761,6 +5761,8 @@
 "nature_vortex_hint_1" = "Đi theo sinh vật ánh sáng đến Dòng Xoáy.";
 "nature_vortex_how" = "Sao lại có nhiều rác thải đổ ra biển thế?";
 "nature_wildlife_confirmation_text1" = "Dịch chuyển đến Đỉnh Thảo Nguyên";
+"nbox_radianceevent_33_0_body" = "Chào Nhà Thám Hiểm!\n\nSự kiện Rạng Rỡ đã trở lại cho đến 13:59 ngày 8 tháng 5 với tỉ lệ xuất hiện màu đen và vàng cao hơn từ các Cây Bóng Tối, nơi cung cấp Ánh Sáng Màu trên tất cả các vương quốc. Bạn sẽ có thể thu thập các màu nhuộm này nhanh hơn bình thường, vừa kịp lúc cho sự kiện Ngày Kho Báu sắp tới!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Chào Nhà Thám Hiểm!\n\nMùa Carnival đã cập bến Sky!\n\nMột đoàn hội chợ du mục đã xuất hiện tại Làng Chuồng Chim! Hãy hỗ trợ những Tinh Linh quen thuộc khi họ chuẩn bị cho lễ khai mạc hội chợ. Giúp đỡ các Tinh Linh trong suốt mùa giải sẽ mở khóa các đạo cụ thử thách mới hoàn toàn miễn phí.\n\nBạn đã sẵn sàng cho một thử thách chưa? Một hệ thống thử thách mới đã được thêm vào Không gian Chung, cho phép các Sky Kid đưa thử thách của riêng mình vào thế giới. Hãy thử tài tạo ra một Thử thách Không gian Chung mới để làm bạn bè kinh ngạc và khiến hàng xóm phải bối rối, hoặc tự kiểm tra năng lực của bản thân khi thực hiện các thử thách mới từ những người chơi khác! Thử thách càng khó, phần thưởng càng giá trị…\n\nChúc bạn tận hưởng hành trình trên những tầng mây!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Một nhiệm vụ mới từ <1>Mùa Rạng Rỡ</1> hiện đã được mở!";
 "new_seasonal_quest_available_ap26" = "Một nhiệm vụ mới từ <1>Mùa Chim Xanh</1> đã có sẵn!";
 "new_seasonal_quest_available_ap27" = "Một nhiệm vụ mới từ <1>Mùa của Hai Ngọn Lửa - Phần 1</1> đã có sẵn!";

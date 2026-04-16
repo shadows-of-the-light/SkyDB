@@ -6580,6 +6580,8 @@
 "nature_vortex_hint_1" = "Follow the light creature to the Vortex.";
 "nature_vortex_how" = "But how did so much waste end up in the ocean?";
 "nature_wildlife_confirmation_text1" = "Teleport to Prairie Peaks";
+"nbox_radianceevent_33_0_body" = "Greetings, Adventurers!\n\nThe Radiance Event has returned through May 7th with black and yellow colors having higher appearance rates from Dark Plants that provide Colored Light across all realms. You'll be able to gather these dye colors more quickly than usual just in time for the upcoming Days of Treasure!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Greetings, Adventurers!\n\nThe Season of Carnival has arrived in Sky! \n\nA new traveling carnival has been seen overhead in Aviary Village! Assist some familiar spirits as they prepare the carnival for its grand opening. Helping the spirits over the course of the season will unlock new, free challenge props.\n\nAre you ready for a challenge? There is a new challenge system added to Shared Spaces to allow Sky Kids to add their own challenges to the world. Try your hand at making a new Shared Space Challenge to astound your friends and stump your neighbors, or test yourself as you take on new challenges from other players! The harder the challenge, the more valuable the reward… \n\nEnjoy your journey above the clouds!\n\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "A new quest from <1>Season of Radiance</1> is now available!";
 "new_seasonal_quest_available_ap26" = "A new quest from <1>Season of the Blue Bird</1> is now available!";
 "new_seasonal_quest_available_ap27" = "A new quest from <1>Season of The Two Embers - Part 1</1> is now available!";

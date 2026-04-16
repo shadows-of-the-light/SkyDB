@@ -5488,6 +5488,8 @@
 "nature_vortex_hint_1" = "Folge dem Lichtwesen zum Vortex.";
 "nature_vortex_how" = "Aber wie konnte so viel Abfall im Ozean landen?";
 "nature_wildlife_confirmation_text1" = "Teleportiere dich zum Präriegipfel";
+"nbox_radianceevent_33_0_body" = "Grüße, Abenteurer!\n\nDas Strahlen-Event ist bis zum 7. Mai zurückgekehrt! Schwarze und gelbe Farben erscheinen nun häufiger aus Dunklen Pflanzen, die in allen Reichen Farblicht gewähren. So könnt ihr diese Farbstoffe schneller als gewöhnlich sammeln – genau rechtzeitig für die kommenden Tage des Schatzes!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Grüße, Abenteurer!\n\nDie Saison des Karnevals ist in Sky angekommen!\n\nEin neuer reisender Karneval wurde über dem Vogeldorf gesichtet! Helft bekannten Geistern bei den Vorbereitungen für die große Eröffnung. Wenn ihr ihnen im Laufe der Saison helft, schaltet ihr neue, kostenlose Herausforderungs-Requisiten frei.\n\nSeid ihr bereit für eine Herausforderung? Ein neues Herausforderungssystem wurde den Geteilten Räumen hinzugefügt, mit dem Himmelskinder eigene Prüfungen erschaffen können. Erstellt eure eigene Herausforderung, um eure Freund:innen zu überraschen, oder stellt euch den Aufgaben anderer! Je schwieriger die Herausforderung, desto wertvoller die Belohnung…\n\nGenießt eure Reise über den Wolken!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Eine neue Quest aus der <1>Saison des Leuchtens</1> ist jetzt verfügbar!";
 "new_seasonal_quest_available_ap26" = "Eine neue Quest aus der <1>Saison des blauen Vogels</1> ist jetzt verfügbar!";
 "new_seasonal_quest_available_ap27" = "Eine neue Quest aus <1>Saison der zwei Glutnester – Teil 1</1> ist jetzt verfügbar!";

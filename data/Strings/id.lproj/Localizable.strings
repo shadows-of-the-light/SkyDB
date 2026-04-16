@@ -5493,6 +5493,8 @@
 "nature_vortex_hint_1" = "Ikuti makhluk cahaya ke Pusaran tersebut.";
 "nature_vortex_how" = "Tapi bagaimana bisa begitu banyak limbah berakhir di laut?";
 "nature_wildlife_confirmation_text1" = "Teleportasi ke Puncak Padang Rumput";
+"nbox_radianceevent_33_0_body" = "Salam, Para Petualang!\n\nEvent Cahaya kembali hadir hingga 7 Mei! Warna hitam dan kuning kini lebih sering muncul dari Tanaman Gelap yang memberikan Cahaya Berwarna di seluruh dunia. Kamu bisa mengumpulkan warna-warna ini lebih cepat dari biasanya, tepat waktu untuk Days of Treasure yang akan datang!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Salam, Para Petualang!\n\nMusim Karnaval telah tiba di Sky!\n\nSebuah karnaval keliling terlihat melayang di atas Aviary Village! Bantu roh-roh yang familiar mempersiapkan pembukaan besarnya. Sepanjang musim, kamu dapat membuka properti tantangan gratis baru.\n\nSiap menghadapi tantangan? Sistem tantangan baru hadir di Shared Spaces, memungkinkan Anak Cahaya membuat tantangan sendiri. Ciptakan sesuatu untuk mengejutkan teman atau coba tantangan dari pemain lain. Semakin sulit, semakin berharga hadiahnya…\n\nNikmati perjalananmu di atas awan!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Misi baru dari <1>Musim Pancaran Cahaya</1> telah tersedia!";
 "new_seasonal_quest_available_ap26" = "Misi baru dari <1>Musim Burung Biru</1> telah tersedia!";
 "new_seasonal_quest_available_ap27" = "Misi baru dari <1>Musim Dua Bara Api - Bagian 1</1> kini telah tersedia!";

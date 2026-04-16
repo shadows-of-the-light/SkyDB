@@ -5493,6 +5493,8 @@
 "nature_vortex_hint_1" = "Suivez la créature de lumière jusqu'au Vortex.";
 "nature_vortex_how" = "Mais comment autant de déchets ont-ils pu se retrouver dans l'océan ?";
 "nature_wildlife_confirmation_text1" = "Se téléporter aux pics de la Prairie";
+"nbox_radianceevent_33_0_body" = "Salutations, Aventuriers !\n\nL’événement de Radiance est de retour jusqu’au 7 mai ! Les couleurs noire et jaune apparaissent plus souvent à partir des Plantes Obscures, qui offrent de la Lumière colorée dans tous les royaumes. Vous pourrez ainsi récolter ces teintures plus rapidement que d’habitude, juste à temps pour les prochains Jours du Trésor.\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Salutations, Aventuriers !\n\nLa Saison du Carnaval est arrivée dans Sky !\n\nUn nouveau carnaval itinérant a été aperçu au-dessus du Village de l’Aviary ! Aidez des esprits familiers à préparer sa grande ouverture. En les aidant tout au long de la saison, vous débloquerez de nouveaux accessoires de défi gratuits.\n\nPrêts à relever un défi ? Un nouveau système de défis a été ajouté aux Espaces partagés, permettant aux Enfants de la Lumière de créer leurs propres épreuves. Créez un défi pour émerveiller vos amis ou relevez ceux des autres joueurs. Plus le défi est difficile, plus la récompense est précieuse…\n\nProfitez de votre voyage au-dessus des nuages !\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Une nouvelle quête de la <1>saison de l'Éclat</1> est disponible !";
 "new_seasonal_quest_available_ap26" = "Une nouvelle quête de la <1>saison de l'Oiseau bleu</1> est disponible !";
 "new_seasonal_quest_available_ap27" = "Une nouvelle quête de la <1>saison Les deux braises (première partie)</1> est disponible !";

@@ -5893,6 +5893,8 @@
 "nature_vortex_hint_1" = "跟随光之生物前往漩涡。";
 "nature_vortex_how" = "可是为什么会有这么多垃圾流入大海？";
 "nature_wildlife_confirmation_text1" = "传送至云野峻岭";
+"nbox_radianceevent_33_0_body" = "冒险者们，您好！\n\n光辉活动已回归，持续至5月7日！黑色与黄色将更常从黑暗植物中出现，为各个国度带来彩色之光。你可以比平时更快收集这些染料，正好迎接即将到来的寻宝日！\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "冒险者们，您好！\n\n狂欢季已降临Sky！\n\n飞鸟村上空出现了一座巡回嘉年华！协助熟悉的先祖准备盛大开幕，并在季节期间解锁全新免费挑战道具。\n\n准备好迎接挑战了吗？共享空间新增挑战系统，让光之子可以创造自己的试炼。打造挑战惊艳好友，或挑战其他玩家的作品。难度越高，奖励越丰厚……\n\n尽情享受云端之上的旅程！\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "来自<1>彩染季</1>的一项新任务现已推出！";
 "new_seasonal_quest_available_ap26" = "新的<1>青鸟季</1>任务现已开放！";
 "new_seasonal_quest_available_ap27" = "<1>双星季：暮星篇</1>的新任务现已开放！";

@@ -5490,6 +5490,8 @@
 "nature_vortex_hint_1" = "Segui la creatura di luce fino al Vortice.";
 "nature_vortex_how" = "Ma come hanno fatto tutti questi rifiuti a finire nell'oceano?";
 "nature_wildlife_confirmation_text1" = "Teletrasportati alle Vette della Prateria";
+"nbox_radianceevent_33_0_body" = "Saluti, Avventurieri!\n\nL’evento Radioso è tornato fino al 7 maggio! I colori nero e giallo appariranno più spesso dalle Piante Oscure, che forniscono Luce Colorata in tutti i regni. Potrai raccogliere questi colori più rapidamente del solito, giusto in tempo per i prossimi Giorni del Tesoro!\n\n~thatgamecompany";
+"nbox_season_carnival_body" = "Saluti, Avventurieri!\n\nLa Stagione del Carnevale è arrivata in Sky!\n\nUn nuovo carnevale itinerante è stato avvistato sopra il Villaggio Aviary! Aiuta spiriti familiari a prepararlo per la grande apertura. Durante la stagione potrai sbloccare nuovi oggetti sfida gratuiti.\n\nSei pronto per una sfida? È stato aggiunto un nuovo sistema di sfide negli Spazi Condivisi, che permette ai Figli della Luce di creare le proprie prove. Crea una sfida per stupire i tuoi amici o affronta quelle degli altri giocatori. Più difficile è la sfida, più preziosa sarà la ricompensa…\n\nGoditi il tuo viaggio sopra le nuvole!\n\n~thatgamecompany";
 "new_seasonal_quest_available_ap25" = "Una nuova missione della <1>Stagione dello Splendore</1> è ora disponibile!";
 "new_seasonal_quest_available_ap26" = "Una nuova missione della <1>Stagione dell'Uccello Azzurro</1> è ora disponibile!";
 "new_seasonal_quest_available_ap27" = "Una nuova missione della <1>Stagione delle Due Braci - Parte 1</1> è ora disponibile!";
