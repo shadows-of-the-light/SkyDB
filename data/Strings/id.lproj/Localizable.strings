@@ -1690,6 +1690,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Tawarkan sebuah <candle/> untuk melihat <b>Episode Keempat</b> dari <2>Dua Bara Api</2>?";
 "cdnresources_downloading" = "Mengunduh konten terbaru...";
 "cdnresources_downloading_progress" = "Mengunduh konten terbaru ({{1}}/{2}})...";
+"challenge_add_ball_confirm_body" = "Setidaknya satu bola diperlukan untuk tantangan target.";
 "challenge_add_ball_confirm_title" = "Tambahkan bola ke ruangmu?";
 "challenge_allow_flight_toggle" = "Izinkan Terbang";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Tekan dan tahan <button type=\"menu_toggle\"/></1> untuk mengisi daya lemparan kamu";
@@ -1711,6 +1712,7 @@
 "challenge_failed_confirm_title" = "Tantangan Gagal";
 "challenge_limit_wing_count" = "Level Maksimum Cape";
 "challenge_limit_wing_toggle" = "Level Batas Cape";
+"challenge_radar_toggle" = "Seruan mengungkapkan target";
 "challenge_remove_button" = "Hapus Tantangan";
 "challenge_remove_confirm_body" = "Ini akan menghapus semua Tujuan Tantangan dari ruang ini.";
 "challenge_remove_confirm_title" = "Hapus Tantangan?";

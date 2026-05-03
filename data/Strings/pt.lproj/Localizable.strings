@@ -1688,6 +1688,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Oferecer uma <candle/> para assistir ao <b>Capítulo Quatro</b> de <2>As Duas Chamas</2>?";
 "cdnresources_downloading" = "Baixando o conteúdo mais recente...";
 "cdnresources_downloading_progress" = "Baixando o conteúdo mais recente ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "É necessária pelo menos uma bola para um desafio de alvo.";
 "challenge_add_ball_confirm_title" = "Adicionar uma bola ao seu espaço?";
 "challenge_allow_flight_toggle" = "Permitir voo";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Segure <button type=\"menu_toggle\"/></1> para carregar o arremesso";
@@ -1709,6 +1710,7 @@
 "challenge_failed_confirm_title" = "Você falhou no desafio";
 "challenge_limit_wing_count" = "Nv. máximo de capa";
 "challenge_limit_wing_toggle" = "Limitar nv. de capa";
+"challenge_radar_toggle" = "Um chamado revela os objetivos";
 "challenge_remove_button" = "Remover desafio";
 "challenge_remove_confirm_body" = "Isso removerá todos os Objetivos de Desafio deste espaço.";
 "challenge_remove_confirm_title" = "Remover desafio?";

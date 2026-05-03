@@ -2005,6 +2005,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> <candle/> を捧げ、<2>Sky ふたつの灯火 −前篇−</2> の<b>第4章</b>を鑑賞しますか？";
 "cdnresources_downloading" = "最新コンテンツをダウンロード中…";
 "cdnresources_downloading_progress" = "最新コンテンツ ダウンロード中 ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "ターゲットチャレンジには、少なくとも1つのボールが必要です。";
 "challenge_add_ball_confirm_title" = "あなたのスペースにボールを追加しますか？";
 "challenge_allow_flight_toggle" = "飛行を許可";
 "challenge_charge_failed_gamepad_tutorial" = "<1><button type=\"menu_toggle\"/>を長押し</1>で、狙いをさだめましょう";
@@ -2026,6 +2027,7 @@
 "challenge_failed_confirm_title" = "チャレンジ失敗";
 "challenge_limit_wing_count" = "ケープの最大レベル";
 "challenge_limit_wing_toggle" = "ケープのレベル制限";
+"challenge_radar_toggle" = "呼びかけで目標が現れます";
 "challenge_remove_button" = "チャレンジ削除";
 "challenge_remove_confirm_body" = "スペース内のチャレンジゴールも全て削除されます";
 "challenge_remove_confirm_title" = "チャレンジを削除しますか？";

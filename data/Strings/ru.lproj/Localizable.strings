@@ -1688,6 +1688,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Дать <candle/> и посмотреть <b>главу четвертую</b> <2>«Двух угольков»</2>?";
 "cdnresources_downloading" = "Загрузка последнего контента...";
 "cdnresources_downloading_progress" = "Загрузка последнего контента ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "Для испытания с целями требуется как минимум один мяч.";
 "challenge_add_ball_confirm_title" = "Добавить мяч в ваше пространство?";
 "challenge_allow_flight_toggle" = "Разрешить полёт";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Удерживайте <button type=\"menu_toggle\"/></1>, чтобы зарядить бросок";
@@ -1709,6 +1710,7 @@
 "challenge_failed_confirm_title" = "Испытание не пройдено";
 "challenge_limit_wing_count" = "Макс. уровень накидки";
 "challenge_limit_wing_toggle" = "Ограничить уровень накидки";
+"challenge_radar_toggle" = "Крик раскрывает цели";
 "challenge_remove_button" = "Удалить испытание";
 "challenge_remove_confirm_body" = "Это удалит все цели испытания из пространства.";
 "challenge_remove_confirm_title" = "Удалить испытание?";

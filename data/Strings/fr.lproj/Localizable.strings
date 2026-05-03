@@ -1690,6 +1690,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Offrir <candle/> pour regarder le <b>quatrième chapitre</b> des <2>Deux braises</2> ?";
 "cdnresources_downloading" = "Téléchargement du contenu le plus récent...";
 "cdnresources_downloading_progress" = "Téléchargement du contenu le plus récent ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "Au moins une balle est nécessaire pour un défi de cible.";
 "challenge_add_ball_confirm_title" = "Ajouter une balle à votre espace ?";
 "challenge_allow_flight_toggle" = "Permettre l'envol";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Maintenez <button type=\"menu_toggle\"/></1> pour charger votre lancer.";
@@ -1711,6 +1712,7 @@
 "challenge_failed_confirm_title" = "Défi échoué";
 "challenge_limit_wing_count" = "Niv. max de la cape";
 "challenge_limit_wing_toggle" = "Limiter le niv. de la cape";
+"challenge_radar_toggle" = "Un cri révèle les objectifs";
 "challenge_remove_button" = "Supprimer le défi";
 "challenge_remove_confirm_body" = "Tous les objectifs de défi disparaîtront de cet espace.";
 "challenge_remove_confirm_title" = "Supprimer le défi ?";

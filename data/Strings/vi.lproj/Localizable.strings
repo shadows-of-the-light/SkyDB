@@ -1708,6 +1708,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Tặng <candle/> để xem <b>Chương Bốn</b> của <2>Hai Ngọn Lửa</2>?";
 "cdnresources_downloading" = "Đang tải xuống nội dung mới nhất...";
 "cdnresources_downloading_progress" = "Đang tải xuống nội dung mới nhất ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "Cần ít nhất một quả bóng cho thử thách mục tiêu.";
 "challenge_add_ball_confirm_title" = "Thêm một quả bóng vào không gian của bạn?";
 "challenge_allow_flight_toggle" = "Cho phép Bay";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Nhấn giữ <button type=\"menu_toggle\"/></1> để nạp năng lượng cho cú ném";
@@ -1729,6 +1730,7 @@
 "challenge_failed_confirm_title" = "Thử Thách Thất Bại";
 "challenge_limit_wing_count" = "Lvl Áo Choàng Tối Đa";
 "challenge_limit_wing_toggle" = "Lvl Áo Choàng Đã Đến Giới Hạn";
+"challenge_radar_toggle" = "Tiếng gọi sẽ hé lộ các mục tiêu";
 "challenge_remove_button" = "Xóa Thử Thách";
 "challenge_remove_confirm_body" = "Thao tác này sẽ xóa tất cả Mục Tiêu Thử Thách khỏi đây.";
 "challenge_remove_confirm_title" = "Xóa Thử Thách?";

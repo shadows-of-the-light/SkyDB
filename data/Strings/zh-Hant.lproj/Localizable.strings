@@ -1698,6 +1698,7 @@
 "candlegate_cinema_te_ep_4" = "要<hinticon/>獻上一根<candle/>以觀看<2>《光遇・雙星》暮星篇</2>的<b>第四章</b>嗎？";
 "cdnresources_downloading" = "最新內容下載中...";
 "cdnresources_downloading_progress" = "最新內容下載中 ({{1}}/{{2}})……";
+"challenge_add_ball_confirm_body" = "目標挑戰至少需要一顆球。";
 "challenge_add_ball_confirm_title" = "要在你的空間中加入一顆球嗎？";
 "challenge_allow_flight_toggle" = "允許飛行";
 "challenge_charge_failed_gamepad_tutorial" = "<1>長按<button type=\"menu_toggle\"/></1>即可蓄力投擲";
@@ -1719,6 +1720,7 @@
 "challenge_failed_confirm_title" = "挑戰失敗";
 "challenge_limit_wing_count" = "最高斗篷等級";
 "challenge_limit_wing_toggle" = "限制斗篷等級";
+"challenge_radar_toggle" = "呼喊會揭示目標";
 "challenge_remove_button" = "移除挑戰";
 "challenge_remove_confirm_body" = "這將會移除此空間內所有的挑戰目標。";
 "challenge_remove_confirm_title" = "要移除挑戰嗎？";
@@ -3153,7 +3155,7 @@
 "daily_quest_help_spirit_started" = "幫<1>{{1}}</1>一個忙";
 "daily_quest_high_five_someone_desc" = "<b>和朋友擊掌</b>";
 "daily_quest_hold_someones_hand_desc" = "<b>和朋友牽手</b>";
-"daily_quest_honk_at_players_desc" = "<b>呼喚 5 位不同的玩家</b>";
+"daily_quest_honk_at_players_desc" = "對 5 位不同玩家發出叫聲";
 "daily_quest_hug_someone_desc" = "<b>和朋友擁抱</b>";
 "daily_quest_interact_with_invite_shrine_desc" = "<b>使用邀請神壇</b>";
 "daily_quest_join_a_group_of_3_desc" = "<b>和 3 個玩家組隊</b>";

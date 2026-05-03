@@ -1688,6 +1688,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Vuoi offrire una <candle/> per vedere il <b>Capitolo 4</b> de <2>Le due braci</2>?";
 "cdnresources_downloading" = "Scaricamento degli ultimi contenuti...";
 "cdnresources_downloading_progress" = "Scaricamento dei nuovi contenuti ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "È necessaria almeno una palla per una sfida a bersaglio.";
 "challenge_add_ball_confirm_title" = "Aggiungere una palla al tuo spazio?";
 "challenge_allow_flight_toggle" = "Consenti volo";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Tieni premuto <button type=\"menu_toggle\"/></1> per caricare il lancio";
@@ -1709,6 +1710,7 @@
 "challenge_failed_confirm_title" = "Sfida fallita";
 "challenge_limit_wing_count" = "Liv. max mantello";
 "challenge_limit_wing_toggle" = "Limita liv. mantello";
+"challenge_radar_toggle" = "Un richiamo rivela gli obiettivi";
 "challenge_remove_button" = "Elimina sfida";
 "challenge_remove_confirm_body" = "Tutti gli obiettivi della sfida verranno rimossi da questo spazio.";
 "challenge_remove_confirm_title" = "Vuoi eliminare la sfida?";

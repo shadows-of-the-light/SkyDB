@@ -1687,6 +1687,7 @@
 "candlegate_cinema_te_ep_4" = "¿<hinticon/>Ofrecer una <candle/> para ver el <b>capítulo cuatro</b> de <2>Las Dos Brasas</2>?";
 "cdnresources_downloading" = "Descargando el contenido más reciente...";
 "cdnresources_downloading_progress" = "Descargando el contenido más reciente ({{1}}/{{2}})…";
+"challenge_add_ball_confirm_body" = "Se necesita al menos una pelota para un desafío de objetivos.";
 "challenge_add_ball_confirm_title" = "¿Agregar una pelota a tu espacio?";
 "challenge_allow_flight_toggle" = "Permitir vuelo";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Mantén presionado <button type=\"menu_toggle\"/></1> para cargar tu lanzamiento.";
@@ -1708,6 +1709,7 @@
 "challenge_failed_confirm_title" = "Desafío fallido";
 "challenge_limit_wing_count" = "Nvl. máximo de capa";
 "challenge_limit_wing_toggle" = "Limitar nvl. de capa";
+"challenge_radar_toggle" = "Un grito revela los objetivos";
 "challenge_remove_button" = "Eliminar desafío";
 "challenge_remove_confirm_body" = "Esto eliminará los objetivos de los desafíos que hay en este espacio.";
 "challenge_remove_confirm_title" = "¿Quieres eliminar el desafío?";

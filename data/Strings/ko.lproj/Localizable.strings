@@ -1689,6 +1689,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/><candle/>를 바쳐 <2>두 개의 불씨</2> <b>4편</b>을 감상할까요?";
 "cdnresources_downloading" = "최신 콘텐츠 다운로드 중...";
 "cdnresources_downloading_progress" = "최신 콘텐츠 다운로드 중 ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "목표 도전을 위해서는 최소 하나의 공이 필요합니다.";
 "challenge_add_ball_confirm_title" = "당신의 공간에 공을 추가할까요?";
 "challenge_allow_flight_toggle" = "비행 허용";
 "challenge_charge_failed_gamepad_tutorial" = "<1><button type=\"menu_toggle\"/></1>을(를) 길게 눌러 던지기를 충전하세요";
@@ -1710,6 +1711,7 @@
 "challenge_failed_confirm_title" = "챌린지 실패";
 "challenge_limit_wing_count" = "최대 망토 레벨";
 "challenge_limit_wing_toggle" = "망토 레벨 제한";
+"challenge_radar_toggle" = "외침이 목표를 드러냅니다";
 "challenge_remove_button" = "챌린지 제거";
 "challenge_remove_confirm_body" = "이 공간에서 모든 챌린지 목표가 제거됩니다.";
 "challenge_remove_confirm_title" = "챌린지를 제거할까요?";

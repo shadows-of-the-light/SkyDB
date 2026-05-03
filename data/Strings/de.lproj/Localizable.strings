@@ -1687,6 +1687,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> Eine <candle/> anbieten, um <b>Kapitel Vier</b> von <2>Die zwei Glutnester</2> zu sehen?";
 "cdnresources_downloading" = "Lade neuesten inhalt herunter...";
 "cdnresources_downloading_progress" = "Neuester Inhalt wird heruntergeladen ({{1}}/{{2}}) ...";
+"challenge_add_ball_confirm_body" = "Für eine Zielherausforderung wird mindestens ein Ball benötigt.";
 "challenge_add_ball_confirm_title" = "Einen Ball zu deinem Raum hinzufügen?";
 "challenge_allow_flight_toggle" = "Fliegen erlauben";
 "challenge_charge_failed_gamepad_tutorial" = "<1>Halte <button type=\"menu_toggle\"/></1> gedrückt, um deinen Wurf aufzuladen";
@@ -1708,6 +1709,7 @@
 "challenge_failed_confirm_title" = "Herausforderung fehlgeschlagen";
 "challenge_limit_wing_count" = "Max. Umhangstufe";
 "challenge_limit_wing_toggle" = "Umhangstufe limitieren";
+"challenge_radar_toggle" = "Rufen enthüllt Ziele";
 "challenge_remove_button" = "Herausforderung entfernen";
 "challenge_remove_confirm_body" = "Dies wird alle Herausforderungsziele von diesem Ort entfernen.";
 "challenge_remove_confirm_title" = "Herausforderung entfernen?";

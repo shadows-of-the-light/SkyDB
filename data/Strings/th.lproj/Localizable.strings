@@ -1719,6 +1719,7 @@
 "candlegate_cinema_te_ep_4" = "<hinticon/> เสนอ <candle/> ให้รับชม<b>บทที่ 4</b> ของ<2>ถ่านเพลิงคู่</2>หรือไม่";
 "cdnresources_downloading" = "กำลังดาวน์โหลดเนื้อหาล่าสุด";
 "cdnresources_downloading_progress" = "กำลังดาวน์โหลดเนื้อห���ล่าสุด ({{1}}/{{2}})...";
+"challenge_add_ball_confirm_body" = "จำเป็นต้องมีลูกบอลอย่างน้อยหนึ่งลูกสำหรับความท้าทายเป้าหมาย";
 "challenge_add_ball_confirm_title" = "เพิ่มลูกบอลในพื้นที่ของคุณไหม?";
 "challenge_allow_flight_toggle" = "อนุญาตให้บิน";
 "challenge_charge_failed_gamepad_tutorial" = "<1>กด <button type=\"menu_toggle\"/></1></1> ค้างไว้เพื่อชาร์จแรงขว้าง";
@@ -1740,6 +1741,7 @@
 "challenge_failed_confirm_title" = "ความท้าทายล้มเหลว";
 "challenge_limit_wing_count" = "เลเวลเสื้อคลุมสูงสุด";
 "challenge_limit_wing_toggle" = "ขีดจำกัดเลเวลเสื้อคลุม";
+"challenge_radar_toggle" = "เสียงตะโกนจะเผยเป้าหมาย";
 "challenge_remove_button" = "ลบความท้าทาย";
 "challenge_remove_confirm_body" = "การดำเนินการนี้จะลบเป้าหมายความท้าทายทั้งหมดออกจากพื้นที่นี้";
 "challenge_remove_confirm_title" = "ลบความท้าทายหรือไม่";
